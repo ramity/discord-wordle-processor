@@ -10,8 +10,14 @@ class MyClient(discord.Client):
         print(f'Logged on as {self.user}!')
         print(f'Pulling messages from #wordle textchannel.')
 
+        messages = {}
         channel = self.get_wordle_channel()
-        messages = [message.content async for message in channel.history(limit=4000, oldest_first=True)]
+
+        async for message in channel.history(limit=4000, oldest_first=True):
+            author = message.author.name
+            if author not in messages:
+                messages[author] = []
+            messages[author].append(message.content)
 
         print(f'Loaded all messages.')
 
