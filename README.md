@@ -34,7 +34,7 @@ To start your bot (which scrapes your "wordle" text channel and produces a `dump
 
 ```
 docker exec -it discord_bot bash
-python bot.py
+python scrape.py
 ```
 
 To process the created `dump.pkl` file

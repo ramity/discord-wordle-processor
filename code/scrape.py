@@ -8,13 +8,19 @@ handler = logging.FileHandler(filename='discord.log', encoding='utf-8', mode='w'
 class MyClient(discord.Client):
     async def on_ready(self):
         print(f'Logged on as {self.user}!')
+        print(f'Pulling messages from #wordle textchannel.')
 
         channel = self.get_wordle_channel()
         messages = [message.content async for message in channel.history(limit=4000, oldest_first=True)]
 
+        print(f'Loaded all messages.')
+
         with open('dump.pkl', 'wb') as f:
             pickle.dump(messages, f)
-        
+
+        print(f'Saved all messages.')
+        print(f'Exiting.')
+
         await self.close()
 
     def get_wordle_channel(self):
