@@ -32,7 +32,7 @@ class MyClient(discord.Client):
     def get_wordle_channel(self):
         for server in self.guilds:
             for channel in server.channels:
-                if str(channel.type) == 'text' and str(channel.name) == 'wordle':
+                if str(channel.type) == 'text' and str(channel.name) == os.getenv('CHANNEL')':
                     return channel
 
 intents = discord.Intents.default()

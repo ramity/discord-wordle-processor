@@ -20,7 +20,7 @@ git clone https://github.com/ramity/discord-wordle-processor.git
 
 Follow these [steps](https://www.writebots.com/discord-bot-token/) to integrate your self hosted bot.
 
-Create the needed `.env` file in `docker/python/` directory with `TOKEN` defined.
+Create the needed `.env` file in `docker/python/` directory with `TOKEN` set to the bot's token and `CHANNEL` to the name of the text channel you wish to scrape.
 
 # Start
 
