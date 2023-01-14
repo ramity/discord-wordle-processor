@@ -90,7 +90,7 @@ for author, results in results_obj.items():
     score += results_bins[author]['5'] * 5
     score += results_bins[author]['6'] * 6
     score += results_bins[author]['X'] * 7
-    results_bins[author]['score'] = round((score / results_bins[author]['count']) * 100, 1)
+    results_bins[author]['score'] = round((score / results_bins[author]['count']), 2)
 
 # Use bin frequency / total count to calculate bin rate
 for author, results in results_obj.items():
@@ -117,5 +117,5 @@ for author, results in results_bins.items():
     output += str(results['5%']) + '\t'
     output += str(results['6%']) + '\t'
     output += str(results['X%']) + '\t'
-    output += str(results['score'])
+    output += '{:.2f}'.format(results['score'])
     print(output)
