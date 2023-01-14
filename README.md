@@ -37,9 +37,32 @@ docker exec -it discord_bot bash
 python scrape.py
 ```
 
+> Example output displayed below:
+
+```
+Logged on as WordleBot#9999!
+Pulling messages from #wordle textchannel.
+Loaded all messages.
+Saved all messages.
+Exiting.
+```
+
 To process the created `dump.pkl` file
 
 ```
 docker exec -it discord_bot bash
 python process.py
+```
+
+> Example output displayed below:
+
+```
+Name            1%      2%      3%      4%      5%      6%      X%      score
+-----------------------------------------------------------------------------
+DB2             0.0     7.6     25.7    41.3    17.4    5.6     2.4     394.8
+Cuddles         0.0     4.1     27.0    40.1    19.1    8.2     1.5     404.9
+WannaBePro      0.0     6.7     26.5    32.8    21.8    9.7     2.5     408.8
+BigRed          0.0     5.4     24.3    39.6    22.8    6.4     1.5     405.0
+crazyism        0.0     0.0     40.0    20.0    20.0    10.0    10.0    430.0
+Buck 50         0.0     100.0   0.0     0.0     0.0     0.0     0.0     200.0
 ```
