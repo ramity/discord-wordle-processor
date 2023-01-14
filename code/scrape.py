@@ -8,7 +8,7 @@ handler = logging.FileHandler(filename='discord.log', encoding='utf-8', mode='w'
 class MyClient(discord.Client):
     async def on_ready(self):
         print(f'Logged on as {self.user}!')
-        print('Pulling messages from #' + os.getenv('CHANNEL') + ' textchannel.')
+        print('Pulling messages from #' + str(os.getenv('CHANNEL')) + ' textchannel.')
 
         messages = {}
         channel = self.get_wordle_channel()
@@ -32,7 +32,7 @@ class MyClient(discord.Client):
     def get_wordle_channel(self):
         for server in self.guilds:
             for channel in server.channels:
-                if str(channel.type) == 'text' and str(channel.name) == os.getenv('CHANNEL'):
+                if str(channel.type) == 'text' and str(channel.name) == str(os.getenv('CHANNEL')):
                     return channel
 
 intents = discord.Intents.default()
