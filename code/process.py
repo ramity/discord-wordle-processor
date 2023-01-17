@@ -105,8 +105,8 @@ for author, results in results_obj.items():
     results_bins[author]['X%'] = round((results_bins[author]['X'] / results_bins[author]['count']) * 100, 1)
 
 # Fancy print the results
-print('Name\r\t\t1%\t2%\t3%\t4%\t5%\t6%\tX%\tscore')
-print('-'*77)
+print('Name\r\t\t1%\t2%\t3%\t4%\t5%\t6%\tX%\tcount\tscore')
+print('-'*87)
 for author, results in results_bins.items():
     output = ''
     output += author + '\r\t\t'
@@ -117,5 +117,6 @@ for author, results in results_bins.items():
     output += str(results['5%']) + '\t'
     output += str(results['6%']) + '\t'
     output += str(results['X%']) + '\t'
+    output += str(results_bins[author]['count']) + '\t'
     output += '{:.2f}'.format(results['score'])
     print(output)
