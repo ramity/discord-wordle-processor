@@ -1,3 +1,8 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.pyc
+
+# Environment, data, and log files
 *.env
 *.pkl
 *.log
