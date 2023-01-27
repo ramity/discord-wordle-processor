@@ -13,7 +13,7 @@ class MyClient(discord.Client):
         messages = {}
         channel = self.get_wordle_channel()
 
-        async for message in channel.history(limit=4000, oldest_first=True):
+        async for message in channel.history(limit=os.getenv('LIMIT'), oldest_first=True):
             author = message.author.name
             if author not in messages:
                 messages[author] = []
