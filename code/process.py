@@ -25,192 +25,229 @@ wordle_characters = [
     orange_square
 ]
 
+# Query user for output format
 
-with open('dump.pkl', 'rb') as f, open('wordles.txt', 'rb') as g:
+while(True):
 
-    message_collections = pickle.load(f)
+    output_prompt = '\n'
+    output_prompt += 'Select an output type (type the corresponding number key and press enter).\n'
+    output_prompt += '[0] - Short\n'
+    output_prompt += '[1] - Average results\n'
+    output_prompt += '[2] - Average values\n'
+    output_prompt += '[3] - Full\n'
+    output_prompt += '\n'
 
-    WordleStats().print_header()
+    try:
+        output_type = input(output_prompt)
+    except KeyboardInterrupt:
+        sys.stdout.write('\r')
+        sys.exit(1)
 
-    for author, message_collection_obj in message_collections.items():
+    if output_type != '0' and output_type != '1' and output_type != '2' and output_type != '3':
+        print(f'\nInvalid input: {output_type}')
+        continue
+    else:
+        print()
+    
+    if output_type == '0':
+        WordleStats().print_short_header()
+    elif output_type == '1':
+        WordleStats().print_avg_results_header()
+    elif output_type == '2':
+        WordleStats().print_avg_values_header()
+    elif output_type == '3':
+        WordleStats().print_full_header()
 
-        # Streak variables
-        current_streak = 0
-        max_streak = 0
-        last_wordle_id = None
+    with open('dump.pkl', 'rb') as f, open('wordles.txt', 'rb') as g:
 
-        stats = message_collection_obj.stats
-        message_count = len(message_collection_obj.messages)
-        # print(f'{author} message count: {message_count}')
+        message_collections = pickle.load(f)
 
-        for message_index in range(0, message_count):
+        for author, message_collection_obj in message_collections.items():
 
-            message_obj = message_collection_obj.messages[message_index]
+            # Streak variables
+            current_streak = 0
+            max_streak = 0
+            last_wordle_id = None
 
-            # Check if message contains any of the used wordle characters
-            found = False
-            for wordle_character in wordle_characters:
-                if wordle_character in message_obj.content:
-                    found = True
-                    break
+            stats = message_collection_obj.stats
+            message_count = len(message_collection_obj.messages)
+            # print(f'{author} message count: {message_count}')
 
-            # Skip processing if message does not contain a wordle character
-            if not found:
-                continue
+            for message_index in range(0, message_count):
 
-            # Skip processing if message does not start with Wordle
-            if not message_obj.content.startswith('Wordle'):
-                continue
+                message_obj = message_collection_obj.messages[message_index]
 
-            # This message is definitely a wordle share result
-            message_obj.wordle_share_detected = True
-            wordle_result_obj = WordleResult()
+                # Check if message contains any of the used wordle characters
+                found = False
+                for wordle_character in wordle_characters:
+                    if wordle_character in message_obj.content:
+                        found = True
+                        break
 
-            # Increase n by one
-            stats.n += 1
+                # Skip processing if message does not contain a wordle character
+                if not found:
+                    continue
 
-            # Extract ID
-            bits = message_obj.content.split(' ')
-            wordle_id = int(bits[1])
-            wordle_result_obj.wordle_id = wordle_id
+                # Skip processing if message does not start with Wordle
+                if not message_obj.content.startswith('Wordle'):
+                    continue
 
-            # Get desired word from ID from wordle answer file
-            g.seek(5 * wordle_id, 0)
-            wordle_result_obj.desired_word = g.read(5)
+                # This message is definitely a wordle share result
+                message_obj.wordle_share_detected = True
+                wordle_result_obj = WordleResult()
 
-            # Extract number of guesses and hard mode character
-            result = bits[2].split('\n')[0]
-            guesses = result[0]
-            wordle_result_obj.guesses = guesses
-            wordle_result_obj.hard_mode = True if result[-1] == '*' else False
+                # Increase n by one
+                stats.n += 1
 
-            # Extracting emoji output:
-            guess_lines = []
-            bits = message_obj.content.split('\n')
+                # Extract ID
+                bits = message_obj.content.split(' ')
+                wordle_id = int(bits[1])
+                wordle_result_obj.wordle_id = wordle_id
 
-            # Determine number of lines to process
-            line_count = len(bits)
-            if guesses == '6' or guesses == 'X':
-                line_count = 8
-            else:
-                line_count = int(guesses) + 2
+                # Get desired word from ID from wordle answer file
+                g.seek(5 * wordle_id, 0)
+                wordle_result_obj.desired_word = g.read(5)
 
-            # Skip the first two newline characters
-            for index in range(2, line_count):
+                # Extract number of guesses and hard mode character
+                result = bits[2].split('\n')[0]
+                guesses = result[0]
+                wordle_result_obj.guesses = guesses
+                wordle_result_obj.hard_mode = True if result[-1] == '*' else False
 
-                guess_line = bits[index]
+                # Extracting emoji output:
+                guess_lines = []
+                bits = message_obj.content.split('\n')
 
-                # Store the guess characters
-                wordle_result_obj.guess_lines.append(guess_line)
+                # Determine number of lines to process
+                line_count = len(bits)
+                if guesses == '6' or guesses == 'X':
+                    line_count = 8
+                else:
+                    line_count = int(guesses) + 2
 
-                # Quantify the value of the guess and store into stats
-                value = 0
-                value += guess_line.count(yellow_square) * 0.5
-                value += guess_line.count(blue_square) * 0.5
-                value += guess_line.count(green_square)
-                value += guess_line.count(orange_square)
-                wordle_result_obj.guess_values.append(value)
+                # Skip the first two newline characters
+                for index in range(2, line_count):
 
-                # Check off_by_one criteria
-                if guesses != 'X' and value >= 3.5 and int(guesses) == index:
-                    wordle_result_obj.off_by_one = True
-                    stats.off_by_one_count += 1
+                    guess_line = bits[index]
 
-                # Update wordle stats with above information
-                if index == 2:
-                    stats.total_1_value += value
-                    stats.total_1_guesses += 1
-                elif index == 3:
-                    stats.total_2_value += value
-                    stats.total_2_guesses += 1
-                elif index == 4:
-                    stats.total_3_value += value
-                    stats.total_3_guesses += 1
-                elif index == 5:
-                    stats.total_4_value += value
-                    stats.total_4_guesses += 1
-                elif index == 6:
-                    stats.total_5_value += value
-                    stats.total_5_guesses += 1
-                elif index == 7:
-                    stats.total_6_value += value
-                    stats.total_6_guesses += 1
+                    # Store the guess characters
+                    wordle_result_obj.guess_lines.append(guess_line)
 
-            # Update guess totals
-            if guesses == '1':
-                stats.total_1_results += 1
-            elif guesses == '2':
-                stats.total_2_results += 1
-            elif guesses == '3':
-                stats.total_3_results += 1
-            elif guesses == '4':
-                stats.total_4_results += 1
-            elif guesses == '5':
-                stats.total_5_results += 1
-            elif guesses == '6':
-                stats.total_6_results += 1
-            elif guesses == 'X':
-                stats.total_X_results += 1
-            else:
-                sys.exit("Unsupported result entered: (?/6)")
+                    # Quantify the value of the guess and store into stats
+                    value = 0
+                    value += guess_line.count(yellow_square) * 0.5
+                    value += guess_line.count(blue_square) * 0.5
+                    value += guess_line.count(green_square)
+                    value += guess_line.count(orange_square)
+                    wordle_result_obj.guess_values.append(value)
 
-            # Increment if starting streak or current wordle_id is consecutive
-            #   >= to handle cases where duplicate wordle posting
-            if current_streak == 0 or last_wordle_id >= wordle_id - 1:
-                current_streak += 1
-            else:
-                # Update max_streak if current_streak is larger
-                if current_streak > max_streak:
-                    max_streak = current_streak
+                    # Check off_by_one criteria
+                    if guesses != 'X' and value >= 3.5 and int(guesses) == index:
+                        wordle_result_obj.off_by_one = True
+                        stats.off_by_one_count += 1
 
-                # reset streak
-                current_streak = 0
+                    # Update wordle stats with above information
+                    if index == 2:
+                        stats.total_1_value += value
+                        stats.total_1_guesses += 1
+                    elif index == 3:
+                        stats.total_2_value += value
+                        stats.total_2_guesses += 1
+                    elif index == 4:
+                        stats.total_3_value += value
+                        stats.total_3_guesses += 1
+                    elif index == 5:
+                        stats.total_4_value += value
+                        stats.total_4_guesses += 1
+                    elif index == 6:
+                        stats.total_5_value += value
+                        stats.total_5_guesses += 1
+                    elif index == 7:
+                        stats.total_6_value += value
+                        stats.total_6_guesses += 1
 
-            last_wordle_id = wordle_id
+                # Update guess totals
+                if guesses == '1':
+                    stats.total_1_results += 1
+                elif guesses == '2':
+                    stats.total_2_results += 1
+                elif guesses == '3':
+                    stats.total_3_results += 1
+                elif guesses == '4':
+                    stats.total_4_results += 1
+                elif guesses == '5':
+                    stats.total_5_results += 1
+                elif guesses == '6':
+                    stats.total_6_results += 1
+                elif guesses == 'X':
+                    stats.total_X_results += 1
+                else:
+                    sys.exit("Unsupported result entered: (?/6)")
 
-            # Add populated wordle_result to message class
-            message_obj.wordle_result = wordle_result_obj
-        
-        # Update max_streak if current_streak is larger
-        if current_streak > max_streak:
-            max_streak = current_streak
+                # Increment if starting streak or current wordle_id is consecutive
+                #   >= to handle cases where duplicate wordle posting
+                if current_streak == 0 or last_wordle_id >= wordle_id - 1:
+                    current_streak += 1
+                else:
+                    # Update max_streak if current_streak is larger
+                    if current_streak > max_streak:
+                        max_streak = current_streak
 
-        stats.current_streak = current_streak
-        stats.max_streak = max_streak
+                    # reset streak
+                    current_streak = 0
 
-        # Calculate average stats
-        if stats.n != 0:
+                last_wordle_id = wordle_id
 
-            stats.score += stats.total_1_results
-            stats.score += stats.total_2_results * 2
-            stats.score += stats.total_3_results * 3
-            stats.score += stats.total_4_results * 4
-            stats.score += stats.total_5_results * 5
-            stats.score += stats.total_6_results * 6
-            stats.score += stats.total_X_results * 7
-            stats.score = round(stats.score / stats.n, 2) 
+                # Add populated wordle_result to message class
+                message_obj.wordle_result = wordle_result_obj
+            
+            # Update max_streak if current_streak is larger
+            if current_streak > max_streak:
+                max_streak = current_streak
 
-            stats.avg_off_by_one_count = round(100 * (stats.off_by_one_count / stats.n), 2)
+            stats.current_streak = current_streak
+            stats.max_streak = max_streak
 
-            stats.avg_1_results = round(100 * (stats.total_1_results / stats.n), 2)
-            stats.avg_2_results = round(100 * (stats.total_2_results / stats.n), 2)
-            stats.avg_3_results = round(100 * (stats.total_3_results / stats.n), 2)
-            stats.avg_4_results = round(100 * (stats.total_4_results / stats.n), 2)
-            stats.avg_5_results = round(100 * (stats.total_5_results / stats.n), 2)
-            stats.avg_6_results = round(100 * (stats.total_6_results / stats.n), 2)
-            stats.avg_X_results = round(100 * (stats.total_X_results / stats.n), 2)
+            # Calculate average stats
+            if stats.n != 0:
 
-            if stats.total_1_guesses:
-                stats.avg_1_value = round(stats.total_1_value / stats.total_1_guesses, 2)
-            if stats.total_2_guesses:
-                stats.avg_2_value = round(stats.total_2_value / stats.total_2_guesses, 2)
-            if stats.total_3_guesses:
-                stats.avg_3_value = round(stats.total_3_value / stats.total_3_guesses, 2)
-            if stats.total_4_guesses:
-                stats.avg_4_value = round(stats.total_4_value / stats.total_4_guesses, 2)
-            if stats.total_5_guesses:
-                stats.avg_5_value = round(stats.total_5_value / stats.total_5_guesses, 2)
-            if stats.total_6_guesses:
-                stats.avg_6_value = round(stats.total_6_value / stats.total_6_guesses, 2)
+                stats.score += stats.total_1_results
+                stats.score += stats.total_2_results * 2
+                stats.score += stats.total_3_results * 3
+                stats.score += stats.total_4_results * 4
+                stats.score += stats.total_5_results * 5
+                stats.score += stats.total_6_results * 6
+                stats.score += stats.total_X_results * 7
+                stats.score = round(stats.score / stats.n, 2) 
 
-            stats.print(author)
+                stats.avg_off_by_one_count = round(100 * (stats.off_by_one_count / stats.n), 2)
+
+                stats.avg_1_results = round(100 * (stats.total_1_results / stats.n), 2)
+                stats.avg_2_results = round(100 * (stats.total_2_results / stats.n), 2)
+                stats.avg_3_results = round(100 * (stats.total_3_results / stats.n), 2)
+                stats.avg_4_results = round(100 * (stats.total_4_results / stats.n), 2)
+                stats.avg_5_results = round(100 * (stats.total_5_results / stats.n), 2)
+                stats.avg_6_results = round(100 * (stats.total_6_results / stats.n), 2)
+                stats.avg_X_results = round(100 * (stats.total_X_results / stats.n), 2)
+
+                if stats.total_1_guesses:
+                    stats.avg_1_value = round(stats.total_1_value / stats.total_1_guesses, 2)
+                if stats.total_2_guesses:
+                    stats.avg_2_value = round(stats.total_2_value / stats.total_2_guesses, 2)
+                if stats.total_3_guesses:
+                    stats.avg_3_value = round(stats.total_3_value / stats.total_3_guesses, 2)
+                if stats.total_4_guesses:
+                    stats.avg_4_value = round(stats.total_4_value / stats.total_4_guesses, 2)
+                if stats.total_5_guesses:
+                    stats.avg_5_value = round(stats.total_5_value / stats.total_5_guesses, 2)
+                if stats.total_6_guesses:
+                    stats.avg_6_value = round(stats.total_6_value / stats.total_6_guesses, 2)
+                
+                if output_type == '0':
+                    stats.print_short(author)
+                elif output_type == '1':
+                    stats.print_avg_results(author)
+                elif output_type == '2':
+                    stats.print_avg_values(author)
+                elif output_type == '3':
+                    stats.print_full(author)

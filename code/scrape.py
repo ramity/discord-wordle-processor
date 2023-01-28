@@ -13,7 +13,7 @@ class MyClient(discord.Client):
 
         # Print some verbose messages to console
         print('Logged on as ' + str(self.user))
-        print('Pulling messages from #' + str(os.getenv('CHANNEL')) + ' text channel')
+        print('Pulling messages from the #' + str(os.getenv('CHANNEL')) + ' text channel')
 
         output = {}
         channel = self.get_wordle_channel()
