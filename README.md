@@ -10,35 +10,35 @@ Discord Wordle Processor
 
 ```
 Name            Count   Score   Streak  Max     Oby1    Oby1%
-DB2             303     3.95    39      52      104     34.32
-Cuddles         280     4.06    5       32      76      27.14
-WannaBePro      253     4.08    48      63      77      30.43
-BigRed          209     4.04    2       20      74      35.41
-crazyism        10      4.3     1       2       3       30.0
+DB2             328     3.95    64      64      117     35.67
+Cuddles         306     4.08    31      32      84      27.45
+WannaBePro      277     4.1     23      63      88      31.77
+BigRed          222     4.06    1       20      82      36.94
+crazyism        13      4.31    0       2       4       30.77
 Buck 50         1       2.0     1       1       0       0.0
-PastorMeatSauce 1       4.0     1       1       0       0.0
+PastorMeatSauce 26      4.08    2       21      10      38.46
 ```
 
 ```
 Name            Count   1%      2%      3%      4%      5%      6%      X%
-DB2             303     0.0     7.59    26.07   40.92   17.16   5.94    2.31
-Cuddles         280     0.0     3.93    26.43   40.36   19.64   8.21    1.43
-WannaBePro      253     0.0     6.72    26.88   33.2    20.95   9.88    2.37
-BigRed          209     0.0     5.74    24.4    39.23   22.97   6.22    1.44
-crazyism        10      0.0     0.0     40.0    20.0    20.0    10.0    10.0
+DB2             328     0.0     7.01    26.83   40.55   17.68   5.79    2.13
+Cuddles         306     0.0     3.59    25.49   40.85   20.59   7.84    1.63
+WannaBePro      277     0.0     6.86    25.63   33.21   21.3    10.47   2.53
+BigRed          222     0.0     5.41    23.87   39.64   22.97   6.76    1.35
+crazyism        13      0.0     7.69    30.77   15.38   23.08   15.38   7.69
 Buck 50         1       0.0     100.0   0.0     0.0     0.0     0.0     0.0
-PastorMeatSauce 1       0.0     0.0     0.0     100.0   0.0     0.0     0.0
+PastorMeatSauce 26      0.0     3.85    26.92   42.31   11.54   15.38   0.0
 ```
 
 ```
 Name            Count   1 val   2 val   3 val   4 val   5 val   6 val
-DB2             303     1.14    2.33    3.44    4.39    4.56    4.68
-Cuddles         280     1.1     2.1     3.28    4.16    4.37    4.83
-WannaBePro      253     1.05    2.15    3.27    3.99    4.35    4.77
-BigRed          209     1.22    2.15    3.27    4.22    4.67    4.75
-crazyism        10      1.4     1.5     3.55    3.67    4.5     4.5
+DB2             328     1.16    2.33    3.47    4.38    4.57    4.69
+Cuddles         306     1.07    2.08    3.24    4.17    4.39    4.81
+WannaBePro      277     1.05    2.16    3.25    3.98    4.3     4.75
+BigRed          222     1.25    2.15    3.27    4.23    4.65    4.78
+crazyism        13      1.42    1.85    3.42    3.44    4.33    4.67
 Buck 50         1       2.0     5.0     0       0       0       0
-PastorMeatSauce 1       0.5     1.5     3.0     5.0     0       0
+PastorMeatSauce 26      1.06    2.23    3.52    4.36    4.14    5.0
 ```
 
 # Requirements
@@ -127,13 +127,13 @@ Select an output type (type the corresponding number key and press enter).
 0
 
 Name            Count   Score   Streak  Max     Oby1    Oby1%
-DB2             303     3.95    39      52      104     34.32
-Cuddles         280     4.06    5       32      76      27.14
-WannaBePro      253     4.08    48      63      77      30.43
-BigRed          209     4.04    2       20      74      35.41
-crazyism        10      4.3     1       2       3       30.0
+DB2             328     3.95    64      64      117     35.67
+Cuddles         306     4.08    31      32      84      27.45
+WannaBePro      277     4.1     23      63      88      31.77
+BigRed          222     4.06    1       20      82      36.94
+crazyism        13      4.31    0       2       4       30.77
 Buck 50         1       2.0     1       1       0       0.0
-PastorMeatSauce 1       4.0     1       1       0       0.0
+PastorMeatSauce 26      4.08    2       21      10      38.46
 ```
 
 When complete, exit the container via the `exit` command.
