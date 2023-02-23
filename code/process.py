@@ -44,12 +44,12 @@ while(True):
         sys.stdout.write('\r')
         sys.exit(1)
 
-    if output_type != '0' and output_type != '1' and output_type != '2' and output_type != '3':
+    if output_type != '0' and output_type != '1' and output_type != '2' and output_type != '3' and output_type != '4':
         print(f'\nInvalid input: {output_type}')
         continue
     else:
         print()
-    
+
     if output_type == '0':
         WordleStats().print_short_header()
     elif output_type == '1':
@@ -189,18 +189,17 @@ while(True):
                 else:
                     sys.exit("Unsupported result entered: {}".format(guesses))
 
-                # Increment if starting streak or current wordle_id is consecutive
-                #   >= to handle cases where duplicate wordle posting
+                # Combined streak check
                 if (post_streak == 0 or last_wordle_id >= wordle_id - 1) and (x_less_streak == 0 or guesses != 'X'):
                     combined_streak += 1
 
+                # Post streak check
                 if post_streak == 0 or last_wordle_id >= wordle_id - 1:
                     post_streak += 1
                 else:
-                    # Update max_streaks if current_streaks are larger
+                    # Update max_streaks
                     if post_streak > max_post_streak:
                         max_post_streak = post_streak
-
                     if combined_streak > max_combined_streak:
                         max_combined_streak = combined_streak
 
@@ -208,15 +207,16 @@ while(True):
                     post_streak = 0
                     combined_streak = 0
 
+                # X-less streak check
                 if x_less_streak == 0 or guesses != 'X':
                     x_less_streak += 1
                 else:
+                    # Update max streaks
                     if x_less_streak > max_x_less_streak:
                         max_x_less_streak = x_less_streak
-                    
                     if combined_streak > max_combined_streak:
                         max_combined_streak = combined_streak
-                    
+
                     # reset streaks
                     x_less_streak = 0
                     combined_streak = 0
@@ -225,7 +225,7 @@ while(True):
 
                 # Add populated wordle_result to message class
                 message_obj.wordle_result = wordle_result_obj
-            
+
             # Update max streaks if current streaks are larger
             if post_streak > max_post_streak:
                 max_post_streak = post_streak
@@ -252,7 +252,7 @@ while(True):
                 stats.score += stats.total_5_results * 5
                 stats.score += stats.total_6_results * 6
                 stats.score += stats.total_X_results * 7
-                stats.score = round(stats.score / stats.n, 2) 
+                stats.score = round(stats.score / stats.n, 2)
 
                 stats.avg_off_by_one_count = round(100 * (stats.off_by_one_count / stats.n), 2)
 
@@ -276,7 +276,7 @@ while(True):
                     stats.avg_5_value = round(stats.total_5_value / stats.total_5_guesses, 2)
                 if stats.total_6_guesses:
                     stats.avg_6_value = round(stats.total_6_value / stats.total_6_guesses, 2)
-                
+
                 if output_type == '0':
                     stats.print_short(author)
                 elif output_type == '1':
