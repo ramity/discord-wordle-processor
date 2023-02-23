@@ -9,14 +9,14 @@ Discord Wordle Processor
 # Example outputs
 
 ```
-Name            Count   Score   Streak  Max     Oby1    Oby1%
-DB2             328     3.95    64      64      117     35.67
-Cuddles         306     4.08    31      32      84      27.45
-WannaBePro      277     4.1     23      63      88      31.77
-BigRed          222     4.06    1       20      82      36.94
-crazyism        13      4.31    0       2       4       30.77
-Buck 50         1       2.0     1       1       0       0.0
-PastorMeatSauce 26      4.08    2       21      10      38.46
+Name            Count   Score   Oby1    Oby1%
+DB2             328     3.95    117     35.67
+Cuddles         306     4.08    84      27.45
+WannaBePro      277     4.1     88      31.77
+BigRed          222     4.06    82      36.94
+crazyism        13      4.31    4       30.77
+Buck 50         1       2.0     0       0.0
+PastorMeatSauce 26      4.08    10      38.46
 ```
 
 ```
@@ -39,6 +39,17 @@ BigRed          222     1.25    2.15    3.27    4.23    4.65    4.78
 crazyism        13      1.42    1.85    3.42    3.44    4.33    4.67
 Buck 50         1       2.0     5.0     0       0       0       0
 PastorMeatSauce 26      1.06    2.23    3.52    4.36    4.14    5.0
+```
+
+```
+Name            x-less st.      max x-less st.  post st.        max post st.    combined st.    max combined st.
+DB2             97              126             64              64              64              64
+Cuddles         0               131             31              32              0               30
+WannaBePro      4               115             23              63              4               48
+BigRed          84              84              1               20              1               20
+crazyism        5               7               0               2               0               2
+Buck 50         1               1               1               1               1               1
+PastorMeatSauce 26              26              2               21              2               21
 ```
 
 # Requirements
@@ -126,14 +137,14 @@ Select an output type (type the corresponding number key and press enter).
 
 0
 
-Name            Count   Score   Streak  Max     Oby1    Oby1%
-DB2             328     3.95    64      64      117     35.67
-Cuddles         306     4.08    31      32      84      27.45
-WannaBePro      277     4.1     23      63      88      31.77
-BigRed          222     4.06    1       20      82      36.94
-crazyism        13      4.31    0       2       4       30.77
-Buck 50         1       2.0     1       1       0       0.0
-PastorMeatSauce 26      4.08    2       21      10      38.46
+Name            Count   Score   Oby1    Oby1%
+DB2             328     3.95    117     35.67
+Cuddles         306     4.08    84      27.45
+WannaBePro      277     4.1     88      31.77
+BigRed          222     4.06    82      36.94
+crazyism        13      4.31    4       30.77
+Buck 50         1       2.0     0       0.0
+PastorMeatSauce 26      4.08    10      38.46
 ```
 
 When complete, exit the container via the `exit` command.
