@@ -154,7 +154,7 @@ class WordleStats():
 
     def print_full_header(self):
 
-        print('Name\r\t\tCount\tScore\tStreak\tMax\tOby1\tOby1%\t1%\t2%\t3%\t4%\t5%\t6%\tX%\t1 val\t2 val\t3 val\t4 val\t5 val\t6 val')
+        print('Name\r\t\tCount\tScore\tOby1\tOby1%\t1%\t2%\t3%\t4%\t5%\t6%\tX%\t1 val\t2 val\t3 val\t4 val\t5 val\t6 val')
 
     def print_full(self, author):
 
@@ -162,8 +162,6 @@ class WordleStats():
         output += author + '\r\t\t'
         output += str(self.n) + '\t'
         output += str(self.score) + '\t'
-        output += str(self.current_streak) + '\t'
-        output += str(self.max_streak) + '\t'
         output += str(self.off_by_one_count) + '\t'
         output += str(self.avg_off_by_one_count) + '\t'
         output += str(self.avg_1_results) + '\t'
