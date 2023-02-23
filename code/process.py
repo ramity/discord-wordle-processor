@@ -109,60 +109,58 @@ while(True):
                 wordle_result_obj.desired_word = g.read(5)
 
                 # Extract number of guesses and hard mode character
-                result = bits[2].split('\n')[0]
-                guesses = result[0]
+                guesses = bits[2][0]
+                guesses_value = int(guesses) if guesses != 'X' else 6
                 wordle_result_obj.guesses = guesses
-                wordle_result_obj.hard_mode = True if result[-1] == '*' else False
+                wordle_result_obj.hard_mode = True if bits[2][2] == '*' else False
 
-                # Extracting emoji output:
-                guess_lines = []
-                bits = message_obj.content.split('\n')
-
-                # Determine number of lines to process
-                line_count = len(bits)
-                if guesses == '6' or guesses == 'X':
-                    line_count = 8
+                # Extract guess lines from message
+                line_break_count = message_obj.content.count('\n')
+                # - Regular case
+                if line_break_count >= guesses_value:
+                    guess_lines = message_obj.content.split('\n')[2:2 + guesses_value]
+                # - \n's converted to single space case
+                elif line_break_count == 0:
+                    guess_lines = bits[3:3 + guesses_value]
                 else:
-                    line_count = int(guesses) + 2
+                    print("Malformed result detected by {}@ID:{}".format(author, wordle_id))
+                    continue
 
-                # Skip the first two newline characters
-                for index in range(2, line_count):
-
-                    guess_line = bits[index]
-
-                    # Store the guess characters
-                    wordle_result_obj.guess_lines.append(guess_line)
+                # Store and process emoji guess lines:
+                wordle_result_obj.guess_lines = guess_lines
+                guess_count = len(guess_lines)
+                for index in range(0, guess_count):
 
                     # Quantify the value of the guess and store into stats
                     value = 0
-                    value += guess_line.count(yellow_square) * 0.5
-                    value += guess_line.count(blue_square) * 0.5
-                    value += guess_line.count(green_square)
-                    value += guess_line.count(orange_square)
+                    value += guess_lines[index].count(yellow_square) * 0.5
+                    value += guess_lines[index].count(blue_square) * 0.5
+                    value += guess_lines[index].count(green_square)
+                    value += guess_lines[index].count(orange_square)
                     wordle_result_obj.guess_values.append(value)
 
                     # Check off_by_one criteria
-                    if guesses != 'X' and value >= 3.5 and int(guesses) == index:
+                    if value >= 3.5 and value < 5 and guesses_value - 2 == index:
                         wordle_result_obj.off_by_one = True
                         stats.off_by_one_count += 1
 
                     # Update wordle stats with above information
-                    if index == 2:
+                    if index == 0:
                         stats.total_1_value += value
                         stats.total_1_guesses += 1
-                    elif index == 3:
+                    elif index == 1:
                         stats.total_2_value += value
                         stats.total_2_guesses += 1
-                    elif index == 4:
+                    elif index == 2:
                         stats.total_3_value += value
                         stats.total_3_guesses += 1
-                    elif index == 5:
+                    elif index == 3:
                         stats.total_4_value += value
                         stats.total_4_guesses += 1
-                    elif index == 6:
+                    elif index == 4:
                         stats.total_5_value += value
                         stats.total_5_guesses += 1
-                    elif index == 7:
+                    elif index == 5:
                         stats.total_6_value += value
                         stats.total_6_guesses += 1
 
@@ -182,7 +180,7 @@ while(True):
                 elif guesses == 'X':
                     stats.total_X_results += 1
                 else:
-                    sys.exit("Unsupported result entered: (?/6)")
+                    sys.exit("Unsupported result entered: {}".format(guesses))
 
                 # Increment if starting streak or current wordle_id is consecutive
                 #   >= to handle cases where duplicate wordle posting
