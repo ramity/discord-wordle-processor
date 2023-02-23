@@ -34,7 +34,8 @@ while(True):
     output_prompt += '[0] - Short\n'
     output_prompt += '[1] - Average results\n'
     output_prompt += '[2] - Average values\n'
-    output_prompt += '[3] - Full\n'
+    output_prompt += '[3] - Streaks\n'
+    output_prompt += '[4] - Full\n'
     output_prompt += '\n'
 
     try:
@@ -56,6 +57,8 @@ while(True):
     elif output_type == '2':
         WordleStats().print_avg_values_header()
     elif output_type == '3':
+        WordleStats().print_streaks_header()
+    elif output_type == '4':
         WordleStats().print_full_header()
 
     with open('dump.pkl', 'rb') as f, open('wordles.txt', 'rb') as g:
@@ -65,8 +68,12 @@ while(True):
         for author, message_collection_obj in message_collections.items():
 
             # Streak variables
-            current_streak = 0
-            max_streak = 0
+            x_less_streak = 0
+            post_streak = 0
+            combined_streak = 0
+            max_x_less_streak = 0
+            max_post_streak = 0
+            max_combined_streak = 0
             last_wordle_id = None
 
             stats = message_collection_obj.stats
@@ -184,27 +191,56 @@ while(True):
 
                 # Increment if starting streak or current wordle_id is consecutive
                 #   >= to handle cases where duplicate wordle posting
-                if current_streak == 0 or last_wordle_id >= wordle_id - 1:
-                    current_streak += 1
-                else:
-                    # Update max_streak if current_streak is larger
-                    if current_streak > max_streak:
-                        max_streak = current_streak
+                if (post_streak == 0 or last_wordle_id >= wordle_id - 1) and (x_less_streak == 0 or guesses != 'X'):
+                    combined_streak += 1
 
-                    # reset streak
-                    current_streak = 0
+                if post_streak == 0 or last_wordle_id >= wordle_id - 1:
+                    post_streak += 1
+                else:
+                    # Update max_streaks if current_streaks are larger
+                    if post_streak > max_post_streak:
+                        max_post_streak = post_streak
+
+                    if combined_streak > max_combined_streak:
+                        max_combined_streak = combined_streak
+
+                    # reset streaks
+                    post_streak = 0
+                    combined_streak = 0
+
+                if x_less_streak == 0 or guesses != 'X':
+                    x_less_streak += 1
+                else:
+                    if x_less_streak > max_x_less_streak:
+                        max_x_less_streak = x_less_streak
+                    
+                    if combined_streak > max_combined_streak:
+                        max_combined_streak = combined_streak
+                    
+                    # reset streaks
+                    x_less_streak = 0
+                    combined_streak = 0
 
                 last_wordle_id = wordle_id
 
                 # Add populated wordle_result to message class
                 message_obj.wordle_result = wordle_result_obj
             
-            # Update max_streak if current_streak is larger
-            if current_streak > max_streak:
-                max_streak = current_streak
+            # Update max streaks if current streaks are larger
+            if post_streak > max_post_streak:
+                max_post_streak = post_streak
+            if x_less_streak > max_x_less_streak:
+                max_x_less_streak = x_less_streak
+            if combined_streak > max_combined_streak:
+                max_combined_streak = combined_streak
 
-            stats.current_streak = current_streak
-            stats.max_streak = max_streak
+            # Set stats vars to local values
+            stats.post_streak = post_streak
+            stats.x_less_streak = x_less_streak
+            stats.combined_streak = combined_streak
+            stats.max_post_streak = max_post_streak
+            stats.max_x_less_streak = max_x_less_streak
+            stats.max_combined_streak = max_combined_streak
 
             # Calculate average stats
             if stats.n != 0:
@@ -248,4 +284,6 @@ while(True):
                 elif output_type == '2':
                     stats.print_avg_values(author)
                 elif output_type == '3':
+                    stats.print_streaks(author)
+                elif output_type == '4':
                     stats.print_full(author)

@@ -36,7 +36,16 @@ class WordleStats():
 
         self.score = 0
         self.max_streak = 0
-        self.on_streak = False
+
+        # current streaks
+        self.x_less_streak = 0
+        self.post_streak = 0
+        self.combined_streak = 0
+
+        # max streaks
+        self.max_x_less_streak = 0
+        self.max_post_streak = 0
+        self.max_combined_streak = 0
 
         self.off_by_one_count = 0
         self.avg_off_by_one_count = 0
@@ -80,7 +89,7 @@ class WordleStats():
     
     def print_short_header(self):
 
-        print('Name\r\t\tCount\tScore\tStreak\tMax\tOby1\tOby1%')
+        print('Name\r\t\tCount\tScore\tOby1\tOby1%')
 
     def print_short(self, author):
 
@@ -88,8 +97,6 @@ class WordleStats():
         output += author + '\r\t\t'
         output += str(self.n) + '\t'
         output += str(self.score) + '\t'
-        output += str(self.current_streak) + '\t'
-        output += str(self.max_streak) + '\t'
         output += str(self.off_by_one_count) + '\t'
         output += str(self.avg_off_by_one_count)
         print(output)
@@ -127,6 +134,22 @@ class WordleStats():
         output += str(self.avg_4_value) + '\t'
         output += str(self.avg_5_value) + '\t'
         output += str(self.avg_6_value)
+        print(output)
+
+    def print_streaks_header(self):
+
+        print('Name\r\t\tx-less st.\tmax x-less st.\tpost st.\tmax post st.\tcombined st.\tmax combined st.')
+
+    def print_streaks(self, author):
+
+        output = ''
+        output += author + '\r\t\t'
+        output += str(self.x_less_streak) + '\t\t'
+        output += str(self.max_x_less_streak) + '\t\t'
+        output += str(self.post_streak) + '\t\t'
+        output += str(self.max_post_streak) + '\t\t'
+        output += str(self.combined_streak) + '\t\t'
+        output += str(self.max_combined_streak)
         print(output)
 
     def print_full_header(self):
