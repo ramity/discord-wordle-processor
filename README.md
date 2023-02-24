@@ -8,6 +8,8 @@ Discord Wordle Processor
 
 # Example outputs
 
+#### Short output:
+
 ```
 Name            Count   Score   Oby1    Oby1%
 DB2             328     3.95    117     35.67
@@ -18,6 +20,8 @@ crazyism        13      4.31    4       30.77
 Buck 50         1       2.0     0       0.0
 PastorMeatSauce 26      4.08    10      38.46
 ```
+
+#### Average results
 
 ```
 Name            Count   1%      2%      3%      4%      5%      6%      X%
@@ -30,6 +34,8 @@ Buck 50         1       0.0     100.0   0.0     0.0     0.0     0.0     0.0
 PastorMeatSauce 26      0.0     3.85    26.92   42.31   11.54   15.38   0.0
 ```
 
+#### Average values
+
 ```
 Name            Count   1 val   2 val   3 val   4 val   5 val   6 val
 DB2             328     1.16    2.33    3.47    4.38    4.57    4.69
@@ -40,6 +46,8 @@ crazyism        13      1.42    1.85    3.42    3.44    4.33    4.67
 Buck 50         1       2.0     5.0     0       0       0       0
 PastorMeatSauce 26      1.06    2.23    3.52    4.36    4.14    5.0
 ```
+
+#### Streaks
 
 ```
 Name            x-less st.      max x-less st.  post st.        max post st.    combined st.    max combined st.
@@ -52,9 +60,13 @@ Buck 50         1               1               1               1               
 PastorMeatSauce 26              26              2               21              2               21
 ```
 
+#### Graph
+
+![image](https://imgur.com/Jyye2NL.png)
+
 # Requirements
 
-Docker
+Docker, Discord, Git
 
 # Installation
 
@@ -133,7 +145,9 @@ Select an output type (type the corresponding number key and press enter).
 [0] - Short
 [1] - Average results
 [2] - Average values
-[3] - Full
+[3] - Streaks
+[4] - Full
+[5] - Graphs
 
 0
 
