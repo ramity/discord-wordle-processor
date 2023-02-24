@@ -1,5 +1,6 @@
 import pickle
 import sys
+from matplotlib import pyplot as plt
 from entity import Message, WordleResult, WordleStats
 
 
@@ -36,6 +37,7 @@ while(True):
     output_prompt += '[2] - Average values\n'
     output_prompt += '[3] - Streaks\n'
     output_prompt += '[4] - Full\n'
+    output_prompt += '[5] - Graphs\n'
     output_prompt += '\n'
 
     try:
@@ -44,7 +46,7 @@ while(True):
         sys.stdout.write('\r')
         sys.exit(1)
 
-    if output_type != '0' and output_type != '1' and output_type != '2' and output_type != '3' and output_type != '4':
+    if output_type != '0' and output_type != '1' and output_type != '2' and output_type != '3' and output_type != '4' and output_type != '5':
         print(f'\nInvalid input: {output_type}')
         continue
     else:
@@ -287,3 +289,22 @@ while(True):
                     stats.print_streaks(author)
                 elif output_type == '4':
                     stats.print_full(author)
+                elif output_type == '5':
+                    # Create plot
+                    plt.bar(['1','2','3','4','5','6','X'], [
+                        stats.total_1_results,
+                        stats.total_2_results,
+                        stats.total_3_results,
+                        stats.total_4_results,
+                        stats.total_5_results,
+                        stats.total_6_results,
+                        stats.total_X_results,
+                    ])
+                    plt.suptitle(author)
+                    plt.xlabel('Result')
+                    plt.ylabel('Count')
+                    plt.savefig('./graphs/{}.png'.format(author))
+                    plt.clf()
+    
+    if output_type == '5':
+        print('Complete')

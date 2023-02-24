@@ -6,3 +6,9 @@ __pycache__/
 *.env
 *.pkl
 *.log
+
+# Skip created graphs
+code/graphs/*
+
+# Override to keep directories
+!.gitkeep
