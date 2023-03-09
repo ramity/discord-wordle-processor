@@ -19,5 +19,5 @@ jQuery.noConflict();
 Generate answers with:
 
 ```
-jQuery("table.answers > tbody > tr > td:last-child > strong").text().match(/.{1,6}/g).reverse().join("");
+jQuery("table.answers > tbody > tr > td:last-child > strong").text().match(/.{0,5}/g).reverse().join("");
 ```
