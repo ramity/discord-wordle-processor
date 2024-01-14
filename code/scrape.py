@@ -2,6 +2,7 @@ import os
 import discord
 import logging
 import pickle
+import asyncio
 from entity import MessageCollection, Message, WordleStats
 
 handler = logging.FileHandler(filename='discord.log', encoding='utf-8', mode='w')
@@ -18,8 +19,8 @@ class MyClient(discord.Client):
         output = {}
         channel = self.get_wordle_channel()
 
-        # Iterate over channel history
-        async for message in channel.history(limit=int(os.getenv('LIMIT')), oldest_first=True):
+        # # Iterate over channel history
+        async for message in channel.history(limit = int(os.getenv('LIMIT')), oldest_first = True):
 
             author = message.author.name
 
@@ -41,8 +42,6 @@ class MyClient(discord.Client):
         print('Saved all messages')
         print('Exiting')
 
-        await self.close()
-
     # Get context of text channel defined by CHANNEL env var
     def get_wordle_channel(self):
         for server in self.guilds:
@@ -53,5 +52,5 @@ class MyClient(discord.Client):
 intents = discord.Intents.default()
 intents.message_content = True
 
-client = MyClient(intents=intents)
-client.run(os.getenv('TOKEN'), log_handler=handler)
+client = MyClient(intents = intents)
+client.run(os.getenv('TOKEN'), log_handler = handler)

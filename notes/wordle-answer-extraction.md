@@ -19,5 +19,5 @@ jQuery.noConflict();
 Generate answers with:
 
 ```
-jQuery("table.answers > tbody > tr > td:last-child > strong").text().match(/.{0,5}/g).reverse().join("");
+jQuery("table.w-full > tbody > tr > td.rounded-r-2.px-4.py-3.font-bold:last-child:not(:has(button))").text().replaceAll('\t',"").match(/.{0,5}/g).reverse().join("");
 ```
