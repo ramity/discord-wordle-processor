@@ -109,8 +109,9 @@ while(True):
                 stats.n += 1
 
                 # Extract ID
+                # - remove comma prior to int cast
                 bits = message_obj.content.split(' ')
-                wordle_id = int(bits[1])
+                wordle_id = int(bits[1].replace(',', ''))
                 wordle_result_obj.wordle_id = wordle_id
 
                 # Get desired word from ID from wordle answer file
@@ -118,10 +119,17 @@ while(True):
                 wordle_result_obj.desired_word = g.read(5)
 
                 # Extract number of guesses and hard mode character
-                guesses = bits[2][0]
+                # - Handle party emoji for wordle 1000
+                if len(bits[2]) > 1:
+                    guesses = bits[2][0]
+                    wordle_result_obj.guesses = guesses
+                    wordle_result_obj.hard_mode = True if bits[2][2] == '*' else False
+                else:
+                    guesses = bits[3][0]
+                    wordle_result_obj.guesses = guesses
+                    wordle_result_obj.hard_mode = True if bits[3][2] == '*' else False
+
                 guesses_value = int(guesses) if guesses != 'X' else 6
-                wordle_result_obj.guesses = guesses
-                wordle_result_obj.hard_mode = True if bits[2][2] == '*' else False
 
                 # Extract guess lines from message
                 line_break_count = message_obj.content.count('\n')
