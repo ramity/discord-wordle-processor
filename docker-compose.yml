@@ -20,7 +20,7 @@ services:
     ports:
     - 8080:80
     volumes:
-    - ./html:/usr/local/apache2/htdocs/
+    - ./docs:/usr/local/apache2/htdocs/
 
 networks:
   default:

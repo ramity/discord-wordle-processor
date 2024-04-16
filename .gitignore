@@ -15,4 +15,4 @@ code/graphs/*
 !.gitkeep
 
 # Custom overrides
-!html/data/*.json
+!docs/data/*.json
