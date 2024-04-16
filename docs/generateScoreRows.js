@@ -38,7 +38,7 @@ function generateScoreRows(scoreData)
         // Add eventlistener to navigate to assiocated user's page
         row.addEventListener('click', function()
         {
-            window.location.href = "/user.html?name=" + this.cells[2].textContent;
+            window.location.href = "user.html?name=" + this.cells[2].textContent;
         });
 
         // Append containing row to tbody
