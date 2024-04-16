@@ -5,7 +5,6 @@ import pickle
 import json
 import asyncio
 import sys
-from entity import MessageCollection, Message, WordleStats
 
 handler = logging.FileHandler(filename='discord.log', encoding='utf-8', mode='w')
 

@@ -1,0 +1,37 @@
+.bg-blue {
+    background-color: #3498db!important;
+}
+
+.bg-dark-blue {
+    background-color: #2980b9;
+}
+
+.left-border-thick {
+    border-left: 0.25em solid #fff;
+}
+
+#score-table td, #score-table th {
+    padding: 1.5em 0;
+    cursor: pointer;
+}
+
+#score-container:first-child {
+    box-shadow: inset 0px 0px 5px #0f0;
+}
+
+#score-table {
+    box-shadow: 0px 0px 10px #f5f5f5;
+}
+
+#score-table thead tr {
+    border-bottom: 1px solid #f5f5f5;
+}
+
+#splash {
+    border-bottom: 1em solid #2980b9;
+}
+
+.bg-footer {
+    background-color: #ecf0f1;
+    border-top: 1em solid #bdc3c7;
+}

@@ -1,18 +1,27 @@
-version: "3.9"
-
 services:
 
-  discord_bot:
+  wordle_discord:
     build:
       context: ./
       dockerfile: docker/python/Dockerfile
-    container_name: discord_bot
-    image: discord_bot
+    container_name: wordle_discord
+    image: wordle_discord
     env_file:
     - ./docker/python/.env
     volumes:
     - ./code:/code
 
+  wordle_http:
+    build:
+      context: ./
+      dockerfile: docker/httpd/Dockerfile
+    container_name: wordle_http
+    image: wordle_http
+    ports:
+    - 8080:80
+    volumes:
+    - ./html:/usr/local/apache2/htdocs/
+
 networks:
   default:
-    name: discord_bot_network
+    name: wordle_network
