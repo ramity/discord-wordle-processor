@@ -64,7 +64,7 @@
         </script>
         <script src="generateScoreRows.js"></script>
         <script>
-            fetch('/data/wordle-stats-by-author.json')
+            fetch('data/wordle-stats-by-author.json')
                 .then(response => response.json())
                 .then(json => {
                     // Sort author objects by score
