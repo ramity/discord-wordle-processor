@@ -13,3 +13,6 @@ code/graphs/*
 
 # Override to keep directories
 !.gitkeep
+
+# Custom overrides
+!html/data/*.json

@@ -35,3 +35,34 @@
     background-color: #ecf0f1;
     border-top: 1em solid #bdc3c7;
 }
+
+#score-container tr:nth-child(1) td {
+    background-color: #FFFACD;
+}
+
+#score-container tr:nth-child(2) td {
+    background-color: #E0E0E0;
+}
+
+#score-container tr:nth-child(3) td {
+    background-color: #D2B48C;
+}
+
+#wordle-container row {
+    height: 4em;
+}
+
+.wordle-miss, .wordle-empty {
+    height: 4em;
+    background: #2c3e50;
+}
+
+.wordle-present {
+    height: 4em;
+    background: #f1c40f;
+}
+
+.wordle-position {
+    height: 4em;
+    background: #2ecc71;
+}
