@@ -600,7 +600,7 @@
             document.getElementById('author').textContent = author;
 
             // Generate the DOM to display the stats for this particular author
-            fetch('/data/wordle-stats-by-author.json')
+            fetch('data/wordle-stats-by-author.json')
                 .then(response => response.json())
                 .then(json => {
                     wordleStats = json[author];
