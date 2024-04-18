@@ -55,14 +55,31 @@
 .wordle-miss, .wordle-empty {
     height: 4em;
     background: #2c3e50;
+    box-shadow: inset 0px 0px 2px #34495e;
 }
 
 .wordle-present {
     height: 4em;
     background: #f1c40f;
+    box-shadow: inset 0px 0px 2px #f39c12;
 }
 
 .wordle-position {
     height: 4em;
     background: #2ecc71;
+    box-shadow: inset 0px 0px 2px #27ae60;
+}
+
+/* .wordle-miss, .wordle-empty, .wordle-present, .wordle-position {
+    box-shadow: inset 0px 0px 1px #fff;
+} */
+
+#user-splash {
+    background-color: #ecf0f1;
+    border-bottom: 1em solid #bdc3c7;
+    margin-bottom: 1em;
+}
+
+.wordle-instance {
+    margin-bottom: 1em;
 }

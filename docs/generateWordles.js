@@ -9,7 +9,7 @@ function generateWordles(wordles)
     for (var z = 0; z < wordles.length; z++)
     {
         var wordle = document.createElement('div');
-        wordle.className = 'wordle-instance';
+        wordle.className = 'wordle-instance px-2 container';
 
         var guesses = wordles[z].guesses;
 
@@ -37,6 +37,7 @@ function generateWordles(wordles)
                     col.className = 'col wordle-position';
                     guess = guess.replace(orangeSquare, '');
                 }
+
                 // present
                 else if (guess.startsWith(yellowSquare))
                 {
@@ -48,6 +49,7 @@ function generateWordles(wordles)
                     col.className = 'col wordle-present';
                     guess = guess.replace(blueSquare, '');
                 }
+
                 // miss
                 else if (guess.startsWith(blackSquare))
                 {
@@ -59,6 +61,8 @@ function generateWordles(wordles)
                     col.className = 'col wordle-miss';
                     guess = guess.replace(whiteSquare, '');
                 }
+
+                // unhandled
                 else
                 {
                     console.error('unknown');
