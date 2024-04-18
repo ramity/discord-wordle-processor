@@ -41,7 +41,7 @@ function populateStats(wordleStats)
     n.innerHTML = wordleStats['n'];
     score.innerHTML = wordleStats['score'];
     offByOneCount.innerHTML = wordleStats['offByOneCount'];
-    offByOneAverage.innerHTML = wordleStats['offByOneAverage'];
+    offByOneAverage.innerHTML = wordleStats['offByOneAverage'] + '%';
 
     guess1Count.innerHTML = wordleStats['guess1Count'];
     guess1Average.innerHTML = wordleStats['guess1Average'];
@@ -57,19 +57,19 @@ function populateStats(wordleStats)
     guess6Average.innerHTML = wordleStats['guess6Average'];
 
     result1Count.innerHTML = wordleStats['result1Count'];
-    result1Average.innerHTML = wordleStats['result1Average'];
+    result1Average.innerHTML = wordleStats['result1Average'] + '%';
     result2Count.innerHTML = wordleStats['result2Count'];
-    result2Average.innerHTML = wordleStats['result2Average'];
+    result2Average.innerHTML = wordleStats['result2Average'] + '%';
     result3Count.innerHTML = wordleStats['result3Count'];
-    result3Average.innerHTML = wordleStats['result3Average'];
+    result3Average.innerHTML = wordleStats['result3Average'] + '%';
     result4Count.innerHTML = wordleStats['result4Count'];
-    result4Average.innerHTML = wordleStats['result4Average'];
+    result4Average.innerHTML = wordleStats['result4Average'] + '%';
     result5Count.innerHTML = wordleStats['result5Count'];
-    result5Average.innerHTML = wordleStats['result5Average'];
+    result5Average.innerHTML = wordleStats['result5Average'] + '%';
     result6Count.innerHTML = wordleStats['result6Count'];
-    result6Average.innerHTML = wordleStats['result6Average'];
+    result6Average.innerHTML = wordleStats['result6Average'] + '%';
     resultXCount.innerHTML = wordleStats['resultXCount'];
-    resultXAverage.innerHTML = wordleStats['resultXAverage'];
+    resultXAverage.innerHTML = wordleStats['resultXAverage'] + '%';
 
     currentXLessStreak.innerHTML = wordleStats['currentXLessStreak'];
     maxXLessStreak.innerHTML = wordleStats['maxXLessStreak'];
