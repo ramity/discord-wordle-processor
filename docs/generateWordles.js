@@ -1,6 +1,8 @@
 // Intakes wordles array and generates wordles to #wordle-container.
-function generateWordles(wordles)
+function generateWordles(author, json)
 {
+    var wordles = json[author]
+
     var container = document.getElementById('wordle-container');
 
     // Clear existing rows

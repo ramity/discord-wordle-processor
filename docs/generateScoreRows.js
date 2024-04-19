@@ -11,7 +11,7 @@ function generateScoreRows(scoreData)
         // Create containing row
         var row = document.createElement('tr');
         row.className = 'score-row';
-  
+
         // Create and append rank cell
         var rank = document.createElement('td');
         if (z == 0) { rank.textContent = medals[0]; }

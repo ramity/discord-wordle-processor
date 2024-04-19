@@ -64,6 +64,7 @@
         </script>
         <script src="generateScoreRows.js"></script>
         <script>
+            // Generate the DOM to display the leaderboard stats
             fetch('data/wordle-stats-by-author.json')
                 .then(response => response.json())
                 .then(json => {
