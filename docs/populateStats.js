@@ -6,15 +6,22 @@ function calculateMin(data, property, decimals=1)
         return 0;
     }
 
-    let minValue = 0;
+    // Init min Value
+    let minValue;
+    for (author in data)
+    {
+        minValue = data[author][property];
+        break;
+    }
 
     for (author in data)
     {
-        const value = data[author][property];
-
-        if (value < minValue)
+        if (data[author].hasOwnProperty(property))
         {
-            minValue = value;
+            if (data[author][property] < minValue)
+            {
+                minValue = data[author][property];
+            }
         }
     }
 
@@ -29,15 +36,22 @@ function calculateMax(data, property, decimals=1)
         return 0;
     }
 
-    let maxValue = 0;
+    // Init max Value
+    let maxValue;
+    for (author in data)
+    {
+        maxValue = data[author][property];
+        break;
+    }
 
     for (author in data)
     {
-        const value = data[author][property];
-
-        if (value > maxValue)
+        if (data[author].hasOwnProperty(property))
         {
-            maxValue = value;
+            if (data[author][property] > maxValue)
+            {
+                maxValue = data[author][property];
+            }
         }
     }
 
@@ -189,11 +203,11 @@ function populateStats(author, json)
     var minResultXCount = calculateMin(json, 'resultXCount');
     var minResultXAverage = calculateMin(json, 'resultXAverage');
     var minCurrentXLessStreak = calculateMin(json, 'currentXLessStreak');
-    var minMaxXLessStreak = calculateMin(json, 'minXLessStreak');
+    var minMaxXLessStreak = calculateMin(json, 'maxXLessStreak');
     var minCurrentPostStreak = calculateMin(json, 'currentPostStreak');
-    var minMaxPostStreak = calculateMin(json, 'minPostStreak');
+    var minMaxPostStreak = calculateMin(json, 'maxPostStreak');
     var minCurrentCombinedStreak = calculateMin(json, 'currentCombinedStreak');
-    var minMaxCombinedStreak = calculateMin(json, 'minCombinedStreak');
+    var minMaxCombinedStreak = calculateMin(json, 'maxCombinedStreak');
 
     // max
 
