@@ -60,6 +60,7 @@ class WordleScrapingClient(discord.Client):
 
         # Close wordles.txt file context
         self.wordle_answer_file.close()
+        print('Complete')
 
     # Scrapes the wordle channel and inline calculates statistics
     async def scrape_wordle_channel(self):
