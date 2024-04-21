@@ -173,7 +173,7 @@ function populateStats(author, json)
     // min
 
     var minN = calculateMin(json, 'n', 0);
-    var minScore = calculateMin(json, 'score');
+    var minScore = calculateMin(json, 'score', 2);
     var minOffByOneCount = calculateMin(json, 'offByOneCount', 0);
     var minOffByOneAverage = calculateMin(json, 'offByOneAverage');
     var minGuess1Count = calculateMin(json, 'guess1Count');
@@ -212,7 +212,7 @@ function populateStats(author, json)
     // max
 
     var maxN = calculateMax(json, 'n', 0);
-    var maxScore = calculateMax(json, 'score');
+    var maxScore = calculateMax(json, 'score', 2);
     var maxOffByOneCount = calculateMax(json, 'offByOneCount', 0);
     var maxOffByOneAverage = calculateMax(json, 'offByOneAverage');
     var maxGuess1Count = calculateMax(json, 'guess1Count');
@@ -251,7 +251,7 @@ function populateStats(author, json)
     // average
 
     var averageN = calculateAverage(json, 'n', 0);
-    var averageScore = calculateAverage(json, 'score');
+    var averageScore = calculateAverage(json, 'score', 2);
     var averageOffByOneCount = calculateAverage(json, 'offByOneCount', 0);
     var averageOffByOneAverage = calculateAverage(json, 'offByOneAverage');
     var averageGuess1Count = calculateAverage(json, 'guess1Count');
