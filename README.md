@@ -82,7 +82,7 @@ Commit and push the changes to wordle-stats-by-author.json and wordles-by-author
 
 ```
 git add.
-git commit -m "scraping results"
+git commit -m "scrape data"
 git push origin master
 ```
 
@@ -94,7 +94,11 @@ Navigate to the created site.
 
 # Example
 
+https://ramity.github.io/discord-wordle-processor/
 
+![](https://i.imgur.com/sCC8gNL.png)
+
+![](https://i.imgur.com/tYkOJOj.png)
 
 # Comments or Questions?
 
