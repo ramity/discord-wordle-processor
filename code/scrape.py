@@ -62,6 +62,8 @@ class WordleScrapingClient(discord.Client):
         self.wordle_answer_file.close()
         print('Complete')
 
+        await self.close()
+
     # Scrapes the wordle channel and inline calculates statistics
     async def scrape_wordle_channel(self):
 
@@ -377,10 +379,10 @@ class WordleScrapingClient(discord.Client):
     # Saves calculated stats to disk
     def save_to_disk(self):
 
-        with open('wordles-by-author.json', 'w') as f:
+        with open('/data/wordles-by-author.json', 'w') as f:
             json.dump(self.wordles_by_author, f, indent = 4)
         
-        with open('wordle-stats-by-author.json', 'w') as f:
+        with open('/data/wordle-stats-by-author.json', 'w') as f:
             json.dump(self.wordle_stats_by_author, f, indent = 4)
 
 intents = discord.Intents.default()
