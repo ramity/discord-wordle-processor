@@ -2,7 +2,7 @@
 Discord Wordle Processor
 </h1>
 
-![image](https://i.imgur.com/Oadz4qQ.gif)
+![](https://i.imgur.com/sCC8gNL.png)
 
 > Do you have a discord channel where you and your friends post your daily wordles? Have you ever wanted to know who ranks supreme? If so, this repo is for you.
 
