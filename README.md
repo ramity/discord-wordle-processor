@@ -12,17 +12,17 @@ Docker, Discord, Git
 
 # Installation
 
-(HTTPS)
-
-```
-git clone https://github.com/ramity/discord-wordle-processor.git
-```
-
-(SSH)
-
-```
-git clone git@github.com:ramity/discord-wordle-processor.git
-```
+> (HTTPS)
+>
+> ```
+> git clone https://github.com/ramity/discord-wordle-processor.git
+> ```
+>
+> (SSH)
+>
+> ```
+> git clone git@github.com:ramity/discord-wordle-processor.git
+> ```
 
 # Configuration
 
@@ -46,17 +46,17 @@ docker compose up -d
 
 Enter the created `discord_bot` docker container:
 
-(Linux/Unix)
-
-```
-docker exec -it discord_bot bash
-```
-
-(Windows)
-
-```
-winpty docker exec -it discord_bot bash
-```
+> (Linux/Unix)
+>
+> ```
+> docker exec -it discord_bot bash
+> ```
+>
+> (Windows)
+>
+> ```
+> winpty docker exec -it discord_bot bash
+> ```
 
 Run the `scrape.py` script to generate a `dump.pkl` file:
 
@@ -69,12 +69,32 @@ python scrape.py
 ```
 Logged on as WordleBot#9999
 Pulling messages from the #wordle text channel
-Loaded all messages
-Saved all messages
-Exiting
+Calculating stats
+Complete
+Unclosed connector
+connections: ['[(<aiohttp.client_proto.ResponseHandler object at 0x0>, 0.0)]']
+connector: <aiohttp.connector.TCPConnector object at 0x0>
 ```
 
 When complete, exit the container via the `exit` command.
+
+Commit and push the changes to wordle-stats-by-author.json and wordles-by-author.json.
+
+```
+git add.
+git commit -m "scraping results"
+git push origin master
+```
+
+Create github page:
+
+`Settings > Pages > Set folder to "/docs"`
+
+Navigate to the created site.
+
+# Example
+
+
 
 # Comments or Questions?
 
