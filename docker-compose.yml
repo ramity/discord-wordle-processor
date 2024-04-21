@@ -10,6 +10,7 @@ services:
     - ./docker/python/.env
     volumes:
     - ./code:/code
+    - ./docs/data:/data
 
   wordle_http:
     build:
