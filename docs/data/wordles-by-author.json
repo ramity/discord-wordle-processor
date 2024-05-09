@@ -10068,6 +10068,248 @@
                 "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\u2b1b\u2b1b",
                 "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
             ]
+        },
+        {
+            "ID": 1037,
+            "word": "",
+            "hardMode": false,
+            "result": "5",
+            "resultValue": 5,
+            "offByOne": true,
+            "guesses": [
+                "\u2b1b\u2b1b\ud83d\udfe9\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe9\ud83d\udfe9\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9",
+                "\u2b1b\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1038,
+            "word": "",
+            "hardMode": false,
+            "result": "3",
+            "resultValue": 3,
+            "offByOne": true,
+            "guesses": [
+                "\u2b1b\u2b1b\ud83d\udfe8\u2b1b\u2b1b",
+                "\ud83d\udfe9\u2b1b\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1039,
+            "word": "",
+            "hardMode": false,
+            "result": "4",
+            "resultValue": 4,
+            "offByOne": true,
+            "guesses": [
+                "\u2b1b\ud83d\udfe9\u2b1b\ud83d\udfe9\ud83d\udfe9",
+                "\u2b1b\ud83d\udfe9\u2b1b\ud83d\udfe9\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\u2b1b\ud83d\udfe9\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1040,
+            "word": "",
+            "hardMode": false,
+            "result": "3",
+            "resultValue": 3,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\u2b1b\u2b1b\u2b1b\u2b1b",
+                "\ud83d\udfe8\ud83d\udfe8\u2b1b\ud83d\udfe8\ud83d\udfe8",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1041,
+            "word": "",
+            "hardMode": false,
+            "result": "3",
+            "resultValue": 3,
+            "offByOne": false,
+            "guesses": [
+                "\ud83d\udfe8\ud83d\udfe8\ud83d\udfe8\u2b1b\ud83d\udfe8",
+                "\u2b1b\ud83d\udfe9\ud83d\udfe8\ud83d\udfe9\ud83d\udfe8",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1043,
+            "word": "",
+            "hardMode": false,
+            "result": "5",
+            "resultValue": 5,
+            "offByOne": false,
+            "guesses": [
+                "\ud83d\udfe8\u2b1b\ud83d\udfe8\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe8\ud83d\udfe8\ud83d\udfe8\u2b1b",
+                "\ud83d\udfe8\ud83d\udfe8\ud83d\udfe8\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe9\ud83d\udfe8\ud83d\udfe8\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1044,
+            "word": "",
+            "hardMode": false,
+            "result": "5",
+            "resultValue": 5,
+            "offByOne": true,
+            "guesses": [
+                "\u2b1b\ud83d\udfe8\u2b1b\u2b1b\u2b1b",
+                "\u2b1b\u2b1b\ud83d\udfe9\ud83d\udfe9\u2b1b",
+                "\ud83d\udfe9\u2b1b\ud83d\udfe9\ud83d\udfe9\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1045,
+            "word": "",
+            "hardMode": false,
+            "result": "4",
+            "resultValue": 4,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\u2b1b\u2b1b\ud83d\udfe8\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\u2b1b\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\u2b1b\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1046,
+            "word": "",
+            "hardMode": false,
+            "result": "3",
+            "resultValue": 3,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\ud83d\udfe8\u2b1b\u2b1b\ud83d\udfe8",
+                "\ud83d\udfe8\ud83d\udfe8\u2b1b\u2b1b\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1047,
+            "word": "",
+            "hardMode": false,
+            "result": "5",
+            "resultValue": 5,
+            "offByOne": true,
+            "guesses": [
+                "\u2b1b\u2b1b\u2b1b\u2b1b\ud83d\udfe8",
+                "\u2b1b\ud83d\udfe8\u2b1b\u2b1b\u2b1b",
+                "\u2b1b\u2b1b\ud83d\udfe8\ud83d\udfe9\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe8\ud83d\udfe8\ud83d\udfe9\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1048,
+            "word": "",
+            "hardMode": false,
+            "result": "4",
+            "resultValue": 4,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\u2b1b\u2b1b\ud83d\udfe8\u2b1b",
+                "\u2b1b\ud83d\udfe9\u2b1b\u2b1b\ud83d\udfe9",
+                "\u2b1b\ud83d\udfe9\u2b1b\u2b1b\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1049,
+            "word": "",
+            "hardMode": false,
+            "result": "3",
+            "resultValue": 3,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\u2b1b\u2b1b\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe8\ud83d\udfe8\ud83d\udfe8\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1050,
+            "word": "",
+            "hardMode": false,
+            "result": "6",
+            "resultValue": 6,
+            "offByOne": true,
+            "guesses": [
+                "\u2b1b\u2b1b\u2b1b\ud83d\udfe8\u2b1b",
+                "\u2b1b\u2b1b\u2b1b\u2b1b\ud83d\udfe9",
+                "\u2b1b\ud83d\udfe8\ud83d\udfe8\u2b1b\ud83d\udfe9",
+                "\ud83d\udfe8\u2b1b\u2b1b\ud83d\udfe8\ud83d\udfe9",
+                "\u2b1b\ud83d\udfe9\ud83d\udfe9\ud83d\udfe8\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1051,
+            "word": "",
+            "hardMode": false,
+            "result": "6",
+            "resultValue": 6,
+            "offByOne": true,
+            "guesses": [
+                "\u2b1b\u2b1b\ud83d\udfe8\ud83d\udfe8\u2b1b",
+                "\ud83d\udfe8\ud83d\udfe8\u2b1b\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe8\ud83d\udfe8\ud83d\udfe8\u2b1b",
+                "\u2b1b\u2b1b\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9",
+                "\u2b1b\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1052,
+            "word": "",
+            "hardMode": false,
+            "result": "5",
+            "resultValue": 5,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\u2b1b\u2b1b\u2b1b\ud83d\udfe8",
+                "\ud83d\udfe9\u2b1b\u2b1b\u2b1b\ud83d\udfe8",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe8\u2b1b\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\u2b1b\ud83d\udfe8\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1053,
+            "word": "",
+            "hardMode": false,
+            "result": "3",
+            "resultValue": 3,
+            "offByOne": true,
+            "guesses": [
+                "\ud83d\udfe9\ud83d\udfe9\u2b1b\u2b1b\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\u2b1b\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1054,
+            "word": "",
+            "hardMode": false,
+            "result": "5",
+            "resultValue": 5,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\ud83d\udfe8\u2b1b\u2b1b\u2b1b",
+                "\u2b1b\u2b1b\ud83d\udfe8\u2b1b\u2b1b",
+                "\ud83d\udfe8\ud83d\udfe8\ud83d\udfe8\u2b1b\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe8\u2b1b\ud83d\udfe8\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
         }
     ],
     "bestbigred": [
@@ -20249,6 +20491,257 @@
                 "\ud83d\udfe8\u2b1b\ud83d\udfe9\u2b1b\ud83d\udfe9",
                 "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
             ]
+        },
+        {
+            "ID": 1037,
+            "word": "",
+            "hardMode": false,
+            "result": "X",
+            "resultValue": 6,
+            "offByOne": true,
+            "guesses": [
+                "\u2b1b\u2b1b\u2b1b\u2b1b\u2b1b",
+                "\u2b1b\u2b1b\ud83d\udfe8\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe9\u2b1b\ud83d\udfe9\u2b1b",
+                "\u2b1b\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9",
+                "\u2b1b\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9",
+                "\u2b1b\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1038,
+            "word": "",
+            "hardMode": false,
+            "result": "3",
+            "resultValue": 3,
+            "offByOne": false,
+            "guesses": [
+                "\ud83d\udfe8\u2b1b\u2b1b\u2b1b\ud83d\udfe8",
+                "\ud83d\udfe8\u2b1b\ud83d\udfe8\ud83d\udfe8\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1039,
+            "word": "",
+            "hardMode": false,
+            "result": "5",
+            "resultValue": 5,
+            "offByOne": true,
+            "guesses": [
+                "\u2b1b\u2b1b\u2b1b\u2b1b\ud83d\udfe8",
+                "\u2b1b\u2b1b\ud83d\udfe8\u2b1b\u2b1b",
+                "\u2b1b\u2b1b\ud83d\udfe9\ud83d\udfe9\u2b1b",
+                "\u2b1b\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1040,
+            "word": "",
+            "hardMode": false,
+            "result": "4",
+            "resultValue": 4,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\u2b1b\u2b1b\u2b1b\ud83d\udfe8",
+                "\u2b1b\u2b1b\ud83d\udfe9\u2b1b\ud83d\udfe9",
+                "\u2b1b\ud83d\udfe8\ud83d\udfe9\u2b1b\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1041,
+            "word": "",
+            "hardMode": false,
+            "result": "2",
+            "resultValue": 2,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\ud83d\udfe9\ud83d\udfe8\u2b1b\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1042,
+            "word": "",
+            "hardMode": false,
+            "result": "3",
+            "resultValue": 3,
+            "offByOne": false,
+            "guesses": [
+                "\ud83d\udfe8\u2b1b\ud83d\udfe8\u2b1b\u2b1b",
+                "\u2b1b\u2b1b\ud83d\udfe8\ud83d\udfe9\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1043,
+            "word": "",
+            "hardMode": false,
+            "result": "3",
+            "resultValue": 3,
+            "offByOne": false,
+            "guesses": [
+                "\ud83d\udfe8\u2b1b\u2b1b\ud83d\udfe8\ud83d\udfe8",
+                "\ud83d\udfe8\ud83d\udfe8\u2b1b\ud83d\udfe9\ud83d\udfe8",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1044,
+            "word": "",
+            "hardMode": false,
+            "result": "3",
+            "resultValue": 3,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\ud83d\udfe8\u2b1b\u2b1b\ud83d\udfe9",
+                "\u2b1b\u2b1b\u2b1b\ud83d\udfe9\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1045,
+            "word": "",
+            "hardMode": false,
+            "result": "4",
+            "resultValue": 4,
+            "offByOne": false,
+            "guesses": [
+                "\ud83d\udfe8\u2b1b\u2b1b\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe8\ud83d\udfe8\ud83d\udfe8\u2b1b",
+                "\ud83d\udfe8\ud83d\udfe9\ud83d\udfe9\ud83d\udfe8\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1046,
+            "word": "",
+            "hardMode": false,
+            "result": "4",
+            "resultValue": 4,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\u2b1b\u2b1b\u2b1b\u2b1b",
+                "\u2b1b\u2b1b\ud83d\udfe9\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe8\ud83d\udfe9\u2b1b\ud83d\udfe8",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1047,
+            "word": "",
+            "hardMode": false,
+            "result": "3",
+            "resultValue": 3,
+            "offByOne": false,
+            "guesses": [
+                "\ud83d\udfe8\u2b1b\ud83d\udfe8\u2b1b\u2b1b",
+                "\u2b1b\u2b1b\ud83d\udfe9\ud83d\udfe8\ud83d\udfe8",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1048,
+            "word": "",
+            "hardMode": false,
+            "result": "3",
+            "resultValue": 3,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\u2b1b\ud83d\udfe9\u2b1b\ud83d\udfe9",
+                "\u2b1b\u2b1b\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1050,
+            "word": "",
+            "hardMode": false,
+            "result": "5",
+            "resultValue": 5,
+            "offByOne": true,
+            "guesses": [
+                "\ud83d\udfe8\u2b1b\u2b1b\u2b1b\ud83d\udfe9",
+                "\u2b1b\u2b1b\ud83d\udfe8\u2b1b\ud83d\udfe9",
+                "\u2b1b\ud83d\udfe9\u2b1b\ud83d\udfe8\ud83d\udfe9",
+                "\u2b1b\ud83d\udfe9\ud83d\udfe9\ud83d\udfe8\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1051,
+            "word": "",
+            "hardMode": false,
+            "result": "4",
+            "resultValue": 4,
+            "offByOne": false,
+            "guesses": [
+                "\ud83d\udfe8\u2b1b\u2b1b\u2b1b\ud83d\udfe8",
+                "\u2b1b\u2b1b\ud83d\udfe8\ud83d\udfe9\u2b1b",
+                "\u2b1b\ud83d\udfe9\u2b1b\ud83d\udfe9\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1052,
+            "word": "",
+            "hardMode": false,
+            "result": "4",
+            "resultValue": 4,
+            "offByOne": true,
+            "guesses": [
+                "\ud83d\udfe8\u2b1b\u2b1b\u2b1b\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\u2b1b\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\u2b1b\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1053,
+            "word": "",
+            "hardMode": false,
+            "result": "5",
+            "resultValue": 5,
+            "offByOne": true,
+            "guesses": [
+                "\u2b1b\u2b1b\u2b1b\ud83d\udfe8\u2b1b",
+                "\ud83d\udfe9\u2b1b\ud83d\udfe8\ud83d\udfe8\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\u2b1b\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\u2b1b\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1054,
+            "word": "",
+            "hardMode": false,
+            "result": "5",
+            "resultValue": 5,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\u2b1b\ud83d\udfe8\u2b1b\u2b1b",
+                "\ud83d\udfe8\u2b1b\ud83d\udfe8\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe9\ud83d\udfe8\ud83d\udfe8\u2b1b",
+                "\u2b1b\ud83d\udfe9\ud83d\udfe9\u2b1b\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1055,
+            "word": "",
+            "hardMode": false,
+            "result": "5",
+            "resultValue": 5,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\u2b1b\u2b1b\u2b1b\ud83d\udfe8",
+                "\u2b1b\ud83d\udfe8\ud83d\udfe8\u2b1b\u2b1b",
+                "\ud83d\udfe8\ud83d\udfe9\u2b1b\u2b1b\ud83d\udfe9",
+                "\u2b1b\ud83d\udfe9\ud83d\udfe9\u2b1b\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
         }
     ],
     "db2": [
@@ -30120,6 +30613,281 @@
             "guesses": [
                 "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7"
             ]
+        },
+        {
+            "ID": 1036,
+            "word": "",
+            "hardMode": false,
+            "result": "3",
+            "resultValue": 3,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\u2b1b\ud83d\udfe6\u2b1b\u2b1b",
+                "\ud83d\udfe6\ud83d\udfe6\u2b1b\ud83d\udfe6\u2b1b",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7"
+            ]
+        },
+        {
+            "ID": 1037,
+            "word": "",
+            "hardMode": false,
+            "result": "6",
+            "resultValue": 6,
+            "offByOne": true,
+            "guesses": [
+                "\u2b1b\u2b1b\u2b1b\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe7\u2b1b\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe7\u2b1b\u2b1b\ud83d\udfe7",
+                "\u2b1b\ud83d\udfe7\ud83d\udfe7\u2b1b\ud83d\udfe7",
+                "\u2b1b\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7"
+            ]
+        },
+        {
+            "ID": 1038,
+            "word": "",
+            "hardMode": false,
+            "result": "2",
+            "resultValue": 2,
+            "offByOne": false,
+            "guesses": [
+                "\ud83d\udfe6\ud83d\udfe7\u2b1b\ud83d\udfe6\ud83d\udfe6",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7"
+            ]
+        },
+        {
+            "ID": 1039,
+            "word": "",
+            "hardMode": false,
+            "result": "3",
+            "resultValue": 3,
+            "offByOne": false,
+            "guesses": [
+                "\ud83d\udfe7\u2b1b\u2b1b\u2b1b\ud83d\udfe6",
+                "\ud83d\udfe7\u2b1b\u2b1b\ud83d\udfe7\ud83d\udfe7",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7"
+            ]
+        },
+        {
+            "ID": 1040,
+            "word": "",
+            "hardMode": false,
+            "result": "3",
+            "resultValue": 3,
+            "offByOne": false,
+            "guesses": [
+                "\ud83d\udfe6\u2b1b\u2b1b\u2b1b\ud83d\udfe6",
+                "\ud83d\udfe6\ud83d\udfe6\u2b1b\ud83d\udfe6\ud83d\udfe6",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7"
+            ]
+        },
+        {
+            "ID": 1041,
+            "word": "",
+            "hardMode": false,
+            "result": "3",
+            "resultValue": 3,
+            "offByOne": false,
+            "guesses": [
+                "\ud83d\udfe6\u2b1b\ud83d\udfe6\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe6\ud83d\udfe6\ud83d\udfe6\u2b1b",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7"
+            ]
+        },
+        {
+            "ID": 1042,
+            "word": "",
+            "hardMode": false,
+            "result": "3",
+            "resultValue": 3,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\ud83d\udfe7\ud83d\udfe6\u2b1b\u2b1b",
+                "\ud83d\udfe6\ud83d\udfe7\u2b1b\ud83d\udfe7\u2b1b",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7"
+            ]
+        },
+        {
+            "ID": 1043,
+            "word": "",
+            "hardMode": false,
+            "result": "4",
+            "resultValue": 4,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\ud83d\udfe6\u2b1b\u2b1b\ud83d\udfe6",
+                "\u2b1b\ud83d\udfe6\ud83d\udfe6\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\u2b1b",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7"
+            ]
+        },
+        {
+            "ID": 1044,
+            "word": "",
+            "hardMode": false,
+            "result": "3",
+            "resultValue": 3,
+            "offByOne": false,
+            "guesses": [
+                "\ud83d\udfe6\u2b1b\u2b1b\u2b1b\ud83d\udfe7",
+                "\u2b1b\ud83d\udfe7\u2b1b\ud83d\udfe6\ud83d\udfe7",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7"
+            ]
+        },
+        {
+            "ID": 1045,
+            "word": "",
+            "hardMode": false,
+            "result": "3",
+            "resultValue": 3,
+            "offByOne": true,
+            "guesses": [
+                "\ud83d\udfe6\ud83d\udfe6\u2b1b\u2b1b\u2b1b",
+                "\ud83d\udfe7\u2b1b\ud83d\udfe7\ud83d\udfe6\ud83d\udfe7",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7"
+            ]
+        },
+        {
+            "ID": 1046,
+            "word": "",
+            "hardMode": false,
+            "result": "6",
+            "resultValue": 6,
+            "offByOne": false,
+            "guesses": [
+                "\ud83d\udfe6\u2b1b\u2b1b\u2b1b\u2b1b",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\u2b1b\u2b1b",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\u2b1b\u2b1b",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\u2b1b\u2b1b",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\u2b1b\u2b1b",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7"
+            ]
+        },
+        {
+            "ID": 1047,
+            "word": "",
+            "hardMode": false,
+            "result": "3",
+            "resultValue": 3,
+            "offByOne": false,
+            "guesses": [
+                "\ud83d\udfe6\ud83d\udfe6\ud83d\udfe6\u2b1b\u2b1b",
+                "\u2b1b\u2b1b\ud83d\udfe7\ud83d\udfe6\ud83d\udfe6",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7"
+            ]
+        },
+        {
+            "ID": 1048,
+            "word": "",
+            "hardMode": false,
+            "result": "2",
+            "resultValue": 2,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\u2b1b\ud83d\udfe7\ud83d\udfe6\ud83d\udfe7",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7"
+            ]
+        },
+        {
+            "ID": 1049,
+            "word": "",
+            "hardMode": false,
+            "result": "4",
+            "resultValue": 4,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\u2b1b\u2b1b\u2b1b\ud83d\udfe6",
+                "\u2b1b\ud83d\udfe6\u2b1b\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe6\u2b1b\ud83d\udfe6\ud83d\udfe6",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7"
+            ]
+        },
+        {
+            "ID": 1050,
+            "word": "",
+            "hardMode": false,
+            "result": "5",
+            "resultValue": 5,
+            "offByOne": true,
+            "guesses": [
+                "\u2b1b\ud83d\udfe7\u2b1b\u2b1b\ud83d\udfe7",
+                "\ud83d\udfe6\ud83d\udfe7\u2b1b\u2b1b\ud83d\udfe7",
+                "\u2b1b\ud83d\udfe7\u2b1b\ud83d\udfe6\ud83d\udfe7",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\u2b1b\ud83d\udfe7",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7"
+            ]
+        },
+        {
+            "ID": 1051,
+            "word": "",
+            "hardMode": false,
+            "result": "3",
+            "resultValue": 3,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\ud83d\udfe6\u2b1b\u2b1b\ud83d\udfe6",
+                "\u2b1b\ud83d\udfe7\ud83d\udfe6\ud83d\udfe6\u2b1b",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7"
+            ]
+        },
+        {
+            "ID": 1052,
+            "word": "",
+            "hardMode": false,
+            "result": "6",
+            "resultValue": 6,
+            "offByOne": true,
+            "guesses": [
+                "\u2b1b\ud83d\udfe6\u2b1b\ud83d\udfe6\ud83d\udfe7",
+                "\ud83d\udfe7\u2b1b\ud83d\udfe7\u2b1b\ud83d\udfe7",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\u2b1b\ud83d\udfe7",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\u2b1b\ud83d\udfe7",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\u2b1b\ud83d\udfe7",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7"
+            ]
+        },
+        {
+            "ID": 1053,
+            "word": "",
+            "hardMode": false,
+            "result": "4",
+            "resultValue": 4,
+            "offByOne": true,
+            "guesses": [
+                "\u2b1b\u2b1b\u2b1b\ud83d\udfe6\u2b1b",
+                "\ud83d\udfe6\u2b1b\u2b1b\ud83d\udfe6\ud83d\udfe6",
+                "\u2b1b\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7"
+            ]
+        },
+        {
+            "ID": 1054,
+            "word": "",
+            "hardMode": false,
+            "result": "3",
+            "resultValue": 3,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\u2b1b\ud83d\udfe6\ud83d\udfe6\u2b1b",
+                "\ud83d\udfe6\ud83d\udfe6\ud83d\udfe7\ud83d\udfe6\u2b1b",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7"
+            ]
+        },
+        {
+            "ID": 1055,
+            "word": "",
+            "hardMode": false,
+            "result": "6",
+            "resultValue": 6,
+            "offByOne": false,
+            "guesses": [
+                "\ud83d\udfe6\u2b1b\u2b1b\u2b1b\ud83d\udfe6",
+                "\u2b1b\u2b1b\u2b1b\ud83d\udfe6\ud83d\udfe6",
+                "\u2b1b\ud83d\udfe7\u2b1b\ud83d\udfe6\ud83d\udfe7",
+                "\u2b1b\ud83d\udfe7\ud83d\udfe7\u2b1b\ud83d\udfe7",
+                "\u2b1b\ud83d\udfe7\ud83d\udfe7\u2b1b\ud83d\udfe7",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7"
+            ]
         }
     ],
     "buckmcdoogle": [
@@ -32544,6 +33312,211 @@
                 "\ud83d\udfe8\ud83d\udfe9\ud83d\udfe9\u2b1b\u2b1b",
                 "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
             ]
+        },
+        {
+            "ID": 1037,
+            "word": "",
+            "hardMode": false,
+            "result": "6",
+            "resultValue": 6,
+            "offByOne": true,
+            "guesses": [
+                "\u2b1b\u2b1b\u2b1b\u2b1b\u2b1b",
+                "\u2b1b\u2b1b\u2b1b\u2b1b\ud83d\udfe9",
+                "\u2b1b\ud83d\udfe8\ud83d\udfe8\u2b1b\ud83d\udfe9",
+                "\u2b1b\ud83d\udfe9\u2b1b\ud83d\udfe9\ud83d\udfe9",
+                "\u2b1b\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1038,
+            "word": "",
+            "hardMode": false,
+            "result": "4",
+            "resultValue": 4,
+            "offByOne": true,
+            "guesses": [
+                "\u2b1b\ud83d\udfe8\ud83d\udfe8\u2b1b\ud83d\udfe8",
+                "\ud83d\udfe8\ud83d\udfe8\ud83d\udfe8\ud83d\udfe8\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\u2b1b\ud83d\udfe9\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1039,
+            "word": "",
+            "hardMode": false,
+            "result": "5",
+            "resultValue": 5,
+            "offByOne": true,
+            "guesses": [
+                "\u2b1b\ud83d\udfe8\u2b1b\u2b1b\ud83d\udfe8",
+                "\u2b1b\u2b1b\ud83d\udfe8\ud83d\udfe9\u2b1b",
+                "\u2b1b\ud83d\udfe8\u2b1b\ud83d\udfe9\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\u2b1b\ud83d\udfe9\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1041,
+            "word": "",
+            "hardMode": false,
+            "result": "6",
+            "resultValue": 6,
+            "offByOne": true,
+            "guesses": [
+                "\u2b1b\ud83d\udfe8\u2b1b\ud83d\udfe8\u2b1b",
+                "\ud83d\udfe8\ud83d\udfe8\u2b1b\ud83d\udfe8\u2b1b",
+                "\u2b1b\u2b1b\ud83d\udfe8\ud83d\udfe9\ud83d\udfe8",
+                "\ud83d\udfe8\ud83d\udfe8\ud83d\udfe9\u2b1b\ud83d\udfe9",
+                "\ud83d\udfe8\ud83d\udfe8\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1042,
+            "word": "",
+            "hardMode": false,
+            "result": "3",
+            "resultValue": 3,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\u2b1b\ud83d\udfe8\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe9\ud83d\udfe8\u2b1b\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1043,
+            "word": "",
+            "hardMode": false,
+            "result": "2",
+            "resultValue": 2,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\u2b1b\ud83d\udfe8\u2b1b\ud83d\udfe8",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1044,
+            "word": "",
+            "hardMode": false,
+            "result": "2",
+            "resultValue": 2,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\ud83d\udfe9\u2b1b\ud83d\udfe9\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1045,
+            "word": "",
+            "hardMode": false,
+            "result": "3",
+            "resultValue": 3,
+            "offByOne": false,
+            "guesses": [
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\u2b1b\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\u2b1b\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1046,
+            "word": "",
+            "hardMode": false,
+            "result": "4",
+            "resultValue": 4,
+            "offByOne": true,
+            "guesses": [
+                "\u2b1b\ud83d\udfe9\u2b1b\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe9\ud83d\udfe9\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1047,
+            "word": "",
+            "hardMode": false,
+            "result": "3",
+            "resultValue": 3,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\ud83d\udfe8\ud83d\udfe9\u2b1b\u2b1b",
+                "\u2b1b\u2b1b\ud83d\udfe9\ud83d\udfe9\ud83d\udfe8",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1048,
+            "word": "",
+            "hardMode": false,
+            "result": "3",
+            "resultValue": 3,
+            "offByOne": false,
+            "guesses": [
+                "\ud83d\udfe8\u2b1b\u2b1b\u2b1b\ud83d\udfe9",
+                "\u2b1b\u2b1b\ud83d\udfe8\ud83d\udfe9\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1050,
+            "word": "",
+            "hardMode": false,
+            "result": "4",
+            "resultValue": 4,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\u2b1b\ud83d\udfe8\u2b1b\ud83d\udfe9",
+                "\u2b1b\ud83d\udfe9\u2b1b\ud83d\udfe8\ud83d\udfe9",
+                "\ud83d\udfe8\ud83d\udfe9\ud83d\udfe8\u2b1b\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1051,
+            "word": "",
+            "hardMode": false,
+            "result": "2",
+            "resultValue": 2,
+            "offByOne": false,
+            "guesses": [
+                "\ud83d\udfe8\u2b1b\ud83d\udfe8\u2b1b\ud83d\udfe8",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1053,
+            "word": "",
+            "hardMode": false,
+            "result": "4",
+            "resultValue": 4,
+            "offByOne": true,
+            "guesses": [
+                "\u2b1b\u2b1b\u2b1b\u2b1b\u2b1b",
+                "\u2b1b\u2b1b\ud83d\udfe8\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1054,
+            "word": "",
+            "hardMode": false,
+            "result": "4",
+            "resultValue": 4,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\u2b1b\u2b1b\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe8\ud83d\udfe8\u2b1b\u2b1b",
+                "\ud83d\udfe9\u2b1b\ud83d\udfe9\ud83d\udfe9\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
         }
     ],
     "jerryslimefield": [
@@ -33124,6 +34097,236 @@
                 "\u2b1b\ud83d\udfe9\u2b1b\u2b1b\u2b1b",
                 "\u2b1b\ud83d\udfe9\ud83d\udfe8\u2b1b\u2b1b",
                 "\ud83d\udfe8\ud83d\udfe9\ud83d\udfe9\u2b1b\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1037,
+            "word": "",
+            "hardMode": false,
+            "result": "6",
+            "resultValue": 6,
+            "offByOne": true,
+            "guesses": [
+                "\u2b1b\u2b1b\u2b1b\u2b1b\u2b1b",
+                "\ud83d\udfe8\ud83d\udfe9\u2b1b\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe9\u2b1b\ud83d\udfe9\u2b1b",
+                "\u2b1b\ud83d\udfe9\u2b1b\ud83d\udfe9\u2b1b",
+                "\u2b1b\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1039,
+            "word": "",
+            "hardMode": false,
+            "result": "X",
+            "resultValue": 6,
+            "offByOne": true,
+            "guesses": [
+                "\u2b1b\ud83d\udfe8\u2b1b\u2b1b\ud83d\udfe8",
+                "\u2b1b\ud83d\udfe9\u2b1b\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe9\ud83d\udfe8\ud83d\udfe9\u2b1b",
+                "\u2b1b\ud83d\udfe9\u2b1b\ud83d\udfe9\ud83d\udfe9",
+                "\u2b1b\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9",
+                "\u2b1b\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1040,
+            "word": "",
+            "hardMode": false,
+            "result": "5",
+            "resultValue": 5,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\ud83d\udfe8\u2b1b\ud83d\udfe8\u2b1b",
+                "\u2b1b\u2b1b\ud83d\udfe8\u2b1b\ud83d\udfe9",
+                "\ud83d\udfe8\ud83d\udfe8\u2b1b\u2b1b\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe8\u2b1b\u2b1b\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1041,
+            "word": "",
+            "hardMode": false,
+            "result": "4",
+            "resultValue": 4,
+            "offByOne": true,
+            "guesses": [
+                "\u2b1b\u2b1b\ud83d\udfe9\u2b1b\ud83d\udfe8",
+                "\u2b1b\ud83d\udfe8\ud83d\udfe9\u2b1b\ud83d\udfe9",
+                "\ud83d\udfe8\ud83d\udfe8\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1042,
+            "word": "",
+            "hardMode": false,
+            "result": "3",
+            "resultValue": 3,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\u2b1b\u2b1b\u2b1b\ud83d\udfe9",
+                "\ud83d\udfe8\u2b1b\ud83d\udfe8\ud83d\udfe9\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1043,
+            "word": "",
+            "hardMode": false,
+            "result": "5",
+            "resultValue": 5,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\ud83d\udfe8\ud83d\udfe8\ud83d\udfe8\u2b1b",
+                "\ud83d\udfe8\ud83d\udfe8\u2b1b\ud83d\udfe8\u2b1b",
+                "\ud83d\udfe8\ud83d\udfe8\u2b1b\u2b1b\ud83d\udfe8",
+                "\u2b1b\u2b1b\ud83d\udfe8\ud83d\udfe9\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1044,
+            "word": "",
+            "hardMode": false,
+            "result": "3",
+            "resultValue": 3,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\ud83d\udfe8\ud83d\udfe8\u2b1b\u2b1b",
+                "\ud83d\udfe9\u2b1b\u2b1b\ud83d\udfe8\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1045,
+            "word": "",
+            "hardMode": false,
+            "result": "4",
+            "resultValue": 4,
+            "offByOne": true,
+            "guesses": [
+                "\ud83d\udfe8\u2b1b\ud83d\udfe9\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe9\ud83d\udfe9\u2b1b\ud83d\udfe9",
+                "\u2b1b\ud83d\udfe9\ud83d\udfe9\ud83d\udfe8\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1047,
+            "word": "",
+            "hardMode": false,
+            "result": "3",
+            "resultValue": 3,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\u2b1b\u2b1b\ud83d\udfe8\ud83d\udfe8",
+                "\ud83d\udfe9\ud83d\udfe9\u2b1b\u2b1b\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1048,
+            "word": "",
+            "hardMode": false,
+            "result": "4",
+            "resultValue": 4,
+            "offByOne": true,
+            "guesses": [
+                "\u2b1b\ud83d\udfe8\u2b1b\ud83d\udfe8\u2b1b",
+                "\u2b1b\u2b1b\ud83d\udfe9\ud83d\udfe8\ud83d\udfe9",
+                "\ud83d\udfe8\ud83d\udfe9\ud83d\udfe9\u2b1b\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1049,
+            "word": "",
+            "hardMode": false,
+            "result": "5",
+            "resultValue": 5,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\ud83d\udfe8\u2b1b\u2b1b\u2b1b",
+                "\u2b1b\u2b1b\u2b1b\ud83d\udfe8\u2b1b",
+                "\ud83d\udfe8\ud83d\udfe8\ud83d\udfe8\u2b1b\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe8\u2b1b\ud83d\udfe8\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1050,
+            "word": "",
+            "hardMode": false,
+            "result": "4",
+            "resultValue": 4,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\ud83d\udfe8\u2b1b\u2b1b\u2b1b",
+                "\u2b1b\u2b1b\u2b1b\u2b1b\ud83d\udfe9",
+                "\u2b1b\ud83d\udfe8\u2b1b\u2b1b\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1051,
+            "word": "",
+            "hardMode": false,
+            "result": "4",
+            "resultValue": 4,
+            "offByOne": true,
+            "guesses": [
+                "\u2b1b\ud83d\udfe9\u2b1b\u2b1b\ud83d\udfe8",
+                "\u2b1b\ud83d\udfe9\ud83d\udfe8\u2b1b\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1052,
+            "word": "",
+            "hardMode": false,
+            "result": "4",
+            "resultValue": 4,
+            "offByOne": true,
+            "guesses": [
+                "\u2b1b\ud83d\udfe8\u2b1b\u2b1b\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe8\u2b1b\ud83d\udfe9\ud83d\udfe9",
+                "\ud83d\udfe9\u2b1b\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1053,
+            "word": "",
+            "hardMode": false,
+            "result": "5",
+            "resultValue": 5,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\u2b1b\u2b1b\u2b1b\ud83d\udfe8",
+                "\u2b1b\ud83d\udfe9\u2b1b\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe9\u2b1b\ud83d\udfe9\ud83d\udfe8",
+                "\u2b1b\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1054,
+            "word": "",
+            "hardMode": false,
+            "result": "5",
+            "resultValue": 5,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\u2b1b\ud83d\udfe8\u2b1b\ud83d\udfe8",
+                "\u2b1b\ud83d\udfe8\ud83d\udfe8\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe9\u2b1b\ud83d\udfe9\ud83d\udfe9",
+                "\u2b1b\ud83d\udfe9\u2b1b\ud83d\udfe9\ud83d\udfe9",
                 "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
             ]
         }
