@@ -10004,7 +10004,7 @@
         },
         {
             "ID": 1032,
-            "word": "",
+            "word": "SHANK",
             "hardMode": false,
             "result": "3",
             "resultValue": 3,
@@ -10017,7 +10017,7 @@
         },
         {
             "ID": 1033,
-            "word": "",
+            "word": "TITHE",
             "hardMode": false,
             "result": "4",
             "resultValue": 4,
@@ -10031,7 +10031,7 @@
         },
         {
             "ID": 1034,
-            "word": "",
+            "word": "FACET",
             "hardMode": false,
             "result": "3",
             "resultValue": 3,
@@ -10044,7 +10044,7 @@
         },
         {
             "ID": 1035,
-            "word": "",
+            "word": "RAISE",
             "hardMode": false,
             "result": "4",
             "resultValue": 4,
@@ -10058,7 +10058,7 @@
         },
         {
             "ID": 1036,
-            "word": "",
+            "word": "LUCID",
             "hardMode": false,
             "result": "3",
             "resultValue": 3,
@@ -10071,7 +10071,7 @@
         },
         {
             "ID": 1037,
-            "word": "",
+            "word": "JOLLY",
             "hardMode": false,
             "result": "5",
             "resultValue": 5,
@@ -10086,7 +10086,7 @@
         },
         {
             "ID": 1038,
-            "word": "",
+            "word": "LASER",
             "hardMode": false,
             "result": "3",
             "resultValue": 3,
@@ -10099,7 +10099,7 @@
         },
         {
             "ID": 1039,
-            "word": "",
+            "word": "ROVER",
             "hardMode": false,
             "result": "4",
             "resultValue": 4,
@@ -10113,7 +10113,7 @@
         },
         {
             "ID": 1040,
-            "word": "",
+            "word": "OVERT",
             "hardMode": false,
             "result": "3",
             "resultValue": 3,
@@ -10126,7 +10126,7 @@
         },
         {
             "ID": 1041,
-            "word": "",
+            "word": "INTRO",
             "hardMode": false,
             "result": "3",
             "resultValue": 3,
@@ -10139,7 +10139,7 @@
         },
         {
             "ID": 1043,
-            "word": "",
+            "word": "GLEAM",
             "hardMode": false,
             "result": "5",
             "resultValue": 5,
@@ -10154,7 +10154,7 @@
         },
         {
             "ID": 1044,
-            "word": "",
+            "word": "PRUNE",
             "hardMode": false,
             "result": "5",
             "resultValue": 5,
@@ -10169,7 +10169,7 @@
         },
         {
             "ID": 1045,
-            "word": "",
+            "word": "CRAFT",
             "hardMode": false,
             "result": "4",
             "resultValue": 4,
@@ -10183,7 +10183,7 @@
         },
         {
             "ID": 1046,
-            "word": "",
+            "word": "PROWL",
             "hardMode": false,
             "result": "3",
             "resultValue": 3,
@@ -10196,7 +10196,7 @@
         },
         {
             "ID": 1047,
-            "word": "",
+            "word": "DIARY",
             "hardMode": false,
             "result": "5",
             "resultValue": 5,
@@ -10211,7 +10211,7 @@
         },
         {
             "ID": 1048,
-            "word": "",
+            "word": "SLICE",
             "hardMode": false,
             "result": "4",
             "resultValue": 4,
@@ -10225,7 +10225,7 @@
         },
         {
             "ID": 1049,
-            "word": "",
+            "word": "EBONY",
             "hardMode": false,
             "result": "3",
             "resultValue": 3,
@@ -10238,7 +10238,7 @@
         },
         {
             "ID": 1050,
-            "word": "",
+            "word": "VALUE",
             "hardMode": false,
             "result": "6",
             "resultValue": 6,
@@ -10254,7 +10254,7 @@
         },
         {
             "ID": 1051,
-            "word": "",
+            "word": "DECAL",
             "hardMode": false,
             "result": "6",
             "resultValue": 6,
@@ -10270,7 +10270,7 @@
         },
         {
             "ID": 1052,
-            "word": "",
+            "word": "SHAVE",
             "hardMode": false,
             "result": "5",
             "resultValue": 5,
@@ -10285,7 +10285,7 @@
         },
         {
             "ID": 1053,
-            "word": "",
+            "word": "MUSTY",
             "hardMode": false,
             "result": "3",
             "resultValue": 3,
@@ -10298,7 +10298,7 @@
         },
         {
             "ID": 1054,
-            "word": "",
+            "word": "PIOUS",
             "hardMode": false,
             "result": "5",
             "resultValue": 5,
@@ -10308,6 +10308,1285 @@
                 "\u2b1b\u2b1b\ud83d\udfe8\u2b1b\u2b1b",
                 "\ud83d\udfe8\ud83d\udfe8\ud83d\udfe8\u2b1b\u2b1b",
                 "\ud83d\udfe9\ud83d\udfe8\u2b1b\ud83d\udfe8\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1055,
+            "word": "JERKY",
+            "hardMode": false,
+            "result": "4",
+            "resultValue": 4,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\u2b1b\u2b1b\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe8\u2b1b\u2b1b\u2b1b",
+                "\u2b1b\u2b1b\u2b1b\ud83d\udfe8\ud83d\udfe8",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1056,
+            "word": "MEDIA",
+            "hardMode": false,
+            "result": "5",
+            "resultValue": 5,
+            "offByOne": true,
+            "guesses": [
+                "\ud83d\udfe9\u2b1b\u2b1b\u2b1b\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe8\u2b1b\u2b1b\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe8\u2b1b\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe8\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1057,
+            "word": "TIDAL",
+            "hardMode": false,
+            "result": "5",
+            "resultValue": 5,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\u2b1b\ud83d\udfe8\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe8\ud83d\udfe8\u2b1b\ud83d\udfe8",
+                "\ud83d\udfe8\ud83d\udfe8\ud83d\udfe8\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe8\u2b1b\ud83d\udfe9\ud83d\udfe8",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1058,
+            "word": "OUTER",
+            "hardMode": false,
+            "result": "4",
+            "resultValue": 4,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\ud83d\udfe9\u2b1b\u2b1b\u2b1b",
+                "\ud83d\udfe8\ud83d\udfe9\u2b1b\ud83d\udfe8\u2b1b",
+                "\u2b1b\ud83d\udfe9\ud83d\udfe8\u2b1b\ud83d\udfe8",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1059,
+            "word": "CUMIN",
+            "hardMode": false,
+            "result": "2",
+            "resultValue": 2,
+            "offByOne": false,
+            "guesses": [
+                "\ud83d\udfe8\ud83d\udfe9\u2b1b\ud83d\udfe8\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1060,
+            "word": "AMASS",
+            "hardMode": false,
+            "result": "4",
+            "resultValue": 4,
+            "offByOne": false,
+            "guesses": [
+                "\ud83d\udfe8\u2b1b\u2b1b\u2b1b\u2b1b",
+                "\u2b1b\u2b1b\u2b1b\ud83d\udfe8\ud83d\udfe8",
+                "\ud83d\udfe8\u2b1b\ud83d\udfe9\ud83d\udfe8\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1061,
+            "word": "PINCH",
+            "hardMode": false,
+            "result": "3",
+            "resultValue": 3,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\u2b1b\u2b1b\ud83d\udfe9\ud83d\udfe9",
+                "\u2b1b\u2b1b\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1062,
+            "word": "STALL",
+            "hardMode": false,
+            "result": "4",
+            "resultValue": 4,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\u2b1b\ud83d\udfe8\u2b1b\u2b1b",
+                "\ud83d\udfe8\ud83d\udfe8\u2b1b\u2b1b\u2b1b",
+                "\ud83d\udfe8\ud83d\udfe8\ud83d\udfe8\u2b1b\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1063,
+            "word": "TUTOR",
+            "hardMode": false,
+            "result": "4",
+            "resultValue": 4,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\ud83d\udfe9\u2b1b\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe9\u2b1b\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe9\u2b1b\u2b1b\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1064,
+            "word": "BRINY",
+            "hardMode": false,
+            "result": "4",
+            "resultValue": 4,
+            "offByOne": true,
+            "guesses": [
+                "\u2b1b\u2b1b\u2b1b\u2b1b\u2b1b",
+                "\u2b1b\u2b1b\u2b1b\u2b1b\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1065,
+            "word": "HITCH",
+            "hardMode": false,
+            "result": "X",
+            "resultValue": 6,
+            "offByOne": true,
+            "guesses": [
+                "\u2b1b\u2b1b\u2b1b\ud83d\udfe9\ud83d\udfe9",
+                "\u2b1b\u2b1b\u2b1b\ud83d\udfe9\ud83d\udfe9",
+                "\u2b1b\u2b1b\u2b1b\ud83d\udfe9\ud83d\udfe9",
+                "\u2b1b\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9",
+                "\u2b1b\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9",
+                "\u2b1b\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1066,
+            "word": "NICER",
+            "hardMode": false,
+            "result": "4",
+            "resultValue": 4,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\u2b1b\u2b1b\ud83d\udfe8\u2b1b",
+                "\ud83d\udfe8\ud83d\udfe8\u2b1b\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe8\u2b1b\ud83d\udfe8\ud83d\udfe8",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1067,
+            "word": "DINGO",
+            "hardMode": false,
+            "result": "4",
+            "resultValue": 4,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\u2b1b\u2b1b\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe8\u2b1b\u2b1b\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe8\u2b1b\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1068,
+            "word": "EXALT",
+            "hardMode": false,
+            "result": "4",
+            "resultValue": 4,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\u2b1b\ud83d\udfe8\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe8\ud83d\udfe9\u2b1b\u2b1b",
+                "\ud83d\udfe8\ud83d\udfe8\ud83d\udfe9\u2b1b\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1069,
+            "word": "SWISH",
+            "hardMode": false,
+            "result": "3",
+            "resultValue": 3,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\u2b1b\u2b1b\u2b1b\ud83d\udfe9",
+                "\u2b1b\u2b1b\u2b1b\ud83d\udfe9\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1070,
+            "word": "GLIDE",
+            "hardMode": false,
+            "result": "4",
+            "resultValue": 4,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\u2b1b\ud83d\udfe8\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe9\u2b1b\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe9\ud83d\udfe9\ud83d\udfe8\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1071,
+            "word": "TITAN",
+            "hardMode": false,
+            "result": "4",
+            "resultValue": 4,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\u2b1b\u2b1b\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe8\u2b1b\ud83d\udfe9\u2b1b",
+                "\u2b1b\u2b1b\u2b1b\ud83d\udfe9\ud83d\udfe8",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1072,
+            "word": "BEVEL",
+            "hardMode": false,
+            "result": "6",
+            "resultValue": 6,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\u2b1b\ud83d\udfe8\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe8\u2b1b\u2b1b\ud83d\udfe8",
+                "\ud83d\udfe8\ud83d\udfe9\u2b1b\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe9\u2b1b\u2b1b\ud83d\udfe9",
+                "\u2b1b\ud83d\udfe9\ud83d\udfe9\u2b1b\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1073,
+            "word": "SKIER",
+            "hardMode": false,
+            "result": "5",
+            "resultValue": 5,
+            "offByOne": true,
+            "guesses": [
+                "\u2b1b\u2b1b\u2b1b\u2b1b\u2b1b",
+                "\ud83d\udfe9\u2b1b\ud83d\udfe8\u2b1b\ud83d\udfe8",
+                "\ud83d\udfe9\u2b1b\u2b1b\ud83d\udfe8\ud83d\udfe8",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\u2b1b\ud83d\udfe8",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1074,
+            "word": "MINUS",
+            "hardMode": false,
+            "result": "3",
+            "resultValue": 3,
+            "offByOne": false,
+            "guesses": [
+                "\ud83d\udfe9\ud83d\udfe8\u2b1b\u2b1b\u2b1b",
+                "\ud83d\udfe9\u2b1b\ud83d\udfe8\ud83d\udfe8\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1075,
+            "word": "PAPAL",
+            "hardMode": false,
+            "result": "4",
+            "resultValue": 4,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\u2b1b\ud83d\udfe8\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe8\ud83d\udfe8\u2b1b\u2b1b",
+                "\ud83d\udfe8\ud83d\udfe9\u2b1b\u2b1b\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1076,
+            "word": "GUMMY",
+            "hardMode": false,
+            "result": "3",
+            "resultValue": 3,
+            "offByOne": false,
+            "guesses": [
+                "\ud83d\udfe8\ud83d\udfe9\u2b1b\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe9\ud83d\udfe9\u2b1b\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1077,
+            "word": "CHAOS",
+            "hardMode": false,
+            "result": "3",
+            "resultValue": 3,
+            "offByOne": true,
+            "guesses": [
+                "\u2b1b\u2b1b\u2b1b\ud83d\udfe8\ud83d\udfe8",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe8\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1078,
+            "word": "BASIN",
+            "hardMode": false,
+            "result": "4",
+            "resultValue": 4,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\u2b1b\u2b1b\u2b1b\u2b1b",
+                "\u2b1b\u2b1b\ud83d\udfe8\ud83d\udfe8\u2b1b",
+                "\u2b1b\u2b1b\ud83d\udfe8\ud83d\udfe9\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1079,
+            "word": "BRAVO",
+            "hardMode": false,
+            "result": "5",
+            "resultValue": 5,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\u2b1b\u2b1b\u2b1b\u2b1b",
+                "\u2b1b\u2b1b\u2b1b\ud83d\udfe8\u2b1b",
+                "\u2b1b\u2b1b\ud83d\udfe9\ud83d\udfe8\u2b1b",
+                "\u2b1b\ud83d\udfe9\ud83d\udfe9\u2b1b\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1080,
+            "word": "STARK",
+            "hardMode": false,
+            "result": "5",
+            "resultValue": 5,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\u2b1b\u2b1b\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe8\ud83d\udfe9\u2b1b\u2b1b",
+                "\u2b1b\u2b1b\ud83d\udfe9\ud83d\udfe9\u2b1b",
+                "\u2b1b\u2b1b\ud83d\udfe9\ud83d\udfe9\ud83d\udfe8",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1081,
+            "word": "GROOM",
+            "hardMode": false,
+            "result": "5",
+            "resultValue": 5,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\ud83d\udfe8\u2b1b\u2b1b\ud83d\udfe8",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\u2b1b\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\u2b1b\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\u2b1b\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1082,
+            "word": "ORGAN",
+            "hardMode": false,
+            "result": "4",
+            "resultValue": 4,
+            "offByOne": true,
+            "guesses": [
+                "\u2b1b\u2b1b\u2b1b\u2b1b\u2b1b",
+                "\u2b1b\u2b1b\u2b1b\ud83d\udfe9\ud83d\udfe8",
+                "\ud83d\udfe8\ud83d\udfe9\ud83d\udfe8\ud83d\udfe9\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1083,
+            "word": "ETHER",
+            "hardMode": false,
+            "result": "4",
+            "resultValue": 4,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\u2b1b\u2b1b\u2b1b\ud83d\udfe8",
+                "\u2b1b\ud83d\udfe8\u2b1b\u2b1b\ud83d\udfe8",
+                "\ud83d\udfe8\u2b1b\u2b1b\ud83d\udfe9\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1084,
+            "word": "MELON",
+            "hardMode": false,
+            "result": "2",
+            "resultValue": 2,
+            "offByOne": false,
+            "guesses": [
+                "\ud83d\udfe9\u2b1b\ud83d\udfe9\u2b1b\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1085,
+            "word": "HENCE",
+            "hardMode": false,
+            "result": "3",
+            "resultValue": 3,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\u2b1b\u2b1b\ud83d\udfe9\ud83d\udfe8",
+                "\u2b1b\ud83d\udfe8\u2b1b\ud83d\udfe9\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1086,
+            "word": "CROWD",
+            "hardMode": false,
+            "result": "4",
+            "resultValue": 4,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\u2b1b\u2b1b\ud83d\udfe8\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\u2b1b\u2b1b\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\u2b1b\u2b1b\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1087,
+            "word": "MANGA",
+            "hardMode": false,
+            "result": "5",
+            "resultValue": 5,
+            "offByOne": true,
+            "guesses": [
+                "\ud83d\udfe9\u2b1b\u2b1b\u2b1b\u2b1b",
+                "\ud83d\udfe9\u2b1b\u2b1b\u2b1b\u2b1b",
+                "\ud83d\udfe9\u2b1b\u2b1b\u2b1b\ud83d\udfe8",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1088,
+            "word": "SWUNG",
+            "hardMode": false,
+            "result": "5",
+            "resultValue": 5,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\ud83d\udfe8\u2b1b\u2b1b\u2b1b",
+                "\ud83d\udfe9\u2b1b\ud83d\udfe9\ud83d\udfe9\u2b1b",
+                "\ud83d\udfe9\u2b1b\ud83d\udfe9\ud83d\udfe9\u2b1b",
+                "\ud83d\udfe9\u2b1b\ud83d\udfe9\ud83d\udfe9\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1089,
+            "word": "DETER",
+            "hardMode": false,
+            "result": "5",
+            "resultValue": 5,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\u2b1b\u2b1b\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe8\ud83d\udfe8\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe8\u2b1b\ud83d\udfe8\ud83d\udfe8",
+                "\u2b1b\u2b1b\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1090,
+            "word": "ANGST",
+            "hardMode": false,
+            "result": "6",
+            "resultValue": 6,
+            "offByOne": true,
+            "guesses": [
+                "\u2b1b\u2b1b\u2b1b\u2b1b\u2b1b",
+                "\u2b1b\u2b1b\u2b1b\ud83d\udfe8\u2b1b",
+                "\u2b1b\ud83d\udfe8\ud83d\udfe8\u2b1b\ud83d\udfe8",
+                "\ud83d\udfe8\ud83d\udfe9\ud83d\udfe8\u2b1b\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe8\ud83d\udfe9\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1091,
+            "word": "VAULT",
+            "hardMode": false,
+            "result": "4",
+            "resultValue": 4,
+            "offByOne": true,
+            "guesses": [
+                "\u2b1b\ud83d\udfe8\ud83d\udfe8\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe8\ud83d\udfe9\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1093,
+            "word": "GRIND",
+            "hardMode": false,
+            "result": "4",
+            "resultValue": 4,
+            "offByOne": true,
+            "guesses": [
+                "\u2b1b\u2b1b\u2b1b\u2b1b\u2b1b",
+                "\ud83d\udfe8\u2b1b\ud83d\udfe9\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe8",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1094,
+            "word": "PRIOR",
+            "hardMode": false,
+            "result": "6",
+            "resultValue": 6,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\u2b1b\u2b1b\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe9\u2b1b\ud83d\udfe8\u2b1b",
+                "\u2b1b\ud83d\udfe9\ud83d\udfe9\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe9\ud83d\udfe9\ud83d\udfe8\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\u2b1b\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1095,
+            "word": "COVER",
+            "hardMode": false,
+            "result": "4",
+            "resultValue": 4,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\u2b1b\u2b1b\ud83d\udfe8\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe8\u2b1b\u2b1b\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe8\u2b1b\ud83d\udfe8",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1096,
+            "word": "TERSE",
+            "hardMode": false,
+            "result": "6",
+            "resultValue": 6,
+            "offByOne": true,
+            "guesses": [
+                "\u2b1b\u2b1b\u2b1b\u2b1b\u2b1b",
+                "\ud83d\udfe8\u2b1b\u2b1b\ud83d\udfe9\ud83d\udfe9",
+                "\u2b1b\u2b1b\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9",
+                "\u2b1b\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9",
+                "\u2b1b\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1097,
+            "word": "SCENT",
+            "hardMode": false,
+            "result": "3",
+            "resultValue": 3,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\u2b1b\u2b1b\ud83d\udfe8\u2b1b",
+                "\ud83d\udfe8\u2b1b\u2b1b\u2b1b\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1098,
+            "word": "PAINT",
+            "hardMode": false,
+            "result": "5",
+            "resultValue": 5,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\u2b1b\u2b1b\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe8\ud83d\udfe8\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe9\ud83d\udfe8\u2b1b\u2b1b",
+                "\ud83d\udfe8\ud83d\udfe9\u2b1b\u2b1b\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1099,
+            "word": "EDICT",
+            "hardMode": false,
+            "result": "4",
+            "resultValue": 4,
+            "offByOne": true,
+            "guesses": [
+                "\u2b1b\u2b1b\u2b1b\ud83d\udfe9\u2b1b",
+                "\u2b1b\u2b1b\ud83d\udfe9\ud83d\udfe9\ud83d\udfe8",
+                "\ud83d\udfe9\u2b1b\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1100,
+            "word": "BUGLE",
+            "hardMode": false,
+            "result": "3",
+            "resultValue": 3,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\ud83d\udfe9\ud83d\udfe8\u2b1b\u2b1b",
+                "\ud83d\udfe8\ud83d\udfe9\u2b1b\ud83d\udfe8\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1101,
+            "word": "DOLLY",
+            "hardMode": false,
+            "result": "6",
+            "resultValue": 6,
+            "offByOne": true,
+            "guesses": [
+                "\u2b1b\u2b1b\ud83d\udfe9\u2b1b\u2b1b",
+                "\u2b1b\u2b1b\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9",
+                "\u2b1b\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9",
+                "\u2b1b\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9",
+                "\u2b1b\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1102,
+            "word": "SAVOR",
+            "hardMode": false,
+            "result": "3",
+            "resultValue": 3,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\u2b1b\u2b1b\u2b1b\u2b1b",
+                "\ud83d\udfe9\u2b1b\u2b1b\ud83d\udfe8\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1103,
+            "word": "KNEAD",
+            "hardMode": false,
+            "result": "4",
+            "resultValue": 4,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\u2b1b\u2b1b\u2b1b\u2b1b",
+                "\u2b1b\u2b1b\ud83d\udfe8\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe8\ud83d\udfe8\ud83d\udfe8\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1104,
+            "word": "ORDER",
+            "hardMode": false,
+            "result": "3",
+            "resultValue": 3,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\u2b1b\u2b1b\u2b1b\u2b1b",
+                "\ud83d\udfe8\ud83d\udfe9\u2b1b\u2b1b\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1106,
+            "word": "ZEBRA",
+            "hardMode": false,
+            "result": "5",
+            "resultValue": 5,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\u2b1b\u2b1b\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe8\ud83d\udfe8\u2b1b\u2b1b",
+                "\u2b1b\u2b1b\ud83d\udfe8\ud83d\udfe8\u2b1b",
+                "\ud83d\udfe8\ud83d\udfe8\u2b1b\u2b1b\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1107,
+            "word": "BUDDY",
+            "hardMode": false,
+            "result": "5",
+            "resultValue": 5,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\ud83d\udfe9\u2b1b\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe9\u2b1b\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe9\u2b1b\u2b1b\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\u2b1b\u2b1b\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1108,
+            "word": "ADAGE",
+            "hardMode": false,
+            "result": "4",
+            "resultValue": 4,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\u2b1b\u2b1b\u2b1b\u2b1b",
+                "\ud83d\udfe8\u2b1b\ud83d\udfe9\u2b1b\u2b1b",
+                "\u2b1b\u2b1b\ud83d\udfe9\ud83d\udfe8\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1109,
+            "word": "INLAY",
+            "hardMode": false,
+            "result": "5",
+            "resultValue": 5,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\u2b1b\ud83d\udfe9\u2b1b\u2b1b",
+                "\u2b1b\u2b1b\ud83d\udfe9\ud83d\udfe9\u2b1b",
+                "\u2b1b\u2b1b\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9",
+                "\u2b1b\u2b1b\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1110,
+            "word": "THIGH",
+            "hardMode": false,
+            "result": "3",
+            "resultValue": 3,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\u2b1b\u2b1b\u2b1b\ud83d\udfe9",
+                "\u2b1b\u2b1b\ud83d\udfe9\u2b1b\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1111,
+            "word": "DEBUT",
+            "hardMode": false,
+            "result": "4",
+            "resultValue": 4,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\ud83d\udfe8\u2b1b\u2b1b\u2b1b",
+                "\u2b1b\u2b1b\ud83d\udfe8\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe8\u2b1b\ud83d\udfe9\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1113,
+            "word": "SCOFF",
+            "hardMode": false,
+            "result": "5",
+            "resultValue": 5,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\u2b1b\u2b1b\ud83d\udfe8\u2b1b",
+                "\ud83d\udfe8\u2b1b\u2b1b\ud83d\udfe8\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\u2b1b\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\u2b1b\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1115,
+            "word": "SHAPE",
+            "hardMode": false,
+            "result": "5",
+            "resultValue": 5,
+            "offByOne": true,
+            "guesses": [
+                "\u2b1b\u2b1b\u2b1b\u2b1b\ud83d\udfe8",
+                "\ud83d\udfe8\u2b1b\u2b1b\ud83d\udfe8\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\u2b1b\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\u2b1b\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1116,
+            "word": "BLARE",
+            "hardMode": false,
+            "result": "X",
+            "resultValue": 6,
+            "offByOne": true,
+            "guesses": [
+                "\u2b1b\u2b1b\ud83d\udfe8\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe9\u2b1b\u2b1b\ud83d\udfe9",
+                "\ud83d\udfe8\ud83d\udfe9\u2b1b\u2b1b\ud83d\udfe9",
+                "\u2b1b\ud83d\udfe9\ud83d\udfe9\u2b1b\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\u2b1b\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\u2b1b\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1117,
+            "word": "GAUNT",
+            "hardMode": false,
+            "result": "6",
+            "resultValue": 6,
+            "offByOne": true,
+            "guesses": [
+                "\u2b1b\ud83d\udfe8\u2b1b\u2b1b\u2b1b",
+                "\u2b1b\u2b1b\ud83d\udfe9\ud83d\udfe9\u2b1b",
+                "\u2b1b\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9",
+                "\u2b1b\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9",
+                "\u2b1b\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1118,
+            "word": "CAMEO",
+            "hardMode": false,
+            "result": "3",
+            "resultValue": 3,
+            "offByOne": false,
+            "guesses": [
+                "\ud83d\udfe8\u2b1b\u2b1b\ud83d\udfe8\u2b1b",
+                "\ud83d\udfe9\u2b1b\ud83d\udfe8\ud83d\udfe8\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1119,
+            "word": "JIFFY",
+            "hardMode": false,
+            "result": "5",
+            "resultValue": 5,
+            "offByOne": true,
+            "guesses": [
+                "\u2b1b\u2b1b\u2b1b\u2b1b\u2b1b",
+                "\u2b1b\u2b1b\u2b1b\ud83d\udfe8\u2b1b",
+                "\u2b1b\u2b1b\ud83d\udfe8\u2b1b\u2b1b",
+                "\ud83d\udfe8\ud83d\udfe9\ud83d\udfe9\u2b1b\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1120,
+            "word": "ENACT",
+            "hardMode": false,
+            "result": "4",
+            "resultValue": 4,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\u2b1b\u2b1b\ud83d\udfe9\u2b1b",
+                "\u2b1b\u2b1b\u2b1b\ud83d\udfe9\u2b1b",
+                "\u2b1b\ud83d\udfe8\ud83d\udfe8\ud83d\udfe9\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1121,
+            "word": "VIDEO",
+            "hardMode": false,
+            "result": "3",
+            "resultValue": 3,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\u2b1b\u2b1b\u2b1b\u2b1b",
+                "\u2b1b\u2b1b\ud83d\udfe8\u2b1b\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1122,
+            "word": "SWOON",
+            "hardMode": false,
+            "result": "4",
+            "resultValue": 4,
+            "offByOne": true,
+            "guesses": [
+                "\u2b1b\u2b1b\u2b1b\u2b1b\u2b1b",
+                "\u2b1b\u2b1b\u2b1b\u2b1b\ud83d\udfe9",
+                "\ud83d\udfe9\u2b1b\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1123,
+            "word": "DECOY",
+            "hardMode": false,
+            "result": "5",
+            "resultValue": 5,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\u2b1b\u2b1b\ud83d\udfe8\u2b1b",
+                "\ud83d\udfe8\u2b1b\u2b1b\u2b1b\ud83d\udfe8",
+                "\u2b1b\ud83d\udfe9\ud83d\udfe9\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe9\ud83d\udfe9\u2b1b\ud83d\udfe8",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1124,
+            "word": "QUITE",
+            "hardMode": false,
+            "result": "5",
+            "resultValue": 5,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\ud83d\udfe9\u2b1b\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe9\ud83d\udfe8\u2b1b\u2b1b",
+                "\ud83d\udfe8\ud83d\udfe9\u2b1b\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe9\u2b1b\ud83d\udfe8\ud83d\udfe8",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1125,
+            "word": "NERDY",
+            "hardMode": false,
+            "result": "4",
+            "resultValue": 4,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\u2b1b\u2b1b\u2b1b\u2b1b",
+                "\ud83d\udfe8\ud83d\udfe8\u2b1b\u2b1b\ud83d\udfe8",
+                "\ud83d\udfe8\ud83d\udfe8\ud83d\udfe8\u2b1b\ud83d\udfe8",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1126,
+            "word": "REFER",
+            "hardMode": false,
+            "result": "5",
+            "resultValue": 5,
+            "offByOne": true,
+            "guesses": [
+                "\u2b1b\u2b1b\ud83d\udfe8\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe8\u2b1b\u2b1b\ud83d\udfe8",
+                "\u2b1b\u2b1b\u2b1b\ud83d\udfe9\ud83d\udfe9",
+                "\ud83d\udfe8\ud83d\udfe9\u2b1b\ud83d\udfe9\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1127,
+            "word": "SHAFT",
+            "hardMode": false,
+            "result": "3",
+            "resultValue": 3,
+            "offByOne": false,
+            "guesses": [
+                "\ud83d\udfe9\ud83d\udfe8\u2b1b\ud83d\udfe8\u2b1b",
+                "\ud83d\udfe9\u2b1b\ud83d\udfe9\u2b1b\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1128,
+            "word": "SPECK",
+            "hardMode": false,
+            "result": "2",
+            "resultValue": 2,
+            "offByOne": false,
+            "guesses": [
+                "\ud83d\udfe9\u2b1b\ud83d\udfe9\u2b1b\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1129,
+            "word": "CADET",
+            "hardMode": false,
+            "result": "4",
+            "resultValue": 4,
+            "offByOne": true,
+            "guesses": [
+                "\u2b1b\ud83d\udfe8\ud83d\udfe8\ud83d\udfe8\u2b1b",
+                "\ud83d\udfe8\ud83d\udfe8\ud83d\udfe8\ud83d\udfe8\u2b1b",
+                "\u2b1b\ud83d\udfe9\ud83d\udfe8\ud83d\udfe9\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1130,
+            "word": "PRONG",
+            "hardMode": false,
+            "result": "5",
+            "resultValue": 5,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\u2b1b\u2b1b\u2b1b\u2b1b",
+                "\u2b1b\u2b1b\u2b1b\u2b1b\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\u2b1b\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\u2b1b\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1131,
+            "word": "FORTE",
+            "hardMode": false,
+            "result": "5",
+            "resultValue": 5,
+            "offByOne": true,
+            "guesses": [
+                "\u2b1b\ud83d\udfe8\ud83d\udfe8\u2b1b\u2b1b",
+                "\ud83d\udfe8\u2b1b\u2b1b\u2b1b\ud83d\udfe9",
+                "\u2b1b\ud83d\udfe8\ud83d\udfe8\ud83d\udfe9\ud83d\udfe9",
+                "\ud83d\udfe8\ud83d\udfe9\u2b1b\ud83d\udfe9\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1132,
+            "word": "PORCH",
+            "hardMode": false,
+            "result": "4",
+            "resultValue": 4,
+            "offByOne": true,
+            "guesses": [
+                "\u2b1b\u2b1b\u2b1b\u2b1b\u2b1b",
+                "\u2b1b\u2b1b\u2b1b\ud83d\udfe9\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\u2b1b\ud83d\udfe9\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1133,
+            "word": "AWASH",
+            "hardMode": false,
+            "result": "4",
+            "resultValue": 4,
+            "offByOne": true,
+            "guesses": [
+                "\ud83d\udfe8\u2b1b\u2b1b\ud83d\udfe8\u2b1b",
+                "\u2b1b\ud83d\udfe8\ud83d\udfe9\ud83d\udfe9\u2b1b",
+                "\ud83d\udfe9\u2b1b\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1134,
+            "word": "JUICE",
+            "hardMode": false,
+            "result": "6",
+            "resultValue": 6,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\u2b1b\ud83d\udfe8\u2b1b\u2b1b",
+                "\u2b1b\u2b1b\ud83d\udfe9\u2b1b\ud83d\udfe9",
+                "\u2b1b\u2b1b\ud83d\udfe9\u2b1b\ud83d\udfe9",
+                "\u2b1b\u2b1b\ud83d\udfe9\u2b1b\ud83d\udfe9",
+                "\u2b1b\ud83d\udfe9\ud83d\udfe9\ud83d\udfe8\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1135,
+            "word": "SMOCK",
+            "hardMode": false,
+            "result": "4",
+            "resultValue": 4,
+            "offByOne": true,
+            "guesses": [
+                "\ud83d\udfe9\u2b1b\u2b1b\u2b1b\ud83d\udfe9",
+                "\ud83d\udfe9\u2b1b\u2b1b\ud83d\udfe9\ud83d\udfe9",
+                "\ud83d\udfe9\u2b1b\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1136,
+            "word": "SUPER",
+            "hardMode": false,
+            "result": "3",
+            "resultValue": 3,
+            "offByOne": false,
+            "guesses": [
+                "\ud83d\udfe9\u2b1b\ud83d\udfe8\u2b1b\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe8\ud83d\udfe8\ud83d\udfe8\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1137,
+            "word": "FERAL",
+            "hardMode": false,
+            "result": "4",
+            "resultValue": 4,
+            "offByOne": true,
+            "guesses": [
+                "\u2b1b\u2b1b\ud83d\udfe8\ud83d\udfe9\u2b1b",
+                "\u2b1b\ud83d\udfe9\u2b1b\ud83d\udfe9\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\u2b1b\ud83d\udfe9\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1138,
+            "word": "PENNE",
+            "hardMode": false,
+            "result": "4",
+            "resultValue": 4,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\u2b1b\ud83d\udfe8\u2b1b\u2b1b",
+                "\ud83d\udfe8\u2b1b\u2b1b\u2b1b\ud83d\udfe9",
+                "\ud83d\udfe9\u2b1b\u2b1b\ud83d\udfe9\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1139,
+            "word": "CHALK",
+            "hardMode": false,
+            "result": "3",
+            "resultValue": 3,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\u2b1b\u2b1b\ud83d\udfe8\ud83d\udfe9",
+                "\u2b1b\u2b1b\ud83d\udfe9\ud83d\udfe8\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1140,
+            "word": "FLAKE",
+            "hardMode": false,
+            "result": "3",
+            "resultValue": 3,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\u2b1b\ud83d\udfe8\ud83d\udfe8\ud83d\udfe8",
+                "\u2b1b\u2b1b\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1141,
+            "word": "SCALE",
+            "hardMode": false,
+            "result": "4",
+            "resultValue": 4,
+            "offByOne": false,
+            "guesses": [
+                "\ud83d\udfe9\u2b1b\ud83d\udfe8\ud83d\udfe8\u2b1b",
+                "\ud83d\udfe9\u2b1b\ud83d\udfe9\u2b1b\ud83d\udfe9",
+                "\ud83d\udfe9\u2b1b\ud83d\udfe9\u2b1b\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1142,
+            "word": "LOWER",
+            "hardMode": false,
+            "result": "5",
+            "resultValue": 5,
+            "offByOne": true,
+            "guesses": [
+                "\u2b1b\u2b1b\ud83d\udfe8\u2b1b\u2b1b",
+                "\ud83d\udfe8\u2b1b\u2b1b\ud83d\udfe8\ud83d\udfe8",
+                "\u2b1b\ud83d\udfe8\ud83d\udfe8\ud83d\udfe8\ud83d\udfe8",
+                "\u2b1b\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe8",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1143,
+            "word": "ENSUE",
+            "hardMode": false,
+            "result": "4",
+            "resultValue": 4,
+            "offByOne": false,
+            "guesses": [
+                "\ud83d\udfe8\u2b1b\ud83d\udfe8\u2b1b\u2b1b",
+                "\u2b1b\u2b1b\u2b1b\ud83d\udfe8\ud83d\udfe9",
+                "\u2b1b\u2b1b\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1144,
+            "word": "ANVIL",
+            "hardMode": false,
+            "result": "5",
+            "resultValue": 5,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\u2b1b\u2b1b\ud83d\udfe8\u2b1b",
+                "\u2b1b\u2b1b\ud83d\udfe8\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe8\u2b1b\u2b1b\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe8\u2b1b\ud83d\udfe8\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1145,
+            "word": "MACAW",
+            "hardMode": false,
+            "result": "4",
+            "resultValue": 4,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\u2b1b\u2b1b\ud83d\udfe9\u2b1b",
+                "\u2b1b\u2b1b\u2b1b\ud83d\udfe9\u2b1b",
+                "\u2b1b\ud83d\udfe9\u2b1b\ud83d\udfe9\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1146,
+            "word": "SAUCY",
+            "hardMode": false,
+            "result": "5",
+            "resultValue": 5,
+            "offByOne": false,
+            "guesses": [
+                "\ud83d\udfe9\u2b1b\u2b1b\ud83d\udfe8\u2b1b",
+                "\ud83d\udfe9\u2b1b\ud83d\udfe8\u2b1b\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\u2b1b\u2b1b\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\u2b1b\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1147,
+            "word": "OUNCE",
+            "hardMode": false,
+            "result": "4",
+            "resultValue": 4,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\u2b1b\ud83d\udfe8\u2b1b\u2b1b",
+                "\u2b1b\u2b1b\u2b1b\ud83d\udfe8\u2b1b",
+                "\u2b1b\ud83d\udfe8\ud83d\udfe8\u2b1b\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1148,
+            "word": "",
+            "hardMode": false,
+            "result": "4",
+            "resultValue": 4,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\u2b1b\ud83d\udfe8\u2b1b\u2b1b",
+                "\ud83d\udfe8\u2b1b\u2b1b\u2b1b\ud83d\udfe8",
+                "\u2b1b\ud83d\udfe8\u2b1b\ud83d\udfe8\ud83d\udfe8",
                 "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
             ]
         }
@@ -20442,7 +21721,7 @@
         },
         {
             "ID": 1032,
-            "word": "",
+            "word": "SHANK",
             "hardMode": false,
             "result": "3",
             "resultValue": 3,
@@ -20455,7 +21734,7 @@
         },
         {
             "ID": 1033,
-            "word": "",
+            "word": "TITHE",
             "hardMode": false,
             "result": "2",
             "resultValue": 2,
@@ -20467,7 +21746,7 @@
         },
         {
             "ID": 1034,
-            "word": "",
+            "word": "FACET",
             "hardMode": false,
             "result": "5",
             "resultValue": 5,
@@ -20482,7 +21761,7 @@
         },
         {
             "ID": 1035,
-            "word": "",
+            "word": "RAISE",
             "hardMode": false,
             "result": "2",
             "resultValue": 2,
@@ -20494,7 +21773,7 @@
         },
         {
             "ID": 1037,
-            "word": "",
+            "word": "JOLLY",
             "hardMode": false,
             "result": "X",
             "resultValue": 6,
@@ -20510,7 +21789,7 @@
         },
         {
             "ID": 1038,
-            "word": "",
+            "word": "LASER",
             "hardMode": false,
             "result": "3",
             "resultValue": 3,
@@ -20523,7 +21802,7 @@
         },
         {
             "ID": 1039,
-            "word": "",
+            "word": "ROVER",
             "hardMode": false,
             "result": "5",
             "resultValue": 5,
@@ -20538,7 +21817,7 @@
         },
         {
             "ID": 1040,
-            "word": "",
+            "word": "OVERT",
             "hardMode": false,
             "result": "4",
             "resultValue": 4,
@@ -20552,7 +21831,7 @@
         },
         {
             "ID": 1041,
-            "word": "",
+            "word": "INTRO",
             "hardMode": false,
             "result": "2",
             "resultValue": 2,
@@ -20564,7 +21843,7 @@
         },
         {
             "ID": 1042,
-            "word": "",
+            "word": "VAPID",
             "hardMode": false,
             "result": "3",
             "resultValue": 3,
@@ -20577,7 +21856,7 @@
         },
         {
             "ID": 1043,
-            "word": "",
+            "word": "GLEAM",
             "hardMode": false,
             "result": "3",
             "resultValue": 3,
@@ -20590,7 +21869,7 @@
         },
         {
             "ID": 1044,
-            "word": "",
+            "word": "PRUNE",
             "hardMode": false,
             "result": "3",
             "resultValue": 3,
@@ -20603,7 +21882,7 @@
         },
         {
             "ID": 1045,
-            "word": "",
+            "word": "CRAFT",
             "hardMode": false,
             "result": "4",
             "resultValue": 4,
@@ -20617,7 +21896,7 @@
         },
         {
             "ID": 1046,
-            "word": "",
+            "word": "PROWL",
             "hardMode": false,
             "result": "4",
             "resultValue": 4,
@@ -20631,7 +21910,7 @@
         },
         {
             "ID": 1047,
-            "word": "",
+            "word": "DIARY",
             "hardMode": false,
             "result": "3",
             "resultValue": 3,
@@ -20644,7 +21923,7 @@
         },
         {
             "ID": 1048,
-            "word": "",
+            "word": "SLICE",
             "hardMode": false,
             "result": "3",
             "resultValue": 3,
@@ -20657,7 +21936,7 @@
         },
         {
             "ID": 1050,
-            "word": "",
+            "word": "VALUE",
             "hardMode": false,
             "result": "5",
             "resultValue": 5,
@@ -20672,7 +21951,7 @@
         },
         {
             "ID": 1051,
-            "word": "",
+            "word": "DECAL",
             "hardMode": false,
             "result": "4",
             "resultValue": 4,
@@ -20686,7 +21965,7 @@
         },
         {
             "ID": 1052,
-            "word": "",
+            "word": "SHAVE",
             "hardMode": false,
             "result": "4",
             "resultValue": 4,
@@ -20700,7 +21979,7 @@
         },
         {
             "ID": 1053,
-            "word": "",
+            "word": "MUSTY",
             "hardMode": false,
             "result": "5",
             "resultValue": 5,
@@ -20715,7 +21994,7 @@
         },
         {
             "ID": 1054,
-            "word": "",
+            "word": "PIOUS",
             "hardMode": false,
             "result": "5",
             "resultValue": 5,
@@ -20730,7 +22009,7 @@
         },
         {
             "ID": 1055,
-            "word": "",
+            "word": "JERKY",
             "hardMode": false,
             "result": "5",
             "resultValue": 5,
@@ -20739,6 +22018,557 @@
                 "\u2b1b\u2b1b\u2b1b\u2b1b\ud83d\udfe8",
                 "\u2b1b\ud83d\udfe8\ud83d\udfe8\u2b1b\u2b1b",
                 "\ud83d\udfe8\ud83d\udfe9\u2b1b\u2b1b\ud83d\udfe9",
+                "\u2b1b\ud83d\udfe9\ud83d\udfe9\u2b1b\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1056,
+            "word": "MEDIA",
+            "hardMode": false,
+            "result": "2",
+            "resultValue": 2,
+            "offByOne": false,
+            "guesses": [
+                "\ud83d\udfe8\u2b1b\ud83d\udfe8\ud83d\udfe8\ud83d\udfe8",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1058,
+            "word": "OUTER",
+            "hardMode": false,
+            "result": "5",
+            "resultValue": 5,
+            "offByOne": true,
+            "guesses": [
+                "\u2b1b\u2b1b\u2b1b\u2b1b\ud83d\udfe8",
+                "\u2b1b\u2b1b\ud83d\udfe8\u2b1b\u2b1b",
+                "\ud83d\udfe8\ud83d\udfe8\u2b1b\ud83d\udfe8\u2b1b",
+                "\u2b1b\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1059,
+            "word": "CUMIN",
+            "hardMode": false,
+            "result": "3",
+            "resultValue": 3,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\ud83d\udfe8\ud83d\udfe8\ud83d\udfe8\u2b1b",
+                "\ud83d\udfe8\ud83d\udfe8\ud83d\udfe8\ud83d\udfe8\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1060,
+            "word": "AMASS",
+            "hardMode": false,
+            "result": "5",
+            "resultValue": 5,
+            "offByOne": false,
+            "guesses": [
+                "\ud83d\udfe9\u2b1b\u2b1b\ud83d\udfe8\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\u2b1b\u2b1b\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\u2b1b\u2b1b\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\u2b1b\u2b1b\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1061,
+            "word": "PINCH",
+            "hardMode": false,
+            "result": "4",
+            "resultValue": 4,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\ud83d\udfe8\ud83d\udfe8\u2b1b\u2b1b",
+                "\u2b1b\u2b1b\ud83d\udfe8\ud83d\udfe8\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\u2b1b\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1062,
+            "word": "STALL",
+            "hardMode": false,
+            "result": "3",
+            "resultValue": 3,
+            "offByOne": false,
+            "guesses": [
+                "\ud83d\udfe8\u2b1b\u2b1b\u2b1b\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\u2b1b\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1063,
+            "word": "TUTOR",
+            "hardMode": false,
+            "result": "4",
+            "resultValue": 4,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\u2b1b\u2b1b\u2b1b\u2b1b",
+                "\u2b1b\u2b1b\ud83d\udfe8\u2b1b\ud83d\udfe8",
+                "\u2b1b\u2b1b\ud83d\udfe8\ud83d\udfe8\ud83d\udfe8",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1064,
+            "word": "BRINY",
+            "hardMode": false,
+            "result": "5",
+            "resultValue": 5,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\ud83d\udfe8\ud83d\udfe9\u2b1b\u2b1b",
+                "\u2b1b\u2b1b\ud83d\udfe9\ud83d\udfe9\u2b1b",
+                "\u2b1b\u2b1b\ud83d\udfe9\ud83d\udfe9\u2b1b",
+                "\u2b1b\u2b1b\ud83d\udfe9\ud83d\udfe9\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1065,
+            "word": "HITCH",
+            "hardMode": false,
+            "result": "X",
+            "resultValue": 6,
+            "offByOne": true,
+            "guesses": [
+                "\u2b1b\u2b1b\ud83d\udfe8\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe8\ud83d\udfe8\ud83d\udfe9\ud83d\udfe9",
+                "\u2b1b\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9",
+                "\u2b1b\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9",
+                "\u2b1b\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9",
+                "\u2b1b\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1066,
+            "word": "NICER",
+            "hardMode": false,
+            "result": "4",
+            "resultValue": 4,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\ud83d\udfe8\ud83d\udfe8\u2b1b\ud83d\udfe8",
+                "\u2b1b\u2b1b\ud83d\udfe8\ud83d\udfe8\ud83d\udfe8",
+                "\u2b1b\ud83d\udfe9\ud83d\udfe8\ud83d\udfe9\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1067,
+            "word": "DINGO",
+            "hardMode": false,
+            "result": "4",
+            "resultValue": 4,
+            "offByOne": true,
+            "guesses": [
+                "\u2b1b\ud83d\udfe8\ud83d\udfe8\u2b1b\u2b1b",
+                "\ud83d\udfe8\ud83d\udfe9\ud83d\udfe8\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1068,
+            "word": "EXALT",
+            "hardMode": false,
+            "result": "4",
+            "resultValue": 4,
+            "offByOne": false,
+            "guesses": [
+                "\ud83d\udfe8\u2b1b\u2b1b\u2b1b\ud83d\udfe8",
+                "\u2b1b\ud83d\udfe8\ud83d\udfe8\ud83d\udfe8\u2b1b",
+                "\ud83d\udfe8\ud83d\udfe8\ud83d\udfe9\u2b1b\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1069,
+            "word": "SWISH",
+            "hardMode": false,
+            "result": "3",
+            "resultValue": 3,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\u2b1b\ud83d\udfe9\u2b1b\u2b1b",
+                "\ud83d\udfe9\u2b1b\ud83d\udfe9\u2b1b\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1070,
+            "word": "GLIDE",
+            "hardMode": false,
+            "result": "6",
+            "resultValue": 6,
+            "offByOne": true,
+            "guesses": [
+                "\u2b1b\u2b1b\ud83d\udfe9\u2b1b\ud83d\udfe9",
+                "\u2b1b\u2b1b\ud83d\udfe9\u2b1b\ud83d\udfe9",
+                "\u2b1b\u2b1b\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9",
+                "\u2b1b\u2b1b\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9",
+                "\ud83d\udfe9\u2b1b\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1071,
+            "word": "TITAN",
+            "hardMode": false,
+            "result": "3",
+            "resultValue": 3,
+            "offByOne": false,
+            "guesses": [
+                "\ud83d\udfe8\ud83d\udfe8\ud83d\udfe8\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe8\ud83d\udfe8\ud83d\udfe8\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1072,
+            "word": "BEVEL",
+            "hardMode": false,
+            "result": "6",
+            "resultValue": 6,
+            "offByOne": true,
+            "guesses": [
+                "\u2b1b\u2b1b\u2b1b\u2b1b\ud83d\udfe8",
+                "\u2b1b\ud83d\udfe8\ud83d\udfe8\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe9\ud83d\udfe8\u2b1b\u2b1b",
+                "\ud83d\udfe8\ud83d\udfe9\u2b1b\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1073,
+            "word": "SKIER",
+            "hardMode": false,
+            "result": "4",
+            "resultValue": 4,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\u2b1b\ud83d\udfe9\u2b1b\ud83d\udfe8",
+                "\u2b1b\u2b1b\ud83d\udfe9\ud83d\udfe9\u2b1b",
+                "\u2b1b\u2b1b\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1074,
+            "word": "MINUS",
+            "hardMode": false,
+            "result": "3",
+            "resultValue": 3,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\ud83d\udfe8\ud83d\udfe8\ud83d\udfe8\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\u2b1b\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1075,
+            "word": "PAPAL",
+            "hardMode": false,
+            "result": "6",
+            "resultValue": 6,
+            "offByOne": false,
+            "guesses": [
+                "\ud83d\udfe8\u2b1b\u2b1b\u2b1b\u2b1b",
+                "\u2b1b\u2b1b\ud83d\udfe8\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe9\ud83d\udfe8\u2b1b\u2b1b",
+                "\ud83d\udfe8\ud83d\udfe9\u2b1b\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe9\u2b1b\ud83d\udfe8\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1076,
+            "word": "GUMMY",
+            "hardMode": false,
+            "result": "4",
+            "resultValue": 4,
+            "offByOne": true,
+            "guesses": [
+                "\u2b1b\u2b1b\u2b1b\ud83d\udfe9\u2b1b",
+                "\u2b1b\u2b1b\ud83d\udfe8\ud83d\udfe9\u2b1b",
+                "\u2b1b\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1077,
+            "word": "CHAOS",
+            "hardMode": false,
+            "result": "5",
+            "resultValue": 5,
+            "offByOne": true,
+            "guesses": [
+                "\ud83d\udfe8\u2b1b\u2b1b\u2b1b\u2b1b",
+                "\ud83d\udfe8\u2b1b\ud83d\udfe9\ud83d\udfe8\u2b1b",
+                "\ud83d\udfe9\u2b1b\ud83d\udfe9\ud83d\udfe8\ud83d\udfe8",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\u2b1b\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1078,
+            "word": "BASIN",
+            "hardMode": false,
+            "result": "3",
+            "resultValue": 3,
+            "offByOne": false,
+            "guesses": [
+                "\ud83d\udfe8\ud83d\udfe8\ud83d\udfe8\u2b1b\u2b1b",
+                "\ud83d\udfe8\u2b1b\ud83d\udfe8\ud83d\udfe9\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1079,
+            "word": "BRAVO",
+            "hardMode": false,
+            "result": "4",
+            "resultValue": 4,
+            "offByOne": false,
+            "guesses": [
+                "\ud83d\udfe8\u2b1b\u2b1b\u2b1b\u2b1b",
+                "\u2b1b\u2b1b\ud83d\udfe9\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1080,
+            "word": "STARK",
+            "hardMode": false,
+            "result": "3",
+            "resultValue": 3,
+            "offByOne": false,
+            "guesses": [
+                "\ud83d\udfe8\u2b1b\u2b1b\u2b1b\u2b1b",
+                "\ud83d\udfe9\u2b1b\ud83d\udfe9\ud83d\udfe9\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1081,
+            "word": "GROOM",
+            "hardMode": false,
+            "result": "5",
+            "resultValue": 5,
+            "offByOne": true,
+            "guesses": [
+                "\u2b1b\u2b1b\u2b1b\ud83d\udfe8\u2b1b",
+                "\ud83d\udfe8\ud83d\udfe8\u2b1b\u2b1b\u2b1b",
+                "\u2b1b\u2b1b\ud83d\udfe9\ud83d\udfe8\ud83d\udfe9",
+                "\u2b1b\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1082,
+            "word": "ORGAN",
+            "hardMode": false,
+            "result": "5",
+            "resultValue": 5,
+            "offByOne": true,
+            "guesses": [
+                "\ud83d\udfe8\ud83d\udfe8\u2b1b\u2b1b\u2b1b",
+                "\u2b1b\u2b1b\ud83d\udfe8\ud83d\udfe8\u2b1b",
+                "\ud83d\udfe8\ud83d\udfe8\u2b1b\u2b1b\ud83d\udfe8",
+                "\ud83d\udfe8\ud83d\udfe9\ud83d\udfe8\ud83d\udfe9\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1083,
+            "word": "ETHER",
+            "hardMode": false,
+            "result": "5",
+            "resultValue": 5,
+            "offByOne": true,
+            "guesses": [
+                "\u2b1b\u2b1b\u2b1b\u2b1b\ud83d\udfe8",
+                "\ud83d\udfe8\ud83d\udfe8\u2b1b\u2b1b\u2b1b",
+                "\u2b1b\u2b1b\u2b1b\ud83d\udfe9\ud83d\udfe9",
+                "\u2b1b\ud83d\udfe9\ud83d\udfe8\ud83d\udfe9\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1084,
+            "word": "MELON",
+            "hardMode": false,
+            "result": "3",
+            "resultValue": 3,
+            "offByOne": true,
+            "guesses": [
+                "\u2b1b\ud83d\udfe8\u2b1b\ud83d\udfe8\ud83d\udfe8",
+                "\u2b1b\ud83d\udfe9\ud83d\udfe8\ud83d\udfe9\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1085,
+            "word": "HENCE",
+            "hardMode": false,
+            "result": "5",
+            "resultValue": 5,
+            "offByOne": true,
+            "guesses": [
+                "\u2b1b\ud83d\udfe8\u2b1b\u2b1b\ud83d\udfe9",
+                "\u2b1b\u2b1b\u2b1b\ud83d\udfe8\ud83d\udfe9",
+                "\u2b1b\u2b1b\ud83d\udfe9\u2b1b\ud83d\udfe9",
+                "\u2b1b\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1086,
+            "word": "CROWD",
+            "hardMode": false,
+            "result": "3",
+            "resultValue": 3,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\u2b1b\u2b1b\u2b1b\u2b1b",
+                "\ud83d\udfe9\u2b1b\ud83d\udfe8\u2b1b\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1087,
+            "word": "MANGA",
+            "hardMode": false,
+            "result": "4",
+            "resultValue": 4,
+            "offByOne": true,
+            "guesses": [
+                "\ud83d\udfe8\ud83d\udfe8\u2b1b\ud83d\udfe8\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1088,
+            "word": "SWUNG",
+            "hardMode": false,
+            "result": "3",
+            "resultValue": 3,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\ud83d\udfe8\u2b1b\u2b1b\u2b1b",
+                "\u2b1b\u2b1b\u2b1b\ud83d\udfe8\ud83d\udfe8",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1089,
+            "word": "DETER",
+            "hardMode": false,
+            "result": "3",
+            "resultValue": 3,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\u2b1b\u2b1b\u2b1b\ud83d\udfe8",
+                "\ud83d\udfe9\ud83d\udfe9\u2b1b\u2b1b\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1090,
+            "word": "ANGST",
+            "hardMode": false,
+            "result": "4",
+            "resultValue": 4,
+            "offByOne": false,
+            "guesses": [
+                "\ud83d\udfe9\ud83d\udfe9\u2b1b\u2b1b\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\u2b1b\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\u2b1b\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1091,
+            "word": "VAULT",
+            "hardMode": false,
+            "result": "5",
+            "resultValue": 5,
+            "offByOne": false,
+            "guesses": [
+                "\ud83d\udfe8\u2b1b\u2b1b\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe8\ud83d\udfe8\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe9\u2b1b\ud83d\udfe8\u2b1b",
+                "\ud83d\udfe8\ud83d\udfe9\u2b1b\u2b1b\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1093,
+            "word": "GRIND",
+            "hardMode": false,
+            "result": "4",
+            "resultValue": 4,
+            "offByOne": true,
+            "guesses": [
+                "\u2b1b\ud83d\udfe8\ud83d\udfe9\u2b1b\u2b1b",
+                "\u2b1b\u2b1b\ud83d\udfe9\ud83d\udfe9\u2b1b",
+                "\u2b1b\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe8",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1095,
+            "word": "COVER",
+            "hardMode": false,
+            "result": "4",
+            "resultValue": 4,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\u2b1b\u2b1b\u2b1b\ud83d\udfe8",
+                "\u2b1b\ud83d\udfe8\ud83d\udfe8\ud83d\udfe8\u2b1b",
+                "\ud83d\udfe9\u2b1b\u2b1b\ud83d\udfe9\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1104,
+            "word": "ORDER",
+            "hardMode": false,
+            "result": "4",
+            "resultValue": 4,
+            "offByOne": true,
+            "guesses": [
+                "\u2b1b\u2b1b\u2b1b\u2b1b\ud83d\udfe8",
+                "\u2b1b\ud83d\udfe9\ud83d\udfe8\u2b1b\u2b1b",
+                "\ud83d\udfe8\ud83d\udfe9\u2b1b\ud83d\udfe9\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1105,
+            "word": "DROVE",
+            "hardMode": false,
+            "result": "5",
+            "resultValue": 5,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\u2b1b\u2b1b\u2b1b\ud83d\udfe9",
+                "\u2b1b\u2b1b\ud83d\udfe9\ud83d\udfe8\ud83d\udfe9",
+                "\u2b1b\ud83d\udfe9\ud83d\udfe9\u2b1b\ud83d\udfe9",
                 "\u2b1b\ud83d\udfe9\ud83d\udfe9\u2b1b\ud83d\udfe9",
                 "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
             ]
@@ -30561,7 +32391,7 @@
         },
         {
             "ID": 1032,
-            "word": "",
+            "word": "SHANK",
             "hardMode": false,
             "result": "3",
             "resultValue": 3,
@@ -30574,7 +32404,7 @@
         },
         {
             "ID": 1033,
-            "word": "",
+            "word": "TITHE",
             "hardMode": false,
             "result": "6",
             "resultValue": 6,
@@ -30590,7 +32420,7 @@
         },
         {
             "ID": 1034,
-            "word": "",
+            "word": "FACET",
             "hardMode": false,
             "result": "5",
             "resultValue": 5,
@@ -30605,7 +32435,7 @@
         },
         {
             "ID": 1035,
-            "word": "",
+            "word": "RAISE",
             "hardMode": false,
             "result": "1",
             "resultValue": 1,
@@ -30616,7 +32446,7 @@
         },
         {
             "ID": 1036,
-            "word": "",
+            "word": "LUCID",
             "hardMode": false,
             "result": "3",
             "resultValue": 3,
@@ -30629,7 +32459,7 @@
         },
         {
             "ID": 1037,
-            "word": "",
+            "word": "JOLLY",
             "hardMode": false,
             "result": "6",
             "resultValue": 6,
@@ -30645,7 +32475,7 @@
         },
         {
             "ID": 1038,
-            "word": "",
+            "word": "LASER",
             "hardMode": false,
             "result": "2",
             "resultValue": 2,
@@ -30657,7 +32487,7 @@
         },
         {
             "ID": 1039,
-            "word": "",
+            "word": "ROVER",
             "hardMode": false,
             "result": "3",
             "resultValue": 3,
@@ -30670,7 +32500,7 @@
         },
         {
             "ID": 1040,
-            "word": "",
+            "word": "OVERT",
             "hardMode": false,
             "result": "3",
             "resultValue": 3,
@@ -30683,7 +32513,7 @@
         },
         {
             "ID": 1041,
-            "word": "",
+            "word": "INTRO",
             "hardMode": false,
             "result": "3",
             "resultValue": 3,
@@ -30696,7 +32526,7 @@
         },
         {
             "ID": 1042,
-            "word": "",
+            "word": "VAPID",
             "hardMode": false,
             "result": "3",
             "resultValue": 3,
@@ -30709,7 +32539,7 @@
         },
         {
             "ID": 1043,
-            "word": "",
+            "word": "GLEAM",
             "hardMode": false,
             "result": "4",
             "resultValue": 4,
@@ -30723,7 +32553,7 @@
         },
         {
             "ID": 1044,
-            "word": "",
+            "word": "PRUNE",
             "hardMode": false,
             "result": "3",
             "resultValue": 3,
@@ -30736,7 +32566,7 @@
         },
         {
             "ID": 1045,
-            "word": "",
+            "word": "CRAFT",
             "hardMode": false,
             "result": "3",
             "resultValue": 3,
@@ -30749,7 +32579,7 @@
         },
         {
             "ID": 1046,
-            "word": "",
+            "word": "PROWL",
             "hardMode": false,
             "result": "6",
             "resultValue": 6,
@@ -30765,7 +32595,7 @@
         },
         {
             "ID": 1047,
-            "word": "",
+            "word": "DIARY",
             "hardMode": false,
             "result": "3",
             "resultValue": 3,
@@ -30778,7 +32608,7 @@
         },
         {
             "ID": 1048,
-            "word": "",
+            "word": "SLICE",
             "hardMode": false,
             "result": "2",
             "resultValue": 2,
@@ -30790,7 +32620,7 @@
         },
         {
             "ID": 1049,
-            "word": "",
+            "word": "EBONY",
             "hardMode": false,
             "result": "4",
             "resultValue": 4,
@@ -30804,7 +32634,7 @@
         },
         {
             "ID": 1050,
-            "word": "",
+            "word": "VALUE",
             "hardMode": false,
             "result": "5",
             "resultValue": 5,
@@ -30819,7 +32649,7 @@
         },
         {
             "ID": 1051,
-            "word": "",
+            "word": "DECAL",
             "hardMode": false,
             "result": "3",
             "resultValue": 3,
@@ -30832,7 +32662,7 @@
         },
         {
             "ID": 1052,
-            "word": "",
+            "word": "SHAVE",
             "hardMode": false,
             "result": "6",
             "resultValue": 6,
@@ -30848,7 +32678,7 @@
         },
         {
             "ID": 1053,
-            "word": "",
+            "word": "MUSTY",
             "hardMode": false,
             "result": "4",
             "resultValue": 4,
@@ -30862,7 +32692,7 @@
         },
         {
             "ID": 1054,
-            "word": "",
+            "word": "PIOUS",
             "hardMode": false,
             "result": "3",
             "resultValue": 3,
@@ -30875,7 +32705,7 @@
         },
         {
             "ID": 1055,
-            "word": "",
+            "word": "JERKY",
             "hardMode": false,
             "result": "6",
             "resultValue": 6,
@@ -30886,6 +32716,1176 @@
                 "\u2b1b\ud83d\udfe7\u2b1b\ud83d\udfe6\ud83d\udfe7",
                 "\u2b1b\ud83d\udfe7\ud83d\udfe7\u2b1b\ud83d\udfe7",
                 "\u2b1b\ud83d\udfe7\ud83d\udfe7\u2b1b\ud83d\udfe7",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7"
+            ]
+        },
+        {
+            "ID": 1056,
+            "word": "MEDIA",
+            "hardMode": false,
+            "result": "3",
+            "resultValue": 3,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\ud83d\udfe6\ud83d\udfe6\u2b1b\ud83d\udfe6",
+                "\ud83d\udfe6\ud83d\udfe6\ud83d\udfe6\ud83d\udfe7\u2b1b",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7"
+            ]
+        },
+        {
+            "ID": 1057,
+            "word": "TIDAL",
+            "hardMode": false,
+            "result": "3",
+            "resultValue": 3,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\ud83d\udfe6\ud83d\udfe6\u2b1b\u2b1b",
+                "\u2b1b\u2b1b\ud83d\udfe6\ud83d\udfe6\u2b1b",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7"
+            ]
+        },
+        {
+            "ID": 1058,
+            "word": "OUTER",
+            "hardMode": false,
+            "result": "2",
+            "resultValue": 2,
+            "offByOne": false,
+            "guesses": [
+                "\ud83d\udfe6\u2b1b\u2b1b\u2b1b\ud83d\udfe6",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7"
+            ]
+        },
+        {
+            "ID": 1059,
+            "word": "CUMIN",
+            "hardMode": false,
+            "result": "5",
+            "resultValue": 5,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\u2b1b\ud83d\udfe6\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe7\u2b1b\ud83d\udfe7\u2b1b",
+                "\ud83d\udfe7\ud83d\udfe7\u2b1b\ud83d\udfe7\u2b1b",
+                "\ud83d\udfe7\ud83d\udfe7\u2b1b\ud83d\udfe7\u2b1b",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7"
+            ]
+        },
+        {
+            "ID": 1060,
+            "word": "AMASS",
+            "hardMode": false,
+            "result": "5",
+            "resultValue": 5,
+            "offByOne": true,
+            "guesses": [
+                "\u2b1b\ud83d\udfe6\u2b1b\ud83d\udfe7\u2b1b",
+                "\u2b1b\u2b1b\ud83d\udfe7\ud83d\udfe7\u2b1b",
+                "\u2b1b\u2b1b\ud83d\udfe7\ud83d\udfe7\u2b1b",
+                "\ud83d\udfe6\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\u2b1b",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7"
+            ]
+        },
+        {
+            "ID": 1061,
+            "word": "PINCH",
+            "hardMode": false,
+            "result": "5",
+            "resultValue": 5,
+            "offByOne": true,
+            "guesses": [
+                "\u2b1b\u2b1b\ud83d\udfe6\u2b1b\u2b1b",
+                "\u2b1b\u2b1b\ud83d\udfe7\ud83d\udfe6\ud83d\udfe6",
+                "\u2b1b\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\u2b1b",
+                "\u2b1b\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7"
+            ]
+        },
+        {
+            "ID": 1062,
+            "word": "STALL",
+            "hardMode": false,
+            "result": "X",
+            "resultValue": 6,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\ud83d\udfe6\u2b1b\ud83d\udfe6\u2b1b",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\u2b1b\u2b1b",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\u2b1b\u2b1b",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\u2b1b\u2b1b",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\u2b1b\u2b1b",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\u2b1b\u2b1b"
+            ]
+        },
+        {
+            "ID": 1063,
+            "word": "TUTOR",
+            "hardMode": false,
+            "result": "3",
+            "resultValue": 3,
+            "offByOne": false,
+            "guesses": [
+                "\ud83d\udfe6\u2b1b\u2b1b\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe6\ud83d\udfe6\ud83d\udfe6\ud83d\udfe6",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7"
+            ]
+        },
+        {
+            "ID": 1064,
+            "word": "BRINY",
+            "hardMode": false,
+            "result": "5",
+            "resultValue": 5,
+            "offByOne": true,
+            "guesses": [
+                "\ud83d\udfe6\u2b1b\ud83d\udfe7\u2b1b\u2b1b",
+                "\u2b1b\u2b1b\ud83d\udfe7\ud83d\udfe6\u2b1b",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\u2b1b",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\u2b1b",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7"
+            ]
+        },
+        {
+            "ID": 1065,
+            "word": "HITCH",
+            "hardMode": false,
+            "result": "5",
+            "resultValue": 5,
+            "offByOne": true,
+            "guesses": [
+                "\u2b1b\u2b1b\ud83d\udfe6\u2b1b\u2b1b",
+                "\u2b1b\u2b1b\ud83d\udfe7\ud83d\udfe6\u2b1b",
+                "\u2b1b\ud83d\udfe7\ud83d\udfe7\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7"
+            ]
+        },
+        {
+            "ID": 1066,
+            "word": "NICER",
+            "hardMode": false,
+            "result": "4",
+            "resultValue": 4,
+            "offByOne": true,
+            "guesses": [
+                "\ud83d\udfe6\u2b1b\ud83d\udfe6\u2b1b\ud83d\udfe6",
+                "\u2b1b\ud83d\udfe7\u2b1b\ud83d\udfe7\ud83d\udfe7",
+                "\u2b1b\ud83d\udfe7\ud83d\udfe6\ud83d\udfe7\ud83d\udfe7",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7"
+            ]
+        },
+        {
+            "ID": 1067,
+            "word": "DINGO",
+            "hardMode": false,
+            "result": "5",
+            "resultValue": 5,
+            "offByOne": true,
+            "guesses": [
+                "\u2b1b\u2b1b\ud83d\udfe6\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe7\u2b1b\ud83d\udfe6\u2b1b",
+                "\ud83d\udfe6\ud83d\udfe7\u2b1b\u2b1b\ud83d\udfe7",
+                "\u2b1b\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7"
+            ]
+        },
+        {
+            "ID": 1068,
+            "word": "EXALT",
+            "hardMode": false,
+            "result": "4",
+            "resultValue": 4,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\ud83d\udfe6\u2b1b\u2b1b\ud83d\udfe6",
+                "\u2b1b\u2b1b\ud83d\udfe6\ud83d\udfe6\ud83d\udfe7",
+                "\ud83d\udfe6\ud83d\udfe6\ud83d\udfe7\u2b1b\ud83d\udfe7",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7"
+            ]
+        },
+        {
+            "ID": 1069,
+            "word": "SWISH",
+            "hardMode": false,
+            "result": "3",
+            "resultValue": 3,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\u2b1b\ud83d\udfe7\ud83d\udfe7\u2b1b",
+                "\ud83d\udfe6\ud83d\udfe6\ud83d\udfe7\ud83d\udfe7\u2b1b",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7"
+            ]
+        },
+        {
+            "ID": 1070,
+            "word": "GLIDE",
+            "hardMode": false,
+            "result": "3",
+            "resultValue": 3,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\u2b1b\ud83d\udfe7\u2b1b\ud83d\udfe7",
+                "\u2b1b\u2b1b\ud83d\udfe7\u2b1b\ud83d\udfe7",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7"
+            ]
+        },
+        {
+            "ID": 1071,
+            "word": "TITAN",
+            "hardMode": false,
+            "result": "3",
+            "resultValue": 3,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\ud83d\udfe6\ud83d\udfe6\u2b1b\u2b1b",
+                "\u2b1b\u2b1b\ud83d\udfe6\ud83d\udfe6\ud83d\udfe7",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7"
+            ]
+        },
+        {
+            "ID": 1072,
+            "word": "BEVEL",
+            "hardMode": false,
+            "result": "5",
+            "resultValue": 5,
+            "offByOne": true,
+            "guesses": [
+                "\u2b1b\u2b1b\u2b1b\u2b1b\ud83d\udfe6",
+                "\u2b1b\u2b1b\u2b1b\ud83d\udfe7\u2b1b",
+                "\ud83d\udfe7\ud83d\udfe6\ud83d\udfe6\ud83d\udfe7\u2b1b",
+                "\ud83d\udfe7\ud83d\udfe7\u2b1b\ud83d\udfe7\ud83d\udfe7",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7"
+            ]
+        },
+        {
+            "ID": 1073,
+            "word": "SKIER",
+            "hardMode": false,
+            "result": "2",
+            "resultValue": 2,
+            "offByOne": false,
+            "guesses": [
+                "\ud83d\udfe6\u2b1b\ud83d\udfe7\ud83d\udfe6\ud83d\udfe6",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7"
+            ]
+        },
+        {
+            "ID": 1074,
+            "word": "MINUS",
+            "hardMode": false,
+            "result": "3",
+            "resultValue": 3,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\u2b1b\ud83d\udfe6\ud83d\udfe6\u2b1b",
+                "\ud83d\udfe6\u2b1b\ud83d\udfe7\ud83d\udfe6\u2b1b",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7"
+            ]
+        },
+        {
+            "ID": 1075,
+            "word": "PAPAL",
+            "hardMode": false,
+            "result": "4",
+            "resultValue": 4,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\ud83d\udfe7\u2b1b\u2b1b\u2b1b",
+                "\ud83d\udfe6\ud83d\udfe7\u2b1b\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe7\ud83d\udfe6\u2b1b\ud83d\udfe6",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7"
+            ]
+        },
+        {
+            "ID": 1076,
+            "word": "GUMMY",
+            "hardMode": false,
+            "result": "6",
+            "resultValue": 6,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\u2b1b\u2b1b\u2b1b\u2b1b",
+                "\u2b1b\u2b1b\ud83d\udfe6\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe7\u2b1b\ud83d\udfe6\ud83d\udfe7",
+                "\ud83d\udfe7\ud83d\udfe7\u2b1b\u2b1b\ud83d\udfe7",
+                "\ud83d\udfe7\ud83d\udfe7\u2b1b\u2b1b\ud83d\udfe7",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7"
+            ]
+        },
+        {
+            "ID": 1077,
+            "word": "CHAOS",
+            "hardMode": false,
+            "result": "3",
+            "resultValue": 3,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\ud83d\udfe6\u2b1b\ud83d\udfe6\u2b1b",
+                "\ud83d\udfe6\ud83d\udfe7\ud83d\udfe7\u2b1b\u2b1b",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7"
+            ]
+        },
+        {
+            "ID": 1078,
+            "word": "BASIN",
+            "hardMode": false,
+            "result": "3",
+            "resultValue": 3,
+            "offByOne": true,
+            "guesses": [
+                "\u2b1b\ud83d\udfe7\ud83d\udfe6\ud83d\udfe6\u2b1b",
+                "\ud83d\udfe6\ud83d\udfe7\u2b1b\ud83d\udfe7\ud83d\udfe7",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7"
+            ]
+        },
+        {
+            "ID": 1079,
+            "word": "BRAVO",
+            "hardMode": false,
+            "result": "6",
+            "resultValue": 6,
+            "offByOne": false,
+            "guesses": [
+                "\ud83d\udfe6\ud83d\udfe6\u2b1b\u2b1b\u2b1b",
+                "\u2b1b\u2b1b\ud83d\udfe7\ud83d\udfe6\u2b1b",
+                "\u2b1b\ud83d\udfe7\ud83d\udfe7\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe7\ud83d\udfe7\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\u2b1b",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7"
+            ]
+        },
+        {
+            "ID": 1080,
+            "word": "STARK",
+            "hardMode": false,
+            "result": "6",
+            "resultValue": 6,
+            "offByOne": true,
+            "guesses": [
+                "\ud83d\udfe6\ud83d\udfe6\u2b1b\ud83d\udfe6\u2b1b",
+                "\ud83d\udfe7\u2b1b\ud83d\udfe7\ud83d\udfe7\u2b1b",
+                "\ud83d\udfe7\u2b1b\ud83d\udfe7\ud83d\udfe7\u2b1b",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\u2b1b",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\u2b1b",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7"
+            ]
+        },
+        {
+            "ID": 1081,
+            "word": "GROOM",
+            "hardMode": false,
+            "result": "4",
+            "resultValue": 4,
+            "offByOne": false,
+            "guesses": [
+                "\ud83d\udfe6\u2b1b\u2b1b\u2b1b\u2b1b",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\u2b1b\u2b1b",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\u2b1b\u2b1b",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7"
+            ]
+        },
+        {
+            "ID": 1082,
+            "word": "ORGAN",
+            "hardMode": false,
+            "result": "4",
+            "resultValue": 4,
+            "offByOne": true,
+            "guesses": [
+                "\ud83d\udfe6\ud83d\udfe6\u2b1b\u2b1b\u2b1b",
+                "\u2b1b\u2b1b\ud83d\udfe6\ud83d\udfe6\u2b1b",
+                "\ud83d\udfe6\ud83d\udfe7\ud83d\udfe6\ud83d\udfe7\ud83d\udfe7",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7"
+            ]
+        },
+        {
+            "ID": 1084,
+            "word": "MELON",
+            "hardMode": false,
+            "result": "3",
+            "resultValue": 3,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\u2b1b\u2b1b\u2b1b\ud83d\udfe6",
+                "\ud83d\udfe7\ud83d\udfe6\ud83d\udfe6\ud83d\udfe6\u2b1b",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7"
+            ]
+        },
+        {
+            "ID": 1085,
+            "word": "HENCE",
+            "hardMode": false,
+            "result": "5",
+            "resultValue": 5,
+            "offByOne": true,
+            "guesses": [
+                "\u2b1b\u2b1b\u2b1b\u2b1b\ud83d\udfe7",
+                "\u2b1b\u2b1b\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7",
+                "\u2b1b\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7",
+                "\u2b1b\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7"
+            ]
+        },
+        {
+            "ID": 1086,
+            "word": "CROWD",
+            "hardMode": false,
+            "result": "5",
+            "resultValue": 5,
+            "offByOne": false,
+            "guesses": [
+                "\ud83d\udfe6\u2b1b\u2b1b\u2b1b\u2b1b",
+                "\ud83d\udfe7\ud83d\udfe6\u2b1b\ud83d\udfe6\u2b1b",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\u2b1b\u2b1b",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\u2b1b\u2b1b",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7"
+            ]
+        },
+        {
+            "ID": 1087,
+            "word": "MANGA",
+            "hardMode": false,
+            "result": "4",
+            "resultValue": 4,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\ud83d\udfe7\u2b1b\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe7\u2b1b\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe7\ud83d\udfe6\u2b1b\ud83d\udfe6",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7"
+            ]
+        },
+        {
+            "ID": 1088,
+            "word": "SWUNG",
+            "hardMode": false,
+            "result": "5",
+            "resultValue": 5,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\u2b1b\u2b1b\ud83d\udfe6\u2b1b",
+                "\ud83d\udfe7\u2b1b\u2b1b\ud83d\udfe6\u2b1b",
+                "\ud83d\udfe7\ud83d\udfe6\u2b1b\u2b1b\u2b1b",
+                "\ud83d\udfe7\u2b1b\ud83d\udfe7\u2b1b\u2b1b",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7"
+            ]
+        },
+        {
+            "ID": 1089,
+            "word": "DETER",
+            "hardMode": false,
+            "result": "4",
+            "resultValue": 4,
+            "offByOne": false,
+            "guesses": [
+                "\ud83d\udfe6\u2b1b\u2b1b\u2b1b\ud83d\udfe6",
+                "\ud83d\udfe6\u2b1b\u2b1b\ud83d\udfe7\ud83d\udfe7",
+                "\u2b1b\u2b1b\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7"
+            ]
+        },
+        {
+            "ID": 1090,
+            "word": "ANGST",
+            "hardMode": false,
+            "result": "3",
+            "resultValue": 3,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\ud83d\udfe6\u2b1b\ud83d\udfe7\u2b1b",
+                "\u2b1b\u2b1b\ud83d\udfe6\ud83d\udfe7\ud83d\udfe7",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7"
+            ]
+        },
+        {
+            "ID": 1091,
+            "word": "VAULT",
+            "hardMode": false,
+            "result": "5",
+            "resultValue": 5,
+            "offByOne": true,
+            "guesses": [
+                "\u2b1b\ud83d\udfe7\u2b1b\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe7\ud83d\udfe6\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7",
+                "\u2b1b\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7"
+            ]
+        },
+        {
+            "ID": 1093,
+            "word": "GRIND",
+            "hardMode": false,
+            "result": "3",
+            "resultValue": 3,
+            "offByOne": false,
+            "guesses": [
+                "\ud83d\udfe6\u2b1b\ud83d\udfe7\u2b1b\u2b1b",
+                "\u2b1b\u2b1b\ud83d\udfe7\ud83d\udfe6\ud83d\udfe7",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7"
+            ]
+        },
+        {
+            "ID": 1094,
+            "word": "PRIOR",
+            "hardMode": false,
+            "result": "6",
+            "resultValue": 6,
+            "offByOne": true,
+            "guesses": [
+                "\ud83d\udfe6\u2b1b\ud83d\udfe7\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe7\ud83d\udfe7\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe7\ud83d\udfe7\u2b1b\u2b1b",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\u2b1b\u2b1b",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\u2b1b\ud83d\udfe6",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7"
+            ]
+        },
+        {
+            "ID": 1095,
+            "word": "COVER",
+            "hardMode": false,
+            "result": "4",
+            "resultValue": 4,
+            "offByOne": false,
+            "guesses": [
+                "\ud83d\udfe6\u2b1b\u2b1b\u2b1b\ud83d\udfe6",
+                "\u2b1b\ud83d\udfe7\u2b1b\ud83d\udfe7\ud83d\udfe7",
+                "\u2b1b\ud83d\udfe7\u2b1b\ud83d\udfe7\ud83d\udfe7",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7"
+            ]
+        },
+        {
+            "ID": 1096,
+            "word": "TERSE",
+            "hardMode": false,
+            "result": "5",
+            "resultValue": 5,
+            "offByOne": true,
+            "guesses": [
+                "\ud83d\udfe6\u2b1b\u2b1b\ud83d\udfe7\ud83d\udfe7",
+                "\u2b1b\u2b1b\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7",
+                "\u2b1b\u2b1b\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7",
+                "\u2b1b\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7"
+            ]
+        },
+        {
+            "ID": 1097,
+            "word": "SCENT",
+            "hardMode": false,
+            "result": "2",
+            "resultValue": 2,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\u2b1b\u2b1b\ud83d\udfe6\ud83d\udfe6",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7"
+            ]
+        },
+        {
+            "ID": 1098,
+            "word": "PAINT",
+            "hardMode": false,
+            "result": "3",
+            "resultValue": 3,
+            "offByOne": true,
+            "guesses": [
+                "\u2b1b\ud83d\udfe9\ud83d\udfe9\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1099,
+            "word": "EDICT",
+            "hardMode": false,
+            "result": "2",
+            "resultValue": 2,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\u2b1b\ud83d\udfe9\u2b1b\ud83d\udfe8",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1100,
+            "word": "BUGLE",
+            "hardMode": false,
+            "result": "4",
+            "resultValue": 4,
+            "offByOne": true,
+            "guesses": [
+                "\u2b1b\u2b1b\u2b1b\u2b1b\ud83d\udfe7",
+                "\u2b1b\ud83d\udfe7\u2b1b\u2b1b\ud83d\udfe7",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe6\ud83d\udfe6\ud83d\udfe7",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7"
+            ]
+        },
+        {
+            "ID": 1101,
+            "word": "DOLLY",
+            "hardMode": false,
+            "result": "4",
+            "resultValue": 4,
+            "offByOne": true,
+            "guesses": [
+                "\u2b1b\u2b1b\u2b1b\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe7\u2b1b\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe7\ud83d\udfe7\ud83d\udfe6\ud83d\udfe7",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7"
+            ]
+        },
+        {
+            "ID": 1102,
+            "word": "SAVOR",
+            "hardMode": false,
+            "result": "3",
+            "resultValue": 3,
+            "offByOne": false,
+            "guesses": [
+                "\ud83d\udfe6\ud83d\udfe7\u2b1b\ud83d\udfe6\u2b1b",
+                "\ud83d\udfe7\ud83d\udfe7\u2b1b\u2b1b\ud83d\udfe7",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7"
+            ]
+        },
+        {
+            "ID": 1103,
+            "word": "KNEAD",
+            "hardMode": false,
+            "result": "4",
+            "resultValue": 4,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\ud83d\udfe6\u2b1b\u2b1b\ud83d\udfe6",
+                "\u2b1b\ud83d\udfe6\ud83d\udfe6\u2b1b\u2b1b",
+                "\ud83d\udfe6\ud83d\udfe7\u2b1b\ud83d\udfe6\u2b1b",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7"
+            ]
+        },
+        {
+            "ID": 1104,
+            "word": "ORDER",
+            "hardMode": false,
+            "result": "4",
+            "resultValue": 4,
+            "offByOne": true,
+            "guesses": [
+                "\ud83d\udfe6\u2b1b\u2b1b\u2b1b\ud83d\udfe6",
+                "\u2b1b\ud83d\udfe6\u2b1b\ud83d\udfe7\ud83d\udfe7",
+                "\ud83d\udfe7\u2b1b\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7"
+            ]
+        },
+        {
+            "ID": 1105,
+            "word": "DROVE",
+            "hardMode": false,
+            "result": "4",
+            "resultValue": 4,
+            "offByOne": true,
+            "guesses": [
+                "\ud83d\udfe6\u2b1b\u2b1b\u2b1b\ud83d\udfe7",
+                "\u2b1b\ud83d\udfe7\u2b1b\ud83d\udfe6\ud83d\udfe7",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\u2b1b\ud83d\udfe7",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7"
+            ]
+        },
+        {
+            "ID": 1106,
+            "word": "ZEBRA",
+            "hardMode": false,
+            "result": "3",
+            "resultValue": 3,
+            "offByOne": false,
+            "guesses": [
+                "\ud83d\udfe6\ud83d\udfe6\u2b1b\u2b1b\ud83d\udfe6",
+                "\u2b1b\ud83d\udfe7\ud83d\udfe6\ud83d\udfe7\u2b1b",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7"
+            ]
+        },
+        {
+            "ID": 1107,
+            "word": "BUDDY",
+            "hardMode": false,
+            "result": "6",
+            "resultValue": 6,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\u2b1b\u2b1b\u2b1b\u2b1b",
+                "\u2b1b\u2b1b\ud83d\udfe6\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe7\u2b1b\u2b1b\ud83d\udfe7",
+                "\ud83d\udfe7\ud83d\udfe7\u2b1b\u2b1b\ud83d\udfe7",
+                "\ud83d\udfe7\ud83d\udfe7\u2b1b\u2b1b\ud83d\udfe7",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7"
+            ]
+        },
+        {
+            "ID": 1108,
+            "word": "ADAGE",
+            "hardMode": false,
+            "result": "X",
+            "resultValue": 6,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\ud83d\udfe6\u2b1b\u2b1b\ud83d\udfe7",
+                "\u2b1b\u2b1b\ud83d\udfe7\u2b1b\ud83d\udfe7",
+                "\u2b1b\u2b1b\ud83d\udfe7\u2b1b\ud83d\udfe7",
+                "\ud83d\udfe7\u2b1b\ud83d\udfe7\u2b1b\ud83d\udfe7",
+                "\ud83d\udfe7\u2b1b\ud83d\udfe7\u2b1b\ud83d\udfe7",
+                "\ud83d\udfe7\ud83d\udfe6\ud83d\udfe7\u2b1b\ud83d\udfe7"
+            ]
+        },
+        {
+            "ID": 1109,
+            "word": "INLAY",
+            "hardMode": false,
+            "result": "3",
+            "resultValue": 3,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\ud83d\udfe6\ud83d\udfe6\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe6\ud83d\udfe6\ud83d\udfe7\ud83d\udfe6",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7"
+            ]
+        },
+        {
+            "ID": 1110,
+            "word": "THIGH",
+            "hardMode": false,
+            "result": "4",
+            "resultValue": 4,
+            "offByOne": true,
+            "guesses": [
+                "\u2b1b\u2b1b\ud83d\udfe7\u2b1b\u2b1b",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\u2b1b\u2b1b",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\u2b1b\ud83d\udfe6",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7"
+            ]
+        },
+        {
+            "ID": 1111,
+            "word": "DEBUT",
+            "hardMode": false,
+            "result": "4",
+            "resultValue": 4,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\u2b1b\u2b1b\u2b1b\ud83d\udfe6",
+                "\u2b1b\u2b1b\u2b1b\ud83d\udfe6\ud83d\udfe7",
+                "\ud83d\udfe6\u2b1b\u2b1b\u2b1b\ud83d\udfe7",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7"
+            ]
+        },
+        {
+            "ID": 1114,
+            "word": "CANON",
+            "hardMode": false,
+            "result": "4",
+            "resultValue": 4,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\ud83d\udfe9\u2b1b\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe9\u2b1b\ud83d\udfe8\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\u2b1b\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1115,
+            "word": "SHAPE",
+            "hardMode": false,
+            "result": "5",
+            "resultValue": 5,
+            "offByOne": true,
+            "guesses": [
+                "\u2b1b\ud83d\udfe6\u2b1b\ud83d\udfe6\ud83d\udfe7",
+                "\ud83d\udfe7\u2b1b\ud83d\udfe7\u2b1b\ud83d\udfe7",
+                "\ud83d\udfe7\u2b1b\ud83d\udfe7\u2b1b\ud83d\udfe7",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\u2b1b\ud83d\udfe7",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7"
+            ]
+        },
+        {
+            "ID": 1116,
+            "word": "BLARE",
+            "hardMode": false,
+            "result": "3",
+            "resultValue": 3,
+            "offByOne": true,
+            "guesses": [
+                "\ud83d\udfe6\ud83d\udfe6\u2b1b\u2b1b\ud83d\udfe7",
+                "\u2b1b\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7"
+            ]
+        },
+        {
+            "ID": 1117,
+            "word": "GAUNT",
+            "hardMode": false,
+            "result": "5",
+            "resultValue": 5,
+            "offByOne": true,
+            "guesses": [
+                "\u2b1b\ud83d\udfe7\u2b1b\u2b1b\u2b1b",
+                "\ud83d\udfe6\ud83d\udfe7\u2b1b\u2b1b\ud83d\udfe6",
+                "\u2b1b\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7",
+                "\u2b1b\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7"
+            ]
+        },
+        {
+            "ID": 1118,
+            "word": "CAMEO",
+            "hardMode": false,
+            "result": "3",
+            "resultValue": 3,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\ud83d\udfe7\u2b1b\u2b1b\ud83d\udfe6",
+                "\ud83d\udfe7\ud83d\udfe7\u2b1b\ud83d\udfe7\u2b1b",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7"
+            ]
+        },
+        {
+            "ID": 1119,
+            "word": "JIFFY",
+            "hardMode": false,
+            "result": "5",
+            "resultValue": 5,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\u2b1b\ud83d\udfe6\u2b1b\u2b1b",
+                "\u2b1b\u2b1b\u2b1b\ud83d\udfe6\u2b1b",
+                "\u2b1b\ud83d\udfe7\u2b1b\u2b1b\ud83d\udfe7",
+                "\u2b1b\ud83d\udfe7\u2b1b\u2b1b\ud83d\udfe7",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7"
+            ]
+        },
+        {
+            "ID": 1120,
+            "word": "ENACT",
+            "hardMode": false,
+            "result": "4",
+            "resultValue": 4,
+            "offByOne": true,
+            "guesses": [
+                "\u2b1b\ud83d\udfe6\u2b1b\u2b1b\ud83d\udfe6",
+                "\ud83d\udfe6\ud83d\udfe6\ud83d\udfe7\ud83d\udfe7\u2b1b",
+                "\ud83d\udfe7\u2b1b\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7"
+            ]
+        },
+        {
+            "ID": 1121,
+            "word": "VIDEO",
+            "hardMode": false,
+            "result": "4",
+            "resultValue": 4,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\u2b1b\ud83d\udfe6\u2b1b\ud83d\udfe6",
+                "\u2b1b\ud83d\udfe7\ud83d\udfe6\u2b1b\ud83d\udfe6",
+                "\u2b1b\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\u2b1b",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7"
+            ]
+        },
+        {
+            "ID": 1122,
+            "word": "SWOON",
+            "hardMode": false,
+            "result": "5",
+            "resultValue": 5,
+            "offByOne": true,
+            "guesses": [
+                "\u2b1b\u2b1b\u2b1b\ud83d\udfe6\u2b1b",
+                "\ud83d\udfe7\u2b1b\ud83d\udfe7\u2b1b\u2b1b",
+                "\ud83d\udfe7\u2b1b\ud83d\udfe7\u2b1b\u2b1b",
+                "\ud83d\udfe7\u2b1b\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7"
+            ]
+        },
+        {
+            "ID": 1123,
+            "word": "DECOY",
+            "hardMode": false,
+            "result": "3",
+            "resultValue": 3,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\u2b1b\u2b1b\u2b1b\ud83d\udfe6",
+                "\u2b1b\ud83d\udfe6\u2b1b\ud83d\udfe6\u2b1b",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7"
+            ]
+        },
+        {
+            "ID": 1124,
+            "word": "QUITE",
+            "hardMode": false,
+            "result": "5",
+            "resultValue": 5,
+            "offByOne": true,
+            "guesses": [
+                "\u2b1b\u2b1b\ud83d\udfe7\u2b1b\ud83d\udfe7",
+                "\u2b1b\u2b1b\ud83d\udfe7\u2b1b\ud83d\udfe7",
+                "\u2b1b\u2b1b\ud83d\udfe7\u2b1b\ud83d\udfe7",
+                "\ud83d\udfe6\u2b1b\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7"
+            ]
+        },
+        {
+            "ID": 1125,
+            "word": "NERDY",
+            "hardMode": false,
+            "result": "3",
+            "resultValue": 3,
+            "offByOne": false,
+            "guesses": [
+                "\ud83d\udfe6\u2b1b\u2b1b\u2b1b\ud83d\udfe6",
+                "\u2b1b\u2b1b\ud83d\udfe6\ud83d\udfe6\ud83d\udfe6",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7"
+            ]
+        },
+        {
+            "ID": 1126,
+            "word": "REFER",
+            "hardMode": false,
+            "result": "4",
+            "resultValue": 4,
+            "offByOne": false,
+            "guesses": [
+                "\ud83d\udfe9\u2b1b\u2b1b\u2b1b\ud83d\udfe8",
+                "\ud83d\udfe9\ud83d\udfe9\u2b1b\u2b1b\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe8\u2b1b\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1128,
+            "word": "SPECK",
+            "hardMode": false,
+            "result": "2",
+            "resultValue": 2,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\u2b1b\u2b1b\ud83d\udfe8\ud83d\udfe8",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1131,
+            "word": "FORTE",
+            "hardMode": false,
+            "result": "3",
+            "resultValue": 3,
+            "offByOne": false,
+            "guesses": [
+                "\ud83d\udfe8\u2b1b\u2b1b\u2b1b\ud83d\udfe9",
+                "\ud83d\udfe8\ud83d\udfe8\ud83d\udfe8\u2b1b\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1132,
+            "word": "PORCH",
+            "hardMode": false,
+            "result": "4",
+            "resultValue": 4,
+            "offByOne": true,
+            "guesses": [
+                "\ud83d\udfe6\u2b1b\u2b1b\u2b1b\u2b1b",
+                "\ud83d\udfe6\ud83d\udfe6\ud83d\udfe6\ud83d\udfe6\u2b1b",
+                "\u2b1b\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7"
+            ]
+        },
+        {
+            "ID": 1134,
+            "word": "JUICE",
+            "hardMode": false,
+            "result": "5",
+            "resultValue": 5,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\u2b1b\ud83d\udfe7\u2b1b\ud83d\udfe7",
+                "\ud83d\udfe6\u2b1b\ud83d\udfe7\u2b1b\ud83d\udfe7",
+                "\u2b1b\u2b1b\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7",
+                "\u2b1b\u2b1b\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7"
+            ]
+        },
+        {
+            "ID": 1135,
+            "word": "SMOCK",
+            "hardMode": false,
+            "result": "3",
+            "resultValue": 3,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\u2b1b\u2b1b\ud83d\udfe6\u2b1b",
+                "\ud83d\udfe7\u2b1b\ud83d\udfe7\u2b1b\u2b1b",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7"
+            ]
+        },
+        {
+            "ID": 1136,
+            "word": "SUPER",
+            "hardMode": false,
+            "result": "3",
+            "resultValue": 3,
+            "offByOne": false,
+            "guesses": [
+                "\ud83d\udfe6\u2b1b\u2b1b\ud83d\udfe6\ud83d\udfe6",
+                "\ud83d\udfe7\u2b1b\u2b1b\ud83d\udfe7\ud83d\udfe7",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7"
+            ]
+        },
+        {
+            "ID": 1137,
+            "word": "FERAL",
+            "hardMode": false,
+            "result": "3",
+            "resultValue": 3,
+            "offByOne": false,
+            "guesses": [
+                "\ud83d\udfe6\ud83d\udfe6\u2b1b\u2b1b\ud83d\udfe6",
+                "\u2b1b\ud83d\udfe6\ud83d\udfe6\ud83d\udfe7\ud83d\udfe6",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7"
+            ]
+        },
+        {
+            "ID": 1138,
+            "word": "PENNE",
+            "hardMode": false,
+            "result": "5",
+            "resultValue": 5,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\u2b1b\u2b1b\u2b1b\ud83d\udfe7",
+                "\u2b1b\u2b1b\ud83d\udfe7\u2b1b\ud83d\udfe7",
+                "\u2b1b\ud83d\udfe7\ud83d\udfe7\u2b1b\ud83d\udfe7",
+                "\u2b1b\ud83d\udfe7\ud83d\udfe7\u2b1b\ud83d\udfe7",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7"
+            ]
+        },
+        {
+            "ID": 1139,
+            "word": "CHALK",
+            "hardMode": false,
+            "result": "3",
+            "resultValue": 3,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\ud83d\udfe6\u2b1b\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe7\ud83d\udfe7\u2b1b\ud83d\udfe7",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7"
+            ]
+        },
+        {
+            "ID": 1140,
+            "word": "FLAKE",
+            "hardMode": false,
+            "result": "3",
+            "resultValue": 3,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\ud83d\udfe8\u2b1b\u2b1b\ud83d\udfe9",
+                "\ud83d\udfe8\u2b1b\ud83d\udfe8\ud83d\udfe8\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1141,
+            "word": "SCALE",
+            "hardMode": false,
+            "result": "3",
+            "resultValue": 3,
+            "offByOne": true,
+            "guesses": [
+                "\u2b1b\ud83d\udfe6\u2b1b\ud83d\udfe6\ud83d\udfe7",
+                "\ud83d\udfe7\u2b1b\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7"
+            ]
+        },
+        {
+            "ID": 1142,
+            "word": "LOWER",
+            "hardMode": false,
+            "result": "4",
+            "resultValue": 4,
+            "offByOne": true,
+            "guesses": [
+                "\ud83d\udfe6\u2b1b\u2b1b\u2b1b\ud83d\udfe6",
+                "\ud83d\udfe7\ud83d\udfe7\u2b1b\ud83d\udfe7\ud83d\udfe7",
+                "\ud83d\udfe7\ud83d\udfe7\u2b1b\ud83d\udfe7\ud83d\udfe7",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7"
+            ]
+        },
+        {
+            "ID": 1143,
+            "word": "ENSUE",
+            "hardMode": false,
+            "result": "4",
+            "resultValue": 4,
+            "offByOne": true,
+            "guesses": [
+                "\u2b1b\u2b1b\u2b1b\ud83d\udfe6\ud83d\udfe7",
+                "\ud83d\udfe6\u2b1b\u2b1b\u2b1b\ud83d\udfe7",
+                "\ud83d\udfe6\ud83d\udfe7\ud83d\udfe7\ud83d\udfe6\ud83d\udfe7",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7"
+            ]
+        },
+        {
+            "ID": 1144,
+            "word": "ANVIL",
+            "hardMode": false,
+            "result": "3",
+            "resultValue": 3,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\ud83d\udfe6\ud83d\udfe6\u2b1b\u2b1b",
+                "\u2b1b\u2b1b\ud83d\udfe6\ud83d\udfe7\ud83d\udfe6",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7"
+            ]
+        },
+        {
+            "ID": 1145,
+            "word": "MACAW",
+            "hardMode": false,
+            "result": "5",
+            "resultValue": 5,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\ud83d\udfe7\u2b1b\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe7\u2b1b\ud83d\udfe6\u2b1b",
+                "\u2b1b\ud83d\udfe7\ud83d\udfe7\u2b1b\u2b1b",
+                "\ud83d\udfe6\ud83d\udfe7\ud83d\udfe7\u2b1b\u2b1b",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7"
+            ]
+        },
+        {
+            "ID": 1146,
+            "word": "SAUCY",
+            "hardMode": false,
+            "result": "3",
+            "resultValue": 3,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\ud83d\udfe7\u2b1b\ud83d\udfe6\u2b1b",
+                "\u2b1b\ud83d\udfe7\ud83d\udfe6\u2b1b\ud83d\udfe7",
+                "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7"
+            ]
+        },
+        {
+            "ID": 1148,
+            "word": "",
+            "hardMode": false,
+            "result": "3",
+            "resultValue": 3,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\u2b1b\ud83d\udfe6\u2b1b\ud83d\udfe6",
+                "\ud83d\udfe6\ud83d\udfe7\u2b1b\ud83d\udfe7\u2b1b",
                 "\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7"
             ]
         }
@@ -33261,7 +36261,7 @@
         },
         {
             "ID": 1033,
-            "word": "",
+            "word": "TITHE",
             "hardMode": false,
             "result": "5",
             "resultValue": 5,
@@ -33276,7 +36276,7 @@
         },
         {
             "ID": 1034,
-            "word": "",
+            "word": "FACET",
             "hardMode": false,
             "result": "2",
             "resultValue": 2,
@@ -33288,7 +36288,7 @@
         },
         {
             "ID": 1035,
-            "word": "",
+            "word": "RAISE",
             "hardMode": false,
             "result": "3",
             "resultValue": 3,
@@ -33301,7 +36301,7 @@
         },
         {
             "ID": 1036,
-            "word": "",
+            "word": "LUCID",
             "hardMode": false,
             "result": "4",
             "resultValue": 4,
@@ -33315,7 +36315,7 @@
         },
         {
             "ID": 1037,
-            "word": "",
+            "word": "JOLLY",
             "hardMode": false,
             "result": "6",
             "resultValue": 6,
@@ -33331,7 +36331,7 @@
         },
         {
             "ID": 1038,
-            "word": "",
+            "word": "LASER",
             "hardMode": false,
             "result": "4",
             "resultValue": 4,
@@ -33345,7 +36345,7 @@
         },
         {
             "ID": 1039,
-            "word": "",
+            "word": "ROVER",
             "hardMode": false,
             "result": "5",
             "resultValue": 5,
@@ -33360,7 +36360,7 @@
         },
         {
             "ID": 1041,
-            "word": "",
+            "word": "INTRO",
             "hardMode": false,
             "result": "6",
             "resultValue": 6,
@@ -33376,7 +36376,7 @@
         },
         {
             "ID": 1042,
-            "word": "",
+            "word": "VAPID",
             "hardMode": false,
             "result": "3",
             "resultValue": 3,
@@ -33389,7 +36389,7 @@
         },
         {
             "ID": 1043,
-            "word": "",
+            "word": "GLEAM",
             "hardMode": false,
             "result": "2",
             "resultValue": 2,
@@ -33401,7 +36401,7 @@
         },
         {
             "ID": 1044,
-            "word": "",
+            "word": "PRUNE",
             "hardMode": false,
             "result": "2",
             "resultValue": 2,
@@ -33413,7 +36413,7 @@
         },
         {
             "ID": 1045,
-            "word": "",
+            "word": "CRAFT",
             "hardMode": false,
             "result": "3",
             "resultValue": 3,
@@ -33426,7 +36426,7 @@
         },
         {
             "ID": 1046,
-            "word": "",
+            "word": "PROWL",
             "hardMode": false,
             "result": "4",
             "resultValue": 4,
@@ -33440,7 +36440,7 @@
         },
         {
             "ID": 1047,
-            "word": "",
+            "word": "DIARY",
             "hardMode": false,
             "result": "3",
             "resultValue": 3,
@@ -33453,7 +36453,7 @@
         },
         {
             "ID": 1048,
-            "word": "",
+            "word": "SLICE",
             "hardMode": false,
             "result": "3",
             "resultValue": 3,
@@ -33466,7 +36466,7 @@
         },
         {
             "ID": 1050,
-            "word": "",
+            "word": "VALUE",
             "hardMode": false,
             "result": "4",
             "resultValue": 4,
@@ -33480,7 +36480,7 @@
         },
         {
             "ID": 1051,
-            "word": "",
+            "word": "DECAL",
             "hardMode": false,
             "result": "2",
             "resultValue": 2,
@@ -33492,7 +36492,7 @@
         },
         {
             "ID": 1053,
-            "word": "",
+            "word": "MUSTY",
             "hardMode": false,
             "result": "4",
             "resultValue": 4,
@@ -33506,7 +36506,7 @@
         },
         {
             "ID": 1054,
-            "word": "",
+            "word": "PIOUS",
             "hardMode": false,
             "result": "4",
             "resultValue": 4,
@@ -33515,6 +36515,457 @@
                 "\u2b1b\u2b1b\u2b1b\u2b1b\u2b1b",
                 "\u2b1b\ud83d\udfe8\ud83d\udfe8\u2b1b\u2b1b",
                 "\ud83d\udfe9\u2b1b\ud83d\udfe9\ud83d\udfe9\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1055,
+            "word": "JERKY",
+            "hardMode": false,
+            "result": "5",
+            "resultValue": 5,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\ud83d\udfe8\u2b1b\u2b1b\ud83d\udfe8",
+                "\u2b1b\u2b1b\u2b1b\ud83d\udfe8\ud83d\udfe8",
+                "\ud83d\udfe8\u2b1b\u2b1b\ud83d\udfe8\u2b1b",
+                "\u2b1b\ud83d\udfe8\ud83d\udfe8\u2b1b\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1056,
+            "word": "MEDIA",
+            "hardMode": false,
+            "result": "4",
+            "resultValue": 4,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\u2b1b\ud83d\udfe8\u2b1b\ud83d\udfe8",
+                "\u2b1b\u2b1b\ud83d\udfe8\ud83d\udfe8\u2b1b",
+                "\ud83d\udfe8\ud83d\udfe9\u2b1b\u2b1b\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1062,
+            "word": "STALL",
+            "hardMode": false,
+            "result": "5",
+            "resultValue": 5,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\u2b1b\ud83d\udfe9\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe8\ud83d\udfe9\ud83d\udfe8\u2b1b",
+                "\ud83d\udfe9\u2b1b\ud83d\udfe9\ud83d\udfe9\u2b1b",
+                "\ud83d\udfe9\u2b1b\ud83d\udfe9\ud83d\udfe9\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1063,
+            "word": "TUTOR",
+            "hardMode": false,
+            "result": "6",
+            "resultValue": 6,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\ud83d\udfe8\u2b1b\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe8\ud83d\udfe8\ud83d\udfe8\u2b1b",
+                "\u2b1b\ud83d\udfe8\ud83d\udfe8\ud83d\udfe8\u2b1b",
+                "\u2b1b\ud83d\udfe8\ud83d\udfe8\ud83d\udfe8\u2b1b",
+                "\u2b1b\ud83d\udfe9\u2b1b\ud83d\udfe9\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1064,
+            "word": "BRINY",
+            "hardMode": false,
+            "result": "4",
+            "resultValue": 4,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\ud83d\udfe9\u2b1b\ud83d\udfe9\u2b1b",
+                "\u2b1b\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\u2b1b",
+                "\u2b1b\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1072,
+            "word": "BEVEL",
+            "hardMode": false,
+            "result": "4",
+            "resultValue": 4,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\u2b1b\u2b1b\u2b1b\ud83d\udfe8",
+                "\u2b1b\ud83d\udfe9\ud83d\udfe8\u2b1b\u2b1b",
+                "\ud83d\udfe8\ud83d\udfe9\u2b1b\u2b1b\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1074,
+            "word": "MINUS",
+            "hardMode": false,
+            "result": "5",
+            "resultValue": 5,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\u2b1b\u2b1b\ud83d\udfe8\u2b1b",
+                "\ud83d\udfe8\ud83d\udfe9\u2b1b\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe9\ud83d\udfe9\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe9\ud83d\udfe9\u2b1b\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1078,
+            "word": "BASIN",
+            "hardMode": false,
+            "result": "4",
+            "resultValue": 4,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\u2b1b\ud83d\udfe8\ud83d\udfe8\u2b1b",
+                "\u2b1b\ud83d\udfe9\ud83d\udfe8\u2b1b\u2b1b",
+                "\ud83d\udfe8\ud83d\udfe9\u2b1b\u2b1b\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1083,
+            "word": "ETHER",
+            "hardMode": false,
+            "result": "5",
+            "resultValue": 5,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\ud83d\udfe8\u2b1b\u2b1b\ud83d\udfe8",
+                "\ud83d\udfe8\ud83d\udfe8\u2b1b\u2b1b\u2b1b",
+                "\u2b1b\u2b1b\ud83d\udfe8\ud83d\udfe8\ud83d\udfe8",
+                "\u2b1b\ud83d\udfe9\u2b1b\ud83d\udfe9\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1084,
+            "word": "MELON",
+            "hardMode": false,
+            "result": "4",
+            "resultValue": 4,
+            "offByOne": true,
+            "guesses": [
+                "\u2b1b\u2b1b\u2b1b\ud83d\udfe8\ud83d\udfe8",
+                "\u2b1b\ud83d\udfe9\ud83d\udfe8\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe9\ud83d\udfe8\ud83d\udfe9\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1086,
+            "word": "CROWD",
+            "hardMode": false,
+            "result": "3",
+            "resultValue": 3,
+            "offByOne": false,
+            "guesses": [
+                "\ud83d\udfe9\ud83d\udfe9\u2b1b\u2b1b\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\u2b1b\u2b1b\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1087,
+            "word": "MANGA",
+            "hardMode": false,
+            "result": "6",
+            "resultValue": 6,
+            "offByOne": true,
+            "guesses": [
+                "\u2b1b\u2b1b\ud83d\udfe8\ud83d\udfe8\u2b1b",
+                "\ud83d\udfe8\ud83d\udfe8\u2b1b\u2b1b\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\u2b1b\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1093,
+            "word": "GRIND",
+            "hardMode": false,
+            "result": "3",
+            "resultValue": 3,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\ud83d\udfe9\u2b1b\ud83d\udfe9\u2b1b",
+                "\u2b1b\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1098,
+            "word": "PAINT",
+            "hardMode": false,
+            "result": "2",
+            "resultValue": 2,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\u2b1b\ud83d\udfe8\ud83d\udfe9\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1099,
+            "word": "EDICT",
+            "hardMode": false,
+            "result": "3",
+            "resultValue": 3,
+            "offByOne": false,
+            "guesses": [
+                "\ud83d\udfe8\u2b1b\u2b1b\u2b1b\ud83d\udfe8",
+                "\ud83d\udfe8\ud83d\udfe8\ud83d\udfe8\ud83d\udfe8\ud83d\udfe8",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1100,
+            "word": "BUGLE",
+            "hardMode": false,
+            "result": "4",
+            "resultValue": 4,
+            "offByOne": true,
+            "guesses": [
+                "\u2b1b\u2b1b\u2b1b\u2b1b\ud83d\udfe9",
+                "\u2b1b\u2b1b\u2b1b\u2b1b\ud83d\udfe9",
+                "\ud83d\udfe8\ud83d\udfe9\u2b1b\ud83d\udfe9\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1102,
+            "word": "SAVOR",
+            "hardMode": false,
+            "result": "3",
+            "resultValue": 3,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\ud83d\udfe8\ud83d\udfe8\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe9\ud83d\udfe8\u2b1b\ud83d\udfe8",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1103,
+            "word": "KNEAD",
+            "hardMode": false,
+            "result": "5",
+            "resultValue": 5,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\u2b1b\ud83d\udfe8\ud83d\udfe8\ud83d\udfe8",
+                "\ud83d\udfe8\ud83d\udfe8\u2b1b\ud83d\udfe8\u2b1b",
+                "\ud83d\udfe8\ud83d\udfe9\u2b1b\ud83d\udfe8\u2b1b",
+                "\u2b1b\ud83d\udfe9\ud83d\udfe9\u2b1b\ud83d\udfe8",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1108,
+            "word": "ADAGE",
+            "hardMode": false,
+            "result": "5",
+            "resultValue": 5,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\u2b1b\ud83d\udfe9\u2b1b\ud83d\udfe9",
+                "\u2b1b\u2b1b\ud83d\udfe9\u2b1b\ud83d\udfe9",
+                "\u2b1b\u2b1b\ud83d\udfe9\u2b1b\ud83d\udfe9",
+                "\u2b1b\u2b1b\ud83d\udfe9\ud83d\udfe8\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1110,
+            "word": "THIGH",
+            "hardMode": false,
+            "result": "5",
+            "resultValue": 5,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\u2b1b\u2b1b\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe8\u2b1b\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe8\ud83d\udfe8\ud83d\udfe8\ud83d\udfe8",
+                "\ud83d\udfe8\ud83d\udfe8\ud83d\udfe8\ud83d\udfe8\ud83d\udfe8",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1111,
+            "word": "DEBUT",
+            "hardMode": false,
+            "result": "4",
+            "resultValue": 4,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\u2b1b\u2b1b\u2b1b\ud83d\udfe8",
+                "\u2b1b\ud83d\udfe8\ud83d\udfe8\u2b1b\u2b1b",
+                "\ud83d\udfe8\u2b1b\u2b1b\ud83d\udfe8\ud83d\udfe8",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1112,
+            "word": "CRUSH",
+            "hardMode": false,
+            "result": "3",
+            "resultValue": 3,
+            "offByOne": false,
+            "guesses": [
+                "\ud83d\udfe9\ud83d\udfe9\u2b1b\u2b1b\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\u2b1b\ud83d\udfe9\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1113,
+            "word": "SCOFF",
+            "hardMode": false,
+            "result": "5",
+            "resultValue": 5,
+            "offByOne": false,
+            "guesses": [
+                "\ud83d\udfe8\u2b1b\u2b1b\u2b1b\u2b1b",
+                "\ud83d\udfe9\u2b1b\u2b1b\ud83d\udfe8\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\u2b1b\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\u2b1b\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1114,
+            "word": "CANON",
+            "hardMode": false,
+            "result": "4",
+            "resultValue": 4,
+            "offByOne": true,
+            "guesses": [
+                "\ud83d\udfe9\u2b1b\ud83d\udfe8\ud83d\udfe8\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\u2b1b\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\u2b1b\ud83d\udfe8",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1115,
+            "word": "SHAPE",
+            "hardMode": false,
+            "result": "4",
+            "resultValue": 4,
+            "offByOne": true,
+            "guesses": [
+                "\u2b1b\u2b1b\ud83d\udfe9\u2b1b\ud83d\udfe9",
+                "\ud83d\udfe8\u2b1b\ud83d\udfe9\u2b1b\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe8\ud83d\udfe9\u2b1b\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1120,
+            "word": "ENACT",
+            "hardMode": false,
+            "result": "2",
+            "resultValue": 2,
+            "offByOne": false,
+            "guesses": [
+                "\ud83d\udfe8\u2b1b\ud83d\udfe9\ud83d\udfe8\ud83d\udfe8",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1122,
+            "word": "SWOON",
+            "hardMode": false,
+            "result": "4",
+            "resultValue": 4,
+            "offByOne": true,
+            "guesses": [
+                "\u2b1b\u2b1b\u2b1b\ud83d\udfe8\u2b1b",
+                "\u2b1b\u2b1b\ud83d\udfe8\u2b1b\ud83d\udfe8",
+                "\ud83d\udfe9\u2b1b\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1134,
+            "word": "JUICE",
+            "hardMode": false,
+            "result": "3",
+            "resultValue": 3,
+            "offByOne": false,
+            "guesses": [
+                "\ud83d\udfe8\u2b1b\u2b1b\u2b1b\ud83d\udfe9",
+                "\u2b1b\ud83d\udfe8\u2b1b\u2b1b\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1135,
+            "word": "SMOCK",
+            "hardMode": false,
+            "result": "5",
+            "resultValue": 5,
+            "offByOne": true,
+            "guesses": [
+                "\ud83d\udfe8\u2b1b\u2b1b\u2b1b\u2b1b",
+                "\u2b1b\u2b1b\u2b1b\ud83d\udfe9\ud83d\udfe9",
+                "\ud83d\udfe9\u2b1b\u2b1b\ud83d\udfe9\ud83d\udfe9",
+                "\ud83d\udfe9\u2b1b\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1137,
+            "word": "FERAL",
+            "hardMode": false,
+            "result": "5",
+            "resultValue": 5,
+            "offByOne": true,
+            "guesses": [
+                "\u2b1b\ud83d\udfe8\ud83d\udfe8\u2b1b\ud83d\udfe8",
+                "\ud83d\udfe8\ud83d\udfe9\ud83d\udfe8\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe9\u2b1b\ud83d\udfe9\ud83d\udfe8",
+                "\u2b1b\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1141,
+            "word": "SCALE",
+            "hardMode": false,
+            "result": "3",
+            "resultValue": 3,
+            "offByOne": false,
+            "guesses": [
+                "\ud83d\udfe8\u2b1b\ud83d\udfe9\u2b1b\ud83d\udfe9",
+                "\u2b1b\ud83d\udfe8\ud83d\udfe9\ud83d\udfe8\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1148,
+            "word": "",
+            "hardMode": false,
+            "result": "4",
+            "resultValue": 4,
+            "offByOne": true,
+            "guesses": [
+                "\ud83d\udfe8\u2b1b\u2b1b\u2b1b\ud83d\udfe8",
+                "\u2b1b\u2b1b\ud83d\udfe8\ud83d\udfe8\ud83d\udfe8",
+                "\ud83d\udfe8\ud83d\udfe9\ud83d\udfe8\ud83d\udfe9\ud83d\udfe9",
                 "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
             ]
         }
@@ -34042,7 +37493,7 @@
         },
         {
             "ID": 1033,
-            "word": "",
+            "word": "TITHE",
             "hardMode": false,
             "result": "5",
             "resultValue": 5,
@@ -34057,7 +37508,7 @@
         },
         {
             "ID": 1034,
-            "word": "",
+            "word": "FACET",
             "hardMode": false,
             "result": "4",
             "resultValue": 4,
@@ -34071,7 +37522,7 @@
         },
         {
             "ID": 1035,
-            "word": "",
+            "word": "RAISE",
             "hardMode": false,
             "result": "6",
             "resultValue": 6,
@@ -34087,7 +37538,7 @@
         },
         {
             "ID": 1036,
-            "word": "",
+            "word": "LUCID",
             "hardMode": false,
             "result": "5",
             "resultValue": 5,
@@ -34102,7 +37553,7 @@
         },
         {
             "ID": 1037,
-            "word": "",
+            "word": "JOLLY",
             "hardMode": false,
             "result": "6",
             "resultValue": 6,
@@ -34118,7 +37569,7 @@
         },
         {
             "ID": 1039,
-            "word": "",
+            "word": "ROVER",
             "hardMode": false,
             "result": "X",
             "resultValue": 6,
@@ -34134,7 +37585,7 @@
         },
         {
             "ID": 1040,
-            "word": "",
+            "word": "OVERT",
             "hardMode": false,
             "result": "5",
             "resultValue": 5,
@@ -34149,7 +37600,7 @@
         },
         {
             "ID": 1041,
-            "word": "",
+            "word": "INTRO",
             "hardMode": false,
             "result": "4",
             "resultValue": 4,
@@ -34163,7 +37614,7 @@
         },
         {
             "ID": 1042,
-            "word": "",
+            "word": "VAPID",
             "hardMode": false,
             "result": "3",
             "resultValue": 3,
@@ -34176,7 +37627,7 @@
         },
         {
             "ID": 1043,
-            "word": "",
+            "word": "GLEAM",
             "hardMode": false,
             "result": "5",
             "resultValue": 5,
@@ -34191,7 +37642,7 @@
         },
         {
             "ID": 1044,
-            "word": "",
+            "word": "PRUNE",
             "hardMode": false,
             "result": "3",
             "resultValue": 3,
@@ -34204,7 +37655,7 @@
         },
         {
             "ID": 1045,
-            "word": "",
+            "word": "CRAFT",
             "hardMode": false,
             "result": "4",
             "resultValue": 4,
@@ -34218,7 +37669,7 @@
         },
         {
             "ID": 1047,
-            "word": "",
+            "word": "DIARY",
             "hardMode": false,
             "result": "3",
             "resultValue": 3,
@@ -34231,7 +37682,7 @@
         },
         {
             "ID": 1048,
-            "word": "",
+            "word": "SLICE",
             "hardMode": false,
             "result": "4",
             "resultValue": 4,
@@ -34245,7 +37696,7 @@
         },
         {
             "ID": 1049,
-            "word": "",
+            "word": "EBONY",
             "hardMode": false,
             "result": "5",
             "resultValue": 5,
@@ -34260,7 +37711,7 @@
         },
         {
             "ID": 1050,
-            "word": "",
+            "word": "VALUE",
             "hardMode": false,
             "result": "4",
             "resultValue": 4,
@@ -34274,7 +37725,7 @@
         },
         {
             "ID": 1051,
-            "word": "",
+            "word": "DECAL",
             "hardMode": false,
             "result": "4",
             "resultValue": 4,
@@ -34288,7 +37739,7 @@
         },
         {
             "ID": 1052,
-            "word": "",
+            "word": "SHAVE",
             "hardMode": false,
             "result": "4",
             "resultValue": 4,
@@ -34302,7 +37753,7 @@
         },
         {
             "ID": 1053,
-            "word": "",
+            "word": "MUSTY",
             "hardMode": false,
             "result": "5",
             "resultValue": 5,
@@ -34317,7 +37768,7 @@
         },
         {
             "ID": 1054,
-            "word": "",
+            "word": "PIOUS",
             "hardMode": false,
             "result": "5",
             "resultValue": 5,
@@ -34328,6 +37779,410 @@
                 "\u2b1b\ud83d\udfe9\u2b1b\ud83d\udfe9\ud83d\udfe9",
                 "\u2b1b\ud83d\udfe9\u2b1b\ud83d\udfe9\ud83d\udfe9",
                 "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1055,
+            "word": "JERKY",
+            "hardMode": false,
+            "result": "4",
+            "resultValue": 4,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\u2b1b\u2b1b\ud83d\udfe8\u2b1b",
+                "\ud83d\udfe8\ud83d\udfe9\u2b1b\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe9\ud83d\udfe9\u2b1b\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1056,
+            "word": "MEDIA",
+            "hardMode": false,
+            "result": "6",
+            "resultValue": 6,
+            "offByOne": false,
+            "guesses": [
+                "\ud83d\udfe8\ud83d\udfe8\ud83d\udfe8\ud83d\udfe8\u2b1b",
+                "\ud83d\udfe8\ud83d\udfe8\u2b1b\u2b1b\ud83d\udfe8",
+                "\ud83d\udfe8\ud83d\udfe8\ud83d\udfe8\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe8\u2b1b\ud83d\udfe8\ud83d\udfe8",
+                "\ud83d\udfe8\ud83d\udfe8\ud83d\udfe9\ud83d\udfe8\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1057,
+            "word": "TIDAL",
+            "hardMode": false,
+            "result": "4",
+            "resultValue": 4,
+            "offByOne": false,
+            "guesses": [
+                "\ud83d\udfe8\ud83d\udfe8\ud83d\udfe8\u2b1b\u2b1b",
+                "\ud83d\udfe8\ud83d\udfe9\u2b1b\u2b1b\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\u2b1b\u2b1b\ud83d\udfe8",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1058,
+            "word": "OUTER",
+            "hardMode": false,
+            "result": "X",
+            "resultValue": 6,
+            "offByOne": true,
+            "guesses": [
+                "\u2b1b\u2b1b\u2b1b\ud83d\udfe9\ud83d\udfe8",
+                "\u2b1b\ud83d\udfe9\ud83d\udfe8\ud83d\udfe8\u2b1b",
+                "\u2b1b\ud83d\udfe9\u2b1b\ud83d\udfe9\ud83d\udfe9",
+                "\ud83d\udfe8\ud83d\udfe9\u2b1b\ud83d\udfe9\ud83d\udfe9",
+                "\u2b1b\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9",
+                "\u2b1b\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1059,
+            "word": "CUMIN",
+            "hardMode": false,
+            "result": "4",
+            "resultValue": 4,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\u2b1b\ud83d\udfe8\u2b1b\ud83d\udfe8",
+                "\u2b1b\ud83d\udfe9\u2b1b\ud83d\udfe9\u2b1b",
+                "\ud83d\udfe8\ud83d\udfe9\u2b1b\ud83d\udfe9\ud83d\udfe8",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1060,
+            "word": "AMASS",
+            "hardMode": false,
+            "result": "6",
+            "resultValue": 6,
+            "offByOne": false,
+            "guesses": [
+                "\ud83d\udfe9\u2b1b\u2b1b\u2b1b\u2b1b",
+                "\ud83d\udfe9\u2b1b\u2b1b\u2b1b\u2b1b",
+                "\ud83d\udfe9\u2b1b\u2b1b\u2b1b\u2b1b",
+                "\ud83d\udfe9\u2b1b\ud83d\udfe9\u2b1b\u2b1b",
+                "\ud83d\udfe9\u2b1b\ud83d\udfe9\ud83d\udfe9\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1061,
+            "word": "PINCH",
+            "hardMode": false,
+            "result": "5",
+            "resultValue": 5,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\u2b1b\ud83d\udfe8\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe9\u2b1b\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe9\ud83d\udfe9\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1062,
+            "word": "STALL",
+            "hardMode": false,
+            "result": "6",
+            "resultValue": 6,
+            "offByOne": false,
+            "guesses": [
+                "\ud83d\udfe8\u2b1b\u2b1b\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe8\ud83d\udfe8\u2b1b\u2b1b",
+                "\ud83d\udfe8\u2b1b\u2b1b\ud83d\udfe8\ud83d\udfe9",
+                "\u2b1b\u2b1b\ud83d\udfe8\ud83d\udfe8\ud83d\udfe9",
+                "\u2b1b\ud83d\udfe8\ud83d\udfe8\u2b1b\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1063,
+            "word": "TUTOR",
+            "hardMode": false,
+            "result": "X",
+            "resultValue": 6,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\u2b1b\u2b1b\u2b1b\ud83d\udfe8",
+                "\u2b1b\ud83d\udfe8\ud83d\udfe8\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe9\ud83d\udfe8\ud83d\udfe8\u2b1b",
+                "\u2b1b\ud83d\udfe9\u2b1b\ud83d\udfe8\ud83d\udfe8",
+                "\u2b1b\ud83d\udfe9\u2b1b\ud83d\udfe9\ud83d\udfe8",
+                "\ud83d\udfe9\ud83d\udfe9\u2b1b\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1064,
+            "word": "BRINY",
+            "hardMode": false,
+            "result": "4",
+            "resultValue": 4,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\u2b1b\ud83d\udfe9\u2b1b\u2b1b",
+                "\u2b1b\u2b1b\ud83d\udfe9\ud83d\udfe9\u2b1b",
+                "\u2b1b\u2b1b\ud83d\udfe9\ud83d\udfe9\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1065,
+            "word": "HITCH",
+            "hardMode": false,
+            "result": "5",
+            "resultValue": 5,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\u2b1b\ud83d\udfe8\u2b1b\u2b1b",
+                "\u2b1b\u2b1b\ud83d\udfe8\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe9\ud83d\udfe8\u2b1b\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\u2b1b\u2b1b\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1067,
+            "word": "DINGO",
+            "hardMode": false,
+            "result": "4",
+            "resultValue": 4,
+            "offByOne": true,
+            "guesses": [
+                "\u2b1b\u2b1b\u2b1b\ud83d\udfe8\ud83d\udfe8",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1070,
+            "word": "GLIDE",
+            "hardMode": false,
+            "result": "4",
+            "resultValue": 4,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\ud83d\udfe8\ud83d\udfe9\ud83d\udfe8\u2b1b",
+                "\u2b1b\ud83d\udfe8\ud83d\udfe9\u2b1b\u2b1b",
+                "\ud83d\udfe8\u2b1b\ud83d\udfe9\u2b1b\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1071,
+            "word": "TITAN",
+            "hardMode": false,
+            "result": "3",
+            "resultValue": 3,
+            "offByOne": false,
+            "guesses": [
+                "\ud83d\udfe8\u2b1b\ud83d\udfe8\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe9\ud83d\udfe8\u2b1b\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1072,
+            "word": "BEVEL",
+            "hardMode": false,
+            "result": "5",
+            "resultValue": 5,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\u2b1b\u2b1b\ud83d\udfe9\u2b1b",
+                "\u2b1b\u2b1b\u2b1b\ud83d\udfe9\u2b1b",
+                "\u2b1b\u2b1b\ud83d\udfe8\ud83d\udfe9\u2b1b",
+                "\ud83d\udfe8\ud83d\udfe9\u2b1b\ud83d\udfe9\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1073,
+            "word": "SKIER",
+            "hardMode": false,
+            "result": "4",
+            "resultValue": 4,
+            "offByOne": true,
+            "guesses": [
+                "\u2b1b\u2b1b\ud83d\udfe9\ud83d\udfe9\u2b1b",
+                "\u2b1b\u2b1b\ud83d\udfe9\ud83d\udfe9\ud83d\udfe8",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1074,
+            "word": "MINUS",
+            "hardMode": false,
+            "result": "5",
+            "resultValue": 5,
+            "offByOne": true,
+            "guesses": [
+                "\u2b1b\u2b1b\ud83d\udfe8\u2b1b\ud83d\udfe8",
+                "\u2b1b\ud83d\udfe8\ud83d\udfe8\ud83d\udfe8\u2b1b",
+                "\ud83d\udfe8\ud83d\udfe8\u2b1b\ud83d\udfe8\u2b1b",
+                "\u2b1b\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1075,
+            "word": "PAPAL",
+            "hardMode": false,
+            "result": "X",
+            "resultValue": 6,
+            "offByOne": false,
+            "guesses": [
+                "\ud83d\udfe8\u2b1b\u2b1b\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe9\u2b1b\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe9\u2b1b\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe9\u2b1b\u2b1b\ud83d\udfe8",
+                "\ud83d\udfe8\ud83d\udfe9\u2b1b\ud83d\udfe9\u2b1b",
+                "\u2b1b\ud83d\udfe9\ud83d\udfe8\ud83d\udfe9\ud83d\udfe8"
+            ]
+        },
+        {
+            "ID": 1076,
+            "word": "GUMMY",
+            "hardMode": false,
+            "result": "6",
+            "resultValue": 6,
+            "offByOne": true,
+            "guesses": [
+                "\u2b1b\u2b1b\u2b1b\u2b1b\ud83d\udfe8",
+                "\u2b1b\u2b1b\ud83d\udfe8\u2b1b\ud83d\udfe9",
+                "\u2b1b\ud83d\udfe9\u2b1b\u2b1b\ud83d\udfe9",
+                "\u2b1b\ud83d\udfe9\u2b1b\u2b1b\ud83d\udfe9",
+                "\u2b1b\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1077,
+            "word": "CHAOS",
+            "hardMode": false,
+            "result": "4",
+            "resultValue": 4,
+            "offByOne": true,
+            "guesses": [
+                "\ud83d\udfe8\u2b1b\u2b1b\u2b1b\u2b1b",
+                "\ud83d\udfe9\u2b1b\ud83d\udfe9\u2b1b\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe8\ud83d\udfe9\u2b1b\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1078,
+            "word": "BASIN",
+            "hardMode": false,
+            "result": "4",
+            "resultValue": 4,
+            "offByOne": true,
+            "guesses": [
+                "\ud83d\udfe8\u2b1b\ud83d\udfe8\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe8\ud83d\udfe8\u2b1b\ud83d\udfe8",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1079,
+            "word": "BRAVO",
+            "hardMode": false,
+            "result": "5",
+            "resultValue": 5,
+            "offByOne": false,
+            "guesses": [
+                "\ud83d\udfe8\u2b1b\u2b1b\u2b1b\u2b1b",
+                "\u2b1b\u2b1b\ud83d\udfe9\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe9\ud83d\udfe9\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe9\ud83d\udfe9\u2b1b\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1081,
+            "word": "GROOM",
+            "hardMode": false,
+            "result": "5",
+            "resultValue": 5,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\u2b1b\u2b1b\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe8\ud83d\udfe8\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe9\ud83d\udfe9\u2b1b\ud83d\udfe8",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\u2b1b\u2b1b",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1082,
+            "word": "ORGAN",
+            "hardMode": false,
+            "result": "6",
+            "resultValue": 6,
+            "offByOne": true,
+            "guesses": [
+                "\ud83d\udfe8\u2b1b\u2b1b\u2b1b\u2b1b",
+                "\ud83d\udfe8\ud83d\udfe8\ud83d\udfe8\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe9\ud83d\udfe8\ud83d\udfe8\u2b1b",
+                "\u2b1b\ud83d\udfe9\ud83d\udfe8\u2b1b\ud83d\udfe9",
+                "\ud83d\udfe8\ud83d\udfe9\ud83d\udfe8\ud83d\udfe9\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1083,
+            "word": "ETHER",
+            "hardMode": false,
+            "result": "5",
+            "resultValue": 5,
+            "offByOne": false,
+            "guesses": [
+                "\u2b1b\u2b1b\u2b1b\ud83d\udfe9\u2b1b",
+                "\u2b1b\u2b1b\u2b1b\ud83d\udfe9\u2b1b",
+                "\u2b1b\ud83d\udfe8\ud83d\udfe8\ud83d\udfe9\ud83d\udfe8",
+                "\u2b1b\ud83d\udfe8\ud83d\udfe8\ud83d\udfe9\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1084,
+            "word": "MELON",
+            "hardMode": false,
+            "result": "6",
+            "resultValue": 6,
+            "offByOne": true,
+            "guesses": [
+                "\u2b1b\u2b1b\u2b1b\ud83d\udfe8\u2b1b",
+                "\ud83d\udfe8\ud83d\udfe8\u2b1b\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe8\ud83d\udfe8\ud83d\udfe8\u2b1b",
+                "\ud83d\udfe8\ud83d\udfe8\ud83d\udfe8\ud83d\udfe8\u2b1b",
+                "\u2b1b\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9",
+                "\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
+            ]
+        },
+        {
+            "ID": 1085,
+            "word": "HENCE",
+            "hardMode": false,
+            "result": "X",
+            "resultValue": 6,
+            "offByOne": true,
+            "guesses": [
+                "\u2b1b\u2b1b\u2b1b\ud83d\udfe8\u2b1b",
+                "\u2b1b\ud83d\udfe9\ud83d\udfe8\u2b1b\u2b1b",
+                "\u2b1b\ud83d\udfe9\ud83d\udfe9\ud83d\udfe8\u2b1b",
+                "\u2b1b\ud83d\udfe9\ud83d\udfe9\u2b1b\ud83d\udfe9",
+                "\u2b1b\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9",
+                "\u2b1b\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9\ud83d\udfe9"
             ]
         }
     ]
