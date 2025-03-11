@@ -2,7 +2,7 @@
 Discord Wordle Processor
 </h1>
 
-![A screenshot of https://ramity.github.io/discord-wordle-processor/ showing a leaderboard and their respective average scores across all games](https://github.com/user-attachments/assets/0ab02af0-f311-4c75-ab3f-c71cc9328c4c)
+![A screenshot of https://ramity.github.io/discord-wordle-processor/ showing a leaderboard and their respective average scores across all games](https://github.com/user-attachments/assets/13b3c900-7cec-48fe-92fd-1e59687d1547)
 
 > Do you have a discord channel where you and your friends post your daily wordles? Have you ever wanted to know who ranks supreme? If so, this repo is for you.
 
