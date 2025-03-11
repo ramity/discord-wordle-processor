@@ -44,18 +44,18 @@ docker compose up -d
 
 # Usage
 
-Enter the created `discord_bot` docker container:
+Enter the created `wordle_discord` docker container:
 
 > (Linux/Unix)
 >
 > ```
-> docker exec -it discord_bot bash
+> docker exec -it wordle_discord bash
 > ```
 >
 > (Windows)
 >
 > ```
-> winpty docker exec -it discord_bot bash
+> winpty docker exec -it wordle_discord bash
 > ```
 
 Run the `scrape.py` script to generate a `dump.pkl` file:
@@ -71,9 +71,6 @@ Logged on as WordleBot#9999
 Pulling messages from the #wordle text channel
 Calculating stats
 Complete
-Unclosed connector
-connections: ['[(<aiohttp.client_proto.ResponseHandler object at 0x0>, 0.0)]']
-connector: <aiohttp.connector.TCPConnector object at 0x0>
 ```
 
 When complete, exit the container via the `exit` command.
